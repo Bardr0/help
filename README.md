@@ -41,20 +41,20 @@ width=50%"/>
 
 |Criterio Especifico|Acciones Realizadas|
 |-------------------|-------------------|
-| La capacidad de funcionar efectivamente en un
+|La capacidad de funcionar efectivamente en un
 equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de
-colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos | Para abordar el Student Outcome 5 de ABET - EAC, se implementaron diversas estrategias centradas en fortalecer las habilidades de trabajo en equipo de los estudiantes. Esto se logró mediante la asignación de proyectos colaborativos que requerían una planificación conjunta de tareas y la consecución de objetivos definidos. Además, se promovió activamente la participación en actividades que permitían a los estudiantes asumir roles de liderazgo, facilitando así el desarrollo de habilidades de liderazgo efectivas. Para crear un entorno de colaboración e inclusión, se fomentaron valores de respeto mutuo, diversidad de opiniones y trabajo armonioso hacia metas comunes. |
+colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos| Para abordar el Student Outcome 5 de ABET - EAC, se implementaron diversas estrategias centradas en fortalecer las habilidades de trabajo en equipo de los estudiantes. Esto se logró mediante la asignación de proyectos colaborativos que requerían una planificación conjunta de tareas y la consecución de objetivos definidos. Además, se promovió activamente la participación en actividades que permitían a los estudiantes asumir roles de liderazgo, facilitando así el desarrollo de habilidades de liderazgo efectivas. Para crear un entorno de colaboración e inclusión, se fomentaron valores de respeto mutuo, diversidad de opiniones y trabajo armonioso hacia metas comunes. |
 
 ## Contenido
 
 1. **Capítulo #1: Introducción.**
-   1.1 Startup Profile.
-        1.1.1 Descripción del startup.
-        1.1.2. Perfiles de los integrantes del equipo.
-    1.2. Solution Profile.
-        1.2.1 Antecedentes y Problemática.
-        1.2.2 Lean UX Process.        
-    1.3. Segmentos objetivo.
+   i. Startup Profile.
+        a. Descripción del startup.
+        b. Perfiles de los integrantes del equipo.
+    ii.Solution Profile.
+        a. Antecedentes y Problemática.
+        b. Lean UX Process.        
+    iii. Segmentos objetivo.
 
 2. **Capítulo #2: Requirements Elicitation & Amalysis.**
     2.1. Competidores.
