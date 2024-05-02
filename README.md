@@ -35,7 +35,11 @@ width=50%"/>
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
 | 1.0       | 13/04/2024 | Rodrigo Adrián Lopez Huamán U202212338, Harold Miguel Elías Sanchez U202212684, Rodrigo Jesús Salvador Rodríguez U202213646, Alejandro Nicolas Barturen Guzman U202214406, Victor Manuel Meneses Arévalo U202212191 | Realizacion del documento |  COMPLETADO |
+|  TP       | 02/05/2024 | Rodrigo Adrián Lopez Huamán U202212338, Harold Miguel Elías Sanchez U202212684, Rodrigo Jesús Salvador Rodríguez U202213646, Alejandro Nicolas Barturen Guzman U202214406, Victor Manuel Meneses Arévalo U202212191 | Segunda versión del Proyecto Final (TP). Se desarrollaron todos los contenidos solicitados para el segundo avance. (Avance del frontend web application y sprint 2) | COMPLETADO |
 
+## Project Report Collaboration Insights:
+![image](imgs/project-collaboration-insights-a.png)
+![image](imgs/project-collaboration-insights-b.png)
 
 ### Student Outcome
 
