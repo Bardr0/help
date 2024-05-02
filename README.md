@@ -681,11 +681,19 @@ La navegación en Stocker se ha diseñado de manera intuitiva y fluida, permitie
  
 ### 4.4. **Web Applications UX/UI Design.**
 ####    4.4.1. Web Applications Wireframes.
- 
+![webwireframe](imgs/web-wireframe-a.png)
+![webwireframe](imgs/web-wireframe-b.png)
+![webwireframe](imgs/web-wireframe-c.png)
+![webwireframe](imgs/web-wireframe-d.png)
+![webwireframe](imgs/web-wireframe-e.png)
  
 
 ####    4.4.2. Web Applications Mock-ups.
- 
+![webmockup](imgs/web-mockups-a.png)
+![webmockup](imgs/web-mockups-b.png)
+![webmockup](imgs/web-mockups-c.png)
+![webmockup](imgs/web-mockups-d.png)
+![webmockup](imgs/web-mockups-e.png)
 
 ####    4.4.3. Web Applications User Flow Diagrams.
 Los diagramas de flujo de usuarios en aplicaciones web son representaciones visuales que muestran el camino que sigue un usuario a través de una aplicación, desde el inicio hasta la finalización de una tarea o proceso específico. Estos diagramas son útiles para comprender cómo los usuarios interactúan con la aplicación y pueden ayudar a identificar posibles áreas de mejora en la experiencia del usuario.
