@@ -293,46 +293,35 @@ En base a nuestra investigación, hemos identificado los siguientes tres posible
 
 ####     2.1.2. Estrategias y tácticas frente a competidores.
 
+- **Enfocarse completamente en el nicho:** Nuestra ya está diseñada específicamente para funcionar con microempresas, Así que seguiremos por ese camino y adaptamos todo nuestro sistema para la comodidad y adaptabilidad  de estas mismas }
 
-##### Mostrar vendedores nuevos: La página principal también contará con la opción de visualizar la ropa recién puesta en renta, de modo que los nuevos vendedores tengan oportunidad de ser notados
+- **Potenciar la personalización y flexibilidad:** Nuestra aplicación está diseñada para que los usuarios puedan personalizarla en base a las necesidades de su negocio y que sea intuitiva de usar. Así que, se implementan nuevas funciones para que faciliten la adaptabilidad del usuario, como agregar tutoriales o guías      
 
-##### Mostrar reseñas: Los vendedores serán calificados por los usuarios, permitiendo a los demás usuarios alquilar ropa con confianza
 
-##### Remarcar tipos de vestimenta: Se mostrarán filtros para elegir las distintas clases de ropa que poseemos, dándole a entender al usuario la amplia variedad de opciones que tiene
+- **Precio atractivo:** Buscaremos un equilibrio entre el servicio gratuito y el servicio premium para que ambos tipos de usuarios se encuentren satisfechos  
+
 
 
 ### 2.2. **Entrevistas.**
 
 ####     2.2.1. Diseño de entrevistas.
 
-#### **Segmento Objetivo 1: Consumidores conscientes de la moda**
- 
-- ¿Cuál es su nombre completo?
-- ¿Qué edad tiene?
-- ¿Donde suele buscar su ropa para eventos sociales?
-- ¿En alguna ocasiones le ha resultado difícil encontrar una prenda específica para algún evento?
-- ¿Cuál es el mayor desafío que usted se encuentra al momento de buscar la vestimenta adecuada para un evento social ?
-  
-**(Preguntas específicas para el segmento:)**
-- ¿Con qué frecuencia asistes a eventos sociales que requieren una vestimenta especial?
-- ¿Suele demorar en encontrar prendas a su gusto para asistir a estos tipos de eventos?
-- ¿Qué tan interesado estás en alquilar una prenda para un evento , consideras que es más sostenible para el medio ambiente? 
+#### **Segmento Objetivo 1:Dueños de Librerias**
+- ¿Cuáles son los principales desafíos que enfrentas en la gestión de tu librería?
+- ¿Qué características consideras esenciales en un sistema de gestión empresarial para librerías?
+- ¿Cómo te gustaría que el sistema ayudara a mejorar la gestión de inventario y transacciones de venta?
+- ¿Qué tipo de soporte o capacitación necesitarías para implementar y utilizar eficazmente el sistema?
 
 
-<br>
+#### **Segmento Objetivo 2: Dueños de Ferreterias**
 
-#### **Segmento Objetivo 2: Propietarios de prendas y accesorios**
-- ¿Cuál es su nombre completo?
-- ¿Qué edad tiene?
-- ¿Donde suele buscar su ropa para eventos sociales?
-- ¿En alguna ocasiones le ha resultado difícil encontrar una prenda específica para algún evento?
 
-**(Preguntas específicas para el segmento:)**
-- ¿Qué lo motivó a considerar la idea de alquilar sus prendas y accesorios?
-- ¿Qué tipo de prendas y accesorios estaría dispuesto a alquilar?
-- ¿Considera que al poner sus prendas en alquiler puede contribuir a reducir el desperdicio de moda?
-- ¿Cómo crees que el alquiler de tus prendas y accesorios podría beneficiarte?
-- ¿Qué tan importante es para ti la sostenibilidad y la ecoconciencia al decidir alquilar tus prendas y accesorios?
+#### **Segmento Objetivo 3: Dueños de Bodegas**
+- ¿Qué desafíos en la gestión de tu bodega te gustaría abordar con un sistema de gestión empresarial?
+- ¿Qué características consideras esenciales para gestionar inventario, proveedores y logística de almacenamiento y entrega?
+- ¿Cómo te gustaría que el sistema facilitara la gestión de clientes y la personalización de promociones?
+- ¿Qué tipo de análisis de mercado te gustaría poder realizar para optimizar las ventas y la eficiencia operativa?
+
 
 
 
@@ -342,62 +331,82 @@ En base a nuestra investigación, hemos identificado los siguientes tres posible
 ##### *Entrevista 1:* 
 *Segmento 1*
 #### Sexo: 
-Masculino
+Femenino
 #### Edad: 
-22
+61
 ####Ubicación: 
 Pueblo Libre
 #### Link: 
-[Entrevista1](https://drive.google.com/file/d/1tr9UEtZp96kZAB-MYiY1wwgAIN4c8L-n/view?usp=sharing)
+[Entrevista1](https://youtu.be/3LFFYc8qpWY)
 #### Duración: 
-2:50
+4:10
 #### Resumen: 
-Nicolas suele buscar sus prendas en las marcas que ya conoce y ha probado, en pocas ocasión no ha podido encontrar la prenda deseada para un conjunto de vestimenta en específico, en estos casos tuvo que cambiar por completo su idea principal de vestimenta. Cada que quiere una prenda siempre se fija en los materiales, siempre descartando materiales sintéticos, por eso considera importante revisar el porcentaje de algodón en una prenda ya que influye en su decisión al momento de comprar. Por otro lado, en las reuniones a las que asiste con amistades suele asistir con ropa casual y debía a que, solamente estudiando, las reuniones con ropa formal son muy poco habituales 
-
+En la entrevista con el propietario de una librería, se destacó la necesidad de un sistema que permita un control sencillo de los productos y detalles de ingresos y egresos por día, semana y mes. El entrevistado expresó su deseo de tener un sistema que facilite el manejo de pagos tanto en línea como en efectivo, así como la capacidad de registrar gastos como electricidad y agua. Se mencionó la importancia de funciones con voz para búsqueda de productos y ventas, y la conexión directa con la plataforma de SUNAT para facturaciones. Se valoró la interfaz sencilla y didáctica, especialmente para dispositivos móviles, y la posibilidad de soporte por chat y capacitación presencial. Además, se enfatizó la necesidad de un sistema que permita un seguimiento detallado de los ingresos y egresos, facilitando así la toma de decisiones informadas sobre la gestión del negocio.
 
 ##### *Entrevista 2:* 
 *Segmento 2*
 #### Sexo: 
 Masculino
 #### Edad: 
-19
+23
 #### Ubicación: 
-San Miguel
+San Miguel, Lima
 #### Link:
-[Entrevista2](https://drive.google.com/file/d/1VR7aKPYC2SbDGGKgvwq5vhcAfPMW6kuM/view?usp=sharing)
+[Entrevista2](https://youtu.be/m7QYNou6Ato)
 #### Duración: 
-3:35
+2:35
 #### Resumen:
-El entrevistado suele realizar sus compran en gamarra, o en distintas tiendas de marcas, por lo que generalmente no tiene problemas para encontrar prendas. Respecto al alquiler de ropa, se encuentra interesado exclusivamente en el alquiler de ropa que sea usada en ocasiones especiales, como por ejemplo un terno, debido a que no suelen ser usadas frecuentemente. Finalmente, coincide en que el alquiler de ropa ayuda a disminuir la contaminación, siendo algo especialmente necesario en estos tiempos debido a la amenaza de la contaminación.
-
+En la entrevista con el gerente de un restaurante, se enfatizó la necesidad de optimizar la administración del ingreso y salida de productos y dinero. Se deseaba una herramienta en vivo que notifique a todos los perfiles sobre las entradas y salidas del negocio, una opción más dinámica para realizar comprobantes de pago y una función para visualizar las utilidades en intervalos de tiempo. Se buscaba la capacidad de hacer comparaciones entre las utilidades de distintos periodos, lo cual es crucial para la planificación y el análisis de la rentabilidad del negocio. Se destacó la importancia de un sistema que permita una gestión eficiente de los recursos y una mejor visibilidad sobre las operaciones diarias.
 
 ##### *Entrevista 3:*
-*Segmento 2*
+*Segmento 3*
 #### Sexo: 
 Femenino
 #### Edad: 
-25
+54
 #### Ubicación: 
-Ate Vitarte
+Callao, Lima
 #### Link:
-[Entrevista3](https://youtu.be/gAE-CfzRKqs)
+[Entrevista3](https://youtu.be/ysFA6OwSMGI)
 #### Duración: 
-3:42
+4:38
 #### Resumen: 
-La entrevista fue con Sandy Ingaruca, de 25 años, quien busca su ropa para eventos sociales en tiendas locales y en línea, priorizando marcas que se ajusten a su estilo. A veces le resulta difícil encontrar prendas específicas para eventos. Se motivó a considerar el alquiler de sus prendas para ganar dinero extra y reducir el desperdicio de moda. Estaría dispuesta a alquilar prendas como vestidos de fiesta, trajes formales, y accesorios. Cree que al alquilar sus prendas puede contribuir a reducir el desperdicio de moda. Considera importante la sostenibilidad y la ecoconciencia al decidir alquilar sus prendas.
+En la entrevista con el dueño de una bodega, se identificó el principal desafío como la falta de digitalización del inventario, lo que dificulta la escalabilidad del negocio. Se mencionó la dificultad para saber en qué categoría de productos se encuentra más estancada y la necesidad de llevar un registro de las fechas de caducidad de los perecibles para evitar pérdidas. Se deseaban alertas para los perecibles próximos a su caducidad, un balance de ventas por categoría y facilidad para el registro de comprobantes de compra y venta. Además, se buscaba la conexión con un chat grupal para realizar envíos de mensajes promocionales sobre productos rezagados. Se enfatizó la importancia de un sistema que permita una gestión eficiente del inventario y una mejor comunicación con los clientes, lo cual es esencial para mantener la satisfacción del cliente y maximizar las ventas.
 
 
 ####     2.2.3. Análisis de entrevistas.
 
+#### Segmento #1:
 
-#### **Entrevista 1:**
-Nicolas: Se destaca su preferencia por marcas conocidas y la importancia que otorga a los materiales de las prendas, prefiriendo evitar materiales sintéticos. También se menciona que en sus reuniones con amigos suele vestir de forma casual, ya que las ocasiones formales son poco habituales para él. En cuanto al alquiler de ropa, parece estar más enfocado en prendas para ocasiones especiales como un terno, que no suele usar con frecuencia.
+**Hallazgos:**
 
-#### **Entrevista 2:**
-Franco: Este entrevistado suele comprar en lugares específicos como Gamarra y tiendas de marcas, lo que facilita encontrar prendas. Está interesado en el alquiler de ropa para ocasiones especiales, como un terno, que no se usaría con frecuencia. Coincide en que el alquiler de ropa puede ayudar a reducir la contaminación, lo que muestra su conciencia ambiental.
+- Necesidades de Gestión Integral: La persona entrevistada nos comenta que uno de sus principales problemas es la necesidad de un sistema completo que le permita administrar de manera efectiva tanto el inventario de productos como los aspectos financieros de su empresa. Esto incluye un seguimiento detallado de los ingresos y egresos por períodos específicos, como día, semana y mes.
 
-#### **Entrevista 3:**
-Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tiendas locales y en línea, buscando marcas que se ajusten a su estilo. A veces le resulta difícil encontrar prendas específicas para eventos, lo que puede reflejar una mayor exigencia en cuanto a sus elecciones de vestuario. Se destaca su motivación para considerar el alquiler de prendas, que incluye ganar dinero extra y reducir el desperdicio de moda. Está dispuesta a alquilar prendas para ocasiones especiales y considera importante la sostenibilidad al decidir alquilar sus prendas.
+- Facilidades en los Procesos de Pago y Facturación: La persona que fue entrevistada nos comenta sobre la importancia de tener opciones de pagos flexibles para poder realizar pagos en efectivo y en línea.  También nos comentó que es muy importante el tener conexión de manera directa con SUNAT para el tema de facturas.
+
+- Experiencia del Usuario y Soporte: El hecho de tener una interfaz fácil de usar y que se adapte a distintos dispositivos, es muy crucial para el buen uso de los usuarios.
+
+#### Segmento #2:
+
+**Hallazgos:**
+
+- Optimización de la Gestión Operativa: En la entrevista se hizo énfasis en la falta de optimización para la administración de productos y ventas del restaurante. 
+
+- Mejoras en los Procesos de Facturación y Contabilidad: Se comentó sobre el deseo de tener el acceso a una manera más dinámica para la realización de comprobantes de pago, se habla sobre la importancia de simplificar y agilizar dichos procesos.
+
+- Análisis Avanzado para la Toma de Decisiones: Se destacó la importancia de disponer de herramientas que permitan visualizar las utilidades en intervalos de tiempo y comparar los resultados entre distintos periodos. 
+
+
+ 
+#### Segmento #3:
+
+**Hallazgos:**
+
+- Necesidad de Digitalización del Inventario: La persona entrevistada nos comenta que uno de sus desafíos es la falta de digitalización del inventario, dado que, esto trae dificultades para el negocio. 
+
+- Gestión Efectiva de Productos Perecibles: Se mencionó la dificultad para llevar un registro de las fechas de caducidad de los productos perecibles y la necesidad de evitar pérdidas asociadas con la falta de seguimiento. 
+
+- Mejora en la Gestión de Ventas y Comunicación con los Clientes: Se expresó el interés en contar con un balance de ventas por categoría de productos, lo que proporcionaría una visión clara sobre el rendimiento de cada línea de productos y facilitaría la toma de decisiones estratégicas.
 
 
 
@@ -405,780 +414,210 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 ####     2.3.1. User Personas.
 
-## Segmento 2
-
-![image](Images/UserPersona.png)
-
 ## Segmento 1
-![image](Images/UserPersona2.png)
+
+![image](imgs/user-persona-1.png)
+
+## Segmento 2
+![image](imgs/user-persona-2.png)
+
+## Segmento 3
+![image](imgs/user-persona-3.png)
 
 ####     2.3.2. User Task Matrix.
 
-![image](Images/userTaskMatrix.png)
+
+## Segmento 1
+
+| Tarea/Función | Frecuencia | Importancia |
+|---|---|---|
+| Implementar sistema de control de ingresos y egresos    | Alta    | Alta |
+| Supervisar gestión de pagos    | Alta    | Alta    |
+| Registrar gastos como electricidad y agua    | Alta    | Alta |
+|  Conectar con la plataforma de SUNAT para   facturaciones    | Media | Alta |
+
+
+## Segmento 2
+
+| Tarea/Función | Frecuencia | Importancia |
+|---|---|---|
+| Implementar sistema de inventario digital    | Alta    | Alta |
+| Analizar ventas por categoría    | Alta    | Alta    |
+| Gestionar registro de comprobantes    | Alta    | Alta |
+| Administrar chat grupal con clientes    | Media | Alta |
+
+
+## Segmento 3
+
+| Tarea/Función | Frecuencia | Importancia |
+|---|---|---|
+| Implementar sistema de inventario digital    | Alta    | Alta |
+| Analizar ventas por categoría    | Alta    | Alta    |
+| Gestionar registro de comprobantes    | Alta    | Alta |
+| Administrar chat grupal con clientes    | Media | Alta |
 
 ####     2.3.3. User Journey Mapping.
 
-![image](Images/UserJourneyMap.png)
+![image](imgs/user-journey-mapping.png)
 
 ####     2.3.4. Empathy Mapping.
 
-![image](Images/EmpathyMap.png)
+![image](imgs/empathy-mapping-1.png)
+
+![image](imgs/empathy-mapping-2.png)
+
 
 ####     2.3.5. As-is Scenario Mapping.
 
-![image](Images/AsIsSM.png)
-
-####     2.4. Ubiquitous Language.
-
-![image](Images/UbiquitousL.png)
-
+![image](imgs/as-is-scenario-mapping.png)
+ 
 
 ## Capítulo III: Requirements Specification
 
 ### 3.1 **To-Be Scenario Mapping.**
 
-#### Segmento 1
-
-| Fase                        | Doing                                                                                                             | Thinking                                                                                                           | Feeling                                                                                             |
-|-----------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Registrarse en StyleShare** | - Me registro desde un dispositivo en la aplicación “StyleShare”.<br> - Relleno los datos solicitados y me creo una cuenta.  |  - El diseño de la interfaz me agrada.<br> - Debo enfocarme en buscar ropa de buena calidad.                           | - Ansiosa por explorar las funciones y opciones que me ofrece la aplicación.                          |
-| **Búsqueda de prendas de vestir**   | - Inicio sesión.<br> - Utilizo filtros de búsqueda y las categorías para minimizar la cantidad de productos y ahorrar tiempo.                                            | - La gran variedad de filtros puede ayudar a encontrar lo que quiera de manera mucho más rápida.                   | - Ansiosa por encontrar la ropa que necesito.                                                       |
-| **Selección de ropa**               | - Selecciono una prenda de mi interés y veo sus detalles.<br> - Selecciono la opción de compartir con amigos para que puedan darme sus opiniones. - Verifico si el vendedor es confiable mediante su historial de ventas.<br>      | - Debo comprar de los vendedores más destacados para no sufrir pérdidas y obtener buena calidad de ropa.          | - Desesperada por encontrar un vendedor con buenos comentarios.                                       |
-| **Finalización de la transacción**  |  - Me decido y realizo el pago, seleccionando el tipo de entrega como delivery.<br> - Concluido el tiempo, devuelvo el traje. | - Ahora puedo usar estilos de ropa variados, pagando un precio menor y ahorrando tiempo.                         | - Alegre por conocer un arrendador fiable en el cual puedo confiar para conseguir más prendas.     |
-
-#### Segmento 2
-
-| Fase                        | Doing                                                                                                             | Thinking                                                                                                           | Feeling                                                                                             |
-|-----------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Registrarse en StyleShare** | - Me registro desde un dispositivo en la aplicación “StyleShare”.<br> - Relleno los datos solicitados y me creo una cuenta.  |  - El diseño de la interfaz me agrada.<br> - Debo enfocarme en publicar prendas que les interese a las personas.                           | -  Ansiosa por explorar las funciones y opciones que me ofrece la aplicación para el alquiler de prendas.                          |
-| **Creo una publicación de alquiler**   | - Inicio sesión.<br> - Realizo un pequeño recorrido por la aplicación para ver las publicaciones.<br> - Creo una nueva publicación.                                           | - La gran variedad de categorías me permitirme dirigirme de forma más eficiente a posibles usuarios interesados.                   | - Intrigado por saber el alcance que podrá tener mi publicación.                                                       |
-| **Ingreso los datos de la prenda**               | - Completo la publicación con lo datos de mi prenda.<br> - Selecciono el precio por día que considero justo. - Verifico que no haya ningún dato erróneo.<br>      | - Debo colocar información relevante y verídica para que los usuarios no desconfíen de mis publicaciones.          | - Emocionada por hacer mi primera publicación en la página.                                       |
-| **Publico la prenda**  |  - Guardo todos los datos y realizo la publicación.<br> - Añado etiquetas correspondientes para que sea más fácil catalogar la prenda. | - Ahora podré tener una pequeña fuente de ingresos a la vez que reutilizo ropa que no uso en buena calidad.                         | - Alegre por la facilidad de hacer una publicación en la aplicación.     |
+| Fases | Seleccionar el software a utilizar     | seleccionar el proceso deseado    | guardar la modificación del contenido deseado    |
+|---|---|---|---|
+| Doing | - Abrir la aplicación que recopila todos los procesos necesarios para   la gestión de una microempresa    - Revisar entre las diferentes categorías el proceso que se   requiera      | - Una vez identificado el proceso se debe de seleccionar      - Se selecciona si editamos o creamos un elemento      - Completar y/o modificar los recuadros con la información   correspondiente     | -Al tener todos los recuerdos completos, se procede a   seleccionar la opción guardar      -Se modifican o agregan los datos en todos los dispositivos que tengan   la app     |
+| Thinking | Piensa en óptimo que es contar con con un software completo en vez de   varios que cumplen solo una función     | Piensa en la cantidad de variedad de procesos con el que cuenta el   software para la solución de distintas situaciones      | Piensa lo facil que es ingresar o modificar datos en el software     |
+| Feeling | Se siente cómodo ya que no tiene que instalar muchos softwares de gestión | Se siente conforme ya que el software cuenta con todos los procesos   necesarios para el funcionamiento de una microempresa     | Se siente a gusto ya que no tiene que actualizar actualizar los datos   individualmente en cada máquina     |
 
 
 
 ### 3.2 **User Stories.**
 
-
-| User Story ID | US01  | Epic ID | EP01  |
-|---------------|-------|---------|-------|
-| Título        | Registro de usuario |   |
-| Descripción   | Como usuario, quiero registrarme en la aplicación web para acceder a todas sus funcionalidades. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Registro de cuenta con Gmail  |
-|-------------------------------------------|
-| Dado que el usuario se quiere registrar en la web |
-| Cuando selecciona la opción “Registrarse” en la pantalla de registros |
-| Y ingresa su Gmail personal |
-| Y selecciona la opción “Continuar registro” |
-| Cuando aparece el nuevo apartado de datos ingresa su información personal, como nombre, zona de residencia, número telefónico y contraseña |
-| Entonces la aplicación web registra el usuario y lo redirige a la pantalla principal. |
-
-
-<br><br>
-
-| User Story ID | US02  | Epic ID | EP01  |
-|---------------|-------|---------|-------|
-| Título        | Verificación de correo electrónico |   |
-| Descripción   | Como usuario, quiero recibir un correo electrónico de verificación después de registrarme. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Verificación de correo electrónico  |
-|-------------------------------------------|
-| Dado que el nuevo usuario se a registrado |
-| Cuando ingreso a su correo electrónico |
-| Y revisa la bandeja de entrada |
-| Entonces encuentra un correo electrónico de verificación con un enlace para confirmar su dirección de correo electrónico. |
-
-<br><br>                                                                                                                                                                                                                                                                      
-| User Story ID | US03  | Epic ID | EP01  |
-|---------------|-------|---------|-------|
-| Título        | Inicio de sesión |   |
-| Descripción   | Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Inicio de sesión con correo  |
-|-------------------------------------------|
-| Dado que el usuario quiere iniciar sesión |
-| Cuando ingresa su correo electrónico en la pantalla de inicio de sesión |
-| y ingresa la contraseña |
-| Y selecciona la opción “Continuar” |
-|Entonces la aplicación web lo redirige a la pantalla principal. |
-
-<br><br> 
-
-| User Story ID | US04  | Epic ID | EP01  |
-|---------------|-------|---------|-------|
-| Título        | Configuración de perfil inicial |   |
-| Descripción   | Como usuario, quiero completar mi perfil inicial para proporcionar información relevante. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Configuración de perfil inicial  |
-|-------------------------------------------|
-| Dado que el usuario se encuentra en la pantalla principal |
-| Cuando accede a la pantalla de perfil |
-| Y selecciona Editar |
-| Entonces la aplicación web guía al usuario para completar campos como nombre, apellidos, foto de perfil, y otra información relevante. |
-
-<br><br> 
-
-| User Story ID | US05  | Epic ID | EP02  |
-|---------------|-------|---------|-------|
-| Título        | Búsqueda de prendas en la aplicación web |   |
-| Descripción   | Como usuario quiero buscar prendas por la app para seleccionar aquellas que se acomoden a mis preferencias. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Ingreso al apartado de prendas de la pantalla principal  |
-|-------------------------------------------|
-| Dado que el usuario se encuentro en la pantalla principal de la aplicación web |
-| Cuando se dirige a una categoría que le muestra la pantalla principal |
-| Y da clic al nombre de la categoría |
-| Entonces la aplicación muestra una amplia lista con distintos tipos de prendas. |
-|-------------------------------------------|
-| Escenario 2: Muestra lista de prendas en base a criterios de búsqueda  |
-| Dado que el usuario se encuentra en la pantalla principal de la aplicación web |
-| Cuando ingresa palabras clave o filtros de búsqueda en el campo de búsqueda |
-| Y selecciona inicia la búsqueda |
-| Entonces la aplicación web muestra una lista de prendas que coinciden con los criterios de búsqueda del usuario con una pequeña descripción de estos. |
-
-<br><br> 
-
-| User Story ID | US06  | Epic ID | EP02  |
-|---------------|-------|---------|-------|
-| Título        | Agregar filtros de búsqueda avanzada |   |
-| Descripción   | Como usuario quiero tener a mi disposición una serie de filtros para encontrar una prenda de mi interés más rápido. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Acceso a filtro avanzado  |
-|-------------------------------------------|
-| Dado que el usuario se encuentra en la página principal de la aplicación|
-| Cuando selecciona la opción de filtros avanzados en la barra de búsqueda |
-| Entonces la aplicación muestra opciones adicionales de filtro, como categoría de prenda, talla, material y precio |
-| Cuando completa la información del filtro avanzado con las características que busca |
-| Y inicia la búsqueda |
-| Entonces la aplicación web muestra una lista de prendas que coinciden con los criterios de búsqueda del usuario. |
-|-------------------------------------------|
-| Escenario 2: Ingreso de datos erróneas en el filtro avanzado  |
-| Dado que el usuario selecciona el filtro avanzado|
-| Cuando ingresa datos erróneos en los filtros |
-| Y realiza la búsqueda |
-| Entonces la aplicación web muestra un mensaje de alerta donde muestra los datos erróneos que se agregaron en el filtro |
-
-<br><br> 
-
-| User Story ID | US07  | Epic ID | EP02  |
-|---------------|-------|---------|-------|
-| Título        | Exploración de prendas recomendadas |   |
-| Descripción   | Como usuario quiero que la aplicación me recomiende nuevas prendas relacionadas a mis intereses y gustos. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Ingresar al apartado de Recomendaciones  |
-|-------------------------------------------|
-| Dado que el usuario se encuentra en la página principal de la aplicación|
-| Y selección el menú desplegable |
-| Cuando visualiza al apartado de Productos para ti |
-| Y da clic |
-| Entonces la aplicación web muestra el apartada de Productos para ti |
-|-------------------------------------------|
-| Escenario 2: Realizar búsqueda de Prendas recomendadas  |
-| Dado que el usuario se encuentra en el apartado de Productos para ti |
-| Cuando navega por la sección |
-| Entonces la aplicación web muestra una lista de prendas sugeridas basados en los intereses y preferencias del usuario |
-
-<br><br> 
-
-| User Story ID | US08  | Epic ID | EP03  |
-|---------------|-------|---------|-------|
-| Título        | Ver detalles de la prenda |   |
-| Descripción   | Como usuario, quiero poder ver información detallada sobre la prenda que deseo alquilar para obtener todos los detalles relevantes. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Ingresar a ver los datos de la prenda  |
-|-------------------------------------------|
-| Dado que el usuario se encuentra en la página principal de la aplicación |
-| Cuando abre el menú desplegable |
-| Y selecciona una categoría de su interés |
-| Y selecciona una prenda |
-| Entonces la aplicación muestra una pantalla con información detallada sobre la prenda, como nombre, precio, imágenes, comentarios y una descripción en la cual se menciona el material, proceso de fabricación, talla, estilo. |
-
-<br><br>
-
-| User Story ID | US09  | Epic ID | EP03  |
-|---------------|-------|---------|-------|
-| Título        | Guardar prendas en favoritos |   |
-| Descripción   | Como usuario, quiero tener la opción de guardar una prenda en mi lista de favoritos para poder acceder rápidamente a ella en cualquier momento. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Añadir prenda a favoritos  |
-|-------------------------------------------|
-| Dado que el usuario encontró una prenda de su interés |
-| Cuando selecciona la opción de añadir en lista de favoritos |
-| Entonces la aplicación guarda la prenda en la sección de favoritos para acceder fácilmente más adelante.|
-|-------------------------------------------|
-| Escenario 2: Visualizar prendas marcadas como favoritos  |
-| Dado que el usuario he agregado una prenda como favorito |
-| Cuando se dirijo al apartado de mi perfil en la aplicación web |
-| Y da clic en Lista de Favoritos |
-| Entonces la aplicación muestra todas las prendas las cuales se han marcado como favoritos. |
-|-------------------------------------------|
-| Escenario 3: Eliminar prenda favoritos |
-| Dado que el usuario quiere eliminar una prenda de favoritos |
-| Cuando se dirige al apartado de perfil en la aplicación web |
-| Y da clic en Lista de Favoritos |
-| Y selecciona la opción eliminar prenda |
-| Entonces la aplicación eliminará de Lista de Favoritos la prenda seleccionada. |
-
-<br><br>
-
-| User Story ID | US10  | Epic ID | EP04  |
-|---------------|-------|---------|-------|
-| Título        | Ver sección de alquiler en la aplicación |   |
-| Descripción   | Como usuario, quiero poder acceder al alquiler de cualquier prenda en la aplicación. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Ingreso al apartado de búsqueda de prendas  |
-|-------------------------------------------|
-| Dado que el usuario se encuentra en la página principal de la aplicación |
-| Cuando abre el menú desplegable |
-| Y selecciona una categoría de su interés |
-| Entonces la aplicación web muestra una amplia lista de prendas. |
-|-------------------------------------------|
-| Escenario 2: Ingresar a ver los datos de la prenda  |
-| Dado que el usuario ve las prendas disponibles en una categoría |
-| Cuando selecciona una prenda específica de su interés |
-| Entonces la aplicación muestra una pantalla con información detallada sobre la prenda, como nombre, precio, imágenes, comentarios y una descripción en la cual se menciona el material, proceso de fabricación, talla, estilo. |
-|-------------------------------------------|
-| Escenario 3: Ingresar a la sección alquiler de prenda |
-| Dado que el usuario observa los detalles de una prenda y quiere alquilarla |
-| Cuando selecciono la opción de alquilar ahora |
-| Entonces la aplicación muestra un campo o selector donde puedo seleccionar la cantidad de tiempo que quiere alquilar la prenda |
-
-<br><br>
-
-| User Story ID | US11  | Epic ID | EP04  |
-|---------------|-------|---------|-------|
-| Título        | Realizar Alquiler de prendas |   |
-| Descripción   | Como usuario, quiero poder realizar el alquiler de una prenda por un tiempo determinado para tenerla en mi poder. |   |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Selección de una prenda por un número de días no válidos  |
-|-------------------------------------------|
-| Dado que el usuario selecciona la cantidad de días que quiere alquilar una prenda |
-| Cuando da clic en el botón seguir con el alquiler |
-| Entonces la aplicación muestra un mensaje emergente donde indica que la prenda no está disponible para ser alquilada la cantidad de días seleccionadas |
-|-------------------------------------------|
-| Escenario 2: Mostrar resumen antes de finalizar alquiler  |
-| Dado que el usuario selecciona la cantidad días que desea alquilar una prenda |
-| y esta listo para realizar la compra |
-| Cuando selecciona la opción de confirmar alquiler. |
-| Entonces la aplicación muestra un resumen del alquiler, incluyendo la prenda, la cantidad de días y el precio total antes de confirmar el alquiler. |
-|-------------------------------------------|
-| Escenario 3: Finalizar proceso de alquiler |
-| Dado que el usuario verifico la compra visualizando el resumen de compra |
-| Y esta conforme con los datos |
-| Cuando selecciona la opción de confirmar alquiler |
-| Entonces la aplicación procesa la solicitud de alquiler, a la par que registra la transacción. |
-
-<br><br>
-
-| User Story ID | US12  | Epic ID | EP05  |
-|---------------|-------|---------|-------|
-| Título        | Crear una nueva publicación |   |
-| Descripción   | Como usuario quiero tener la posibilidad de publicar las prendas en buen estado que ya no uso en la aplicación para generar algún tipo de ingreso. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Publicación Exitosa  |
-|-------------------------------------------|
-| Dado que el usuario publicar una prenda |
-| Y se encuentra en la pantalla principal |
-| Cuando selecciona "Publicar Prenda". |
-| Entonces, la aplicación muestra un formulario de publicación que incluye campos para agregar imágenes de la prenda, título, descripción, categoría, talla, estado de la prenda y precio de alquiler. |
-| Cuando completa todos los campos requeridos |
-| y da clic en el botón "Publicar". |
-| Entonces, la aplicación muestra un mensaje de confirmación de que la prenda se ha publicado con éxito. |
-|-------------------------------------------|
-| Escenario 2: Publicación Incompleta  |
-| Dado que el usuario quiere publicar una prenda |
-| Y se encuentra en la pantalla principal |
-| Cuando selecciona "Publicar Prenda". |
-| Entonces la aplicación muestra un formulario de publicación. |
-| Cuando el usuario deja campos obligatorios sin completar |
-| y da clic en el botón "Publicar". |
-| Entonces, la aplicación muestra un mensaje de alerta donde muestra los campos que faltan completar. |
-|-------------------------------------------|
-| Escenario 3: Cancelación de Publicación |
-| Dado que el usuario está en el proceso de crear una nueva publicación |
-| Cuando completa algunos de los campos del formulario de publicación |
-| Y decide cancelar la publicación en lugar de finalizar. |
-| Entonces, la aplicación pregunta si estoy seguro de que quiere cancelar. |
-
-<br><br>
-
-| User Story ID | US13  | Epic ID | EP05  |
-|---------------|-------|---------|-------|
-| Título        | Visualizar todas mis publicaciones |   |
-| Descripción   | Como usuario, quiero poder visualizar mis publicaciones para ver su estado y los comentarios interesados en el producto que ofrezco. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Visualización Exitosa de Publicaciones  |
-|-------------------------------------------|
-| Dado que el usuario publica varias prendas en alquiler |
-| Cuando accede a la sección mi perfil |
-| Cuando selecciona "Publicar Prenda". |
-| Y selecciona Productos publicados. |
-| Cuando completa todos los campos requeridos |
-| y da clic en el botón "Publicar". |
-| Entonces, la aplicación muestra una lista ordenada de todas las prendas que ha publicado. |
-|-------------------------------------------|
-| Escenario 2: Acceso a Detalles de Publicación  |
-| Dado que el usuario publica varias prendas en alquiler |
-| y visualiza la lista de sus publicaciones. |
-| Cuando selecciona "Publicar Prenda". |
-| Cuando da clic en el elemento de una publicación en la lista. |
-| Cuando el usuario deja campos obligatorios sin completar |
-| y da clic en el botón "Publicar". |
-| Entonces, la aplicación lo redirige a una pantalla que muestra información detallada de esa publicación. |
-
-<br><br>
-
-| User Story ID | US14  | Epic ID | EP06  |
-|---------------|-------|---------|-------|
-| Título        | Ayuda con problemas en la aplicación |   |
-| Descripción   | Como usuario quiero poder ponerme en contacto con servicio al cliente para que me ayuden a resolver cualquier duda o problema que se me presente en la aplicación. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Acceder al servicio de soporte al cliente  |
-|-------------------------------------------|
-| Dado que el usuario se encuentra navegando por la aplicación web |
-| Y tiene una pregunta o un problema mientras usa la aplicación |
-| Cuando abre el menú desplegable |
-| Y da clic en el icono "Soporte al cliente" |
-| Cuando completa todos los campos requeridos |
-| Entonces la aplicación muestra la opción de "Realizar Consulta". |
-| Entonces, la aplicación muestra una lista ordenada de todas las prendas que ha publicado. |
-|-------------------------------------------|
-| Escenario 2: Enviar una solicitud de soporte  |
-| Dado que el usuario selecciona "Realizar Consulta". |
-| Y completa el apartado Asunto y descripción |
-| Entonces la aplicación le notificara al usuario cuando el equipo de soporte responda su duda |
-|-------------------------------------------|
-| Escenario 3: Recibir una respuesta del servicio de soporte  |
-| Dado que el usuario envía una solicitud de soporte al cliente |
-| Cuando el equipo de soporte recibe la solicitud |
-| Entonces la aplicación iniciaría un chat con un personal especializado para que pueda resolver todas mis dudas |
-
-<br><br>
-
-| User Story ID | US15  | Epic ID | EP06  |
-|---------------|-------|---------|-------|
-| Título        | Asesoramiento sobre moda sostenible |   |
-| Descripción   | Como usuario quiero poder tener asesoramiento sobre moda sostenible para saber cómo puedo ayudar al medio ambiente. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Acceder a asesoramiento sobre moda sostenible  |
-|-------------------------------------------|
-| Dado que el usuario se encuentra navegando por la aplicación web |
-| Y tiene una pregunta o un problema mientras usa la aplicación |
-| Cuando abre el menú desplegable |
-| Y da clic en el icono "Soporte al cliente" |
-| Entonces la aplicación muestra la opción de Saber más sobre moda sostenible |
-|-------------------------------------------|
-| Escenario 2: Obtener recomendaciones personalizadas  |
-| Dado que el usuario se encuentra en el apartado Saber más sobre moda sostenible |
-| Entonces la aplicación web iniciaría un chat en tiempo real con un asesor capacitado sobre el tema |
-
-<br><br>
-
-| User Story ID | US16  | Epic ID | EP08  |
-|---------------|-------|---------|-------|
-| Título        | Recopilación de información |   |
-| Descripción   | Como consumidor quiero encontrar la información precisa para utilizar la aplicación web. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Acceso al landing page  |
-|-------------------------------------------|
-| Dado que el esta investigando información |
-| Cuando ingreso al landing page de la pagina web |
-| Y se dirige a la sección de consumidor casual de la moda |
-| Entonces el landing page le mostrara los beneficios que el puede otorgar hacer uso de la pagina web|
-
-<br><br>
-
-| User Story ID | US17  | Epic ID | EP08  |
-|---------------|-------|---------|-------|
-| Título        | Beneficios al consumidor |   |
-| Descripción   | Como arrendador quiero entender los beneficios que me aportara el uso de la página web. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Acceso al landing page  |
-|-------------------------------------------|
-| Dado que el está investigando los beneficios |
-| Cuando ingreso al landing page de la pagina web |
-| Y se dirige a la sección de consumidor casual de la moda |
-| Entonces el landing page le mostrara los beneficios que él puede otorgar hacer uso de la pagina web |
-
-<br><br>
-
-| User Story ID | US18  | Epic ID | EP07  |
-|---------------|-------|---------|-------|
-| Título        | Sección “Segmentos” |   |
-| Descripción   | Como Asistente a eventos consciente de la moda, quiero entender los beneficios que me aportará el uso de la página web, para poder elegir con conocimiento las opciones que mejorarán mi experiencia en eventos. |  |
-
-**Criterios de aceptación:**
-
-| Escenario:  |
-|-------------------------------------------|
-| Dado que soy un usuario que accede a la sección "Segmentos" de la página web, |
-| Cuando navego por esta sección, |
-| Entonces debería ver que el diseño visual (incluyendo colores, tipografías y estilos de imágenes) es coherente con el resto de la página web. |
-| Y este diseño debe ser visualmente atractivo y alinearse con las tendencias de moda actuales para apelar a asistentes a eventos de moda. |
-| Y todos los elementos visuales deben cargar correctamente sin errores visuales o técnicos. |
-
-<br><br>
-
-| User Story ID | US19  | Epic ID | EP07  |
-|---------------|-------|---------|-------|
-| Título        | Sección “Nosotros” |   |
-| Descripción   | Como visitante interesado en conocer más sobre la empresa, quiero acceder a una sección "Nosotros" clara y bien estructurada para comprender mejor la misión, visión, y valores de la empresa, y así sentir mayor confianza y conexión con la marca. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Accesibilidad y Diseño Responsivo  |
-|-------------------------------------------|
-| Dado que soy un usuario que visita el sitio web, |
-| Cuando accedo a la sección "Nosotros" desde el menú principal o desde un enlace directo en la página de inicio, |
-| Entonces debo poder visualizar la página sin problemas de carga y con un diseño que se adapte correctamente a la pantalla de mi dispositivo (ya sea móvil, tablet o escritorio). |
-|-------------------------------------------|
-| Escenario 2: Contenido Claro y Estructurado con Elementos Interactivos  | 
-| Dado que estoy explorando la sección "Nosotros" para obtener más información sobre la empresa, |
-| Cuando navego por las subsecciones de historia, misión, visión y valores, |
-| Entonces debo encontrar textos claros y bien organizados, así como elementos interactivos (como un video corporativo o un timeline de hitos importantes) que enriquezcan mi comprensión y experiencia. |
-
-<br><br>
-
-| User Story ID | US20  | Epic ID | EP07  |
-|---------------|-------|---------|-------|
-| Título        | Sección “Header” |   |
-| Descripción   | Como usuario del sitio web, quiero que el header sea claro y fácil de navegar, para que pueda encontrar rápidamente la información o sección que busco, lo que me permitirá tener una experiencia de usuario más fluida y satisfactoria. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Visualización de elementos esenciales en el header  |
-|-------------------------------------------|
-| Dado que estoy navegando en cualquier página del sitio web, |
-| Cuando cargo la página, |
-| Entonces debo ver claramente el logotipo de la empresa, el menú de navegación principal, y enlaces a las redes sociales o opciones de contacto. |
-| Y el logotipo debe estar vinculado a la página de inicio para facilitar el acceso rápido a ella. |
-|-------------------------------------------|
-| Escenario 2: Funcionalidad de los enlaces del menú  | 
-| Dado que deseó navegar a diferentes secciones del sitio a través del header, |
-| Cuando hago clic en cualquiera de los enlaces del menú, |
-| Entonces cada enlace debe llevarme a la sección correspondiente del sitio sin errores. |
-| Y la transición debe ser rápida y sin interrupciones. |
-
-<br><br>
-
-| User Story ID | US21  | Epic ID | EP07  |
-|---------------|-------|---------|-------|
-| Título        | Sección “Contacto” |   |
-| Descripción   | Como usuario que desea obtener más información o resolver dudas específicas, quiero acceder a una sección de contacto clara y fácil de usar, para que pueda comunicarme con la empresa de manera eficiente y sin complicaciones. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Formulario de Contacto Funcional  |
-|-------------------------------------------|
-| Dado que prefiero enviar un mensaje directo a través del sitio web, |
-| Cuando relleno y envío el formulario de contacto, |
-| Entonces el formulario debe validar los campos requeridos y enviarse correctamente, confirmándome que mi mensaje ha sido recibido con una notificación o mensaje en pantalla. |
-
-<br><br>
-
-| User Story ID | US22  | Epic ID | EP07  |
-|---------------|-------|---------|-------|
-| Título        | Sección “Colaboración” |   |
-| Descripción   | Como usuario interesado en colaborar con la organización, deseo encontrar una sección en el sitio web dedicada a la colaboración, para que pueda comprender fácilmente cómo puedo contribuir, cuáles son los beneficios y cómo iniciar el proceso. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Contenido Explicativo Completo  |
-|-------------------------------------------|
-| Dado que estoy interesado en las oportunidades de colaboración, |
-| Cuando visite la sección de "Colaboración", |
-| Entonces debería encontrar una descripción clara y completa de los diferentes tipos de colaboración que ofrece la empresa (como asociaciones, contribuciones de contenido, patrocinios, o programas de voluntariado). |
-|-------------------------------------------|
-| Escenario 2: Proceso de Solicitud Claro  | 
-| Dado que he decidido aplicar para una colaboración, |
-| Cuando desee comenzar el proceso, |
-| Entonces debería encontrar un formulario de solicitud o instrucciones claras sobre cómo enviar mi propuesta de colaboración, incluyendo detalles sobre la información y documentos necesarios. |
-
-<br><br>
-
-| User Story ID | US23  | Epic ID | EP07  |
-|---------------|-------|---------|-------|
-| Título        | Sección “Footer” |   |
-| Descripción   | Como usuario del sitio web, quiero que el footer ofrezca accesos directos a información relevante y recursos adicionales para mejorar mi experiencia de navegación y asegurar que encuentro fácilmente lo que necesito. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Inclusión de Elementos Esenciales  |
-|-------------------------------------------|
-| Dado que busco información esencial al final de la página, |
-| Cuando navego al footer del sitio, |
-| Entonces debo encontrar enlaces a las páginas de "Política de privacidad", "Términos y condiciones", "Contacto", y "Sobre nosotros". |
-|-------------------------------------------|
-| Escenario 2: Accesibilidad a Redes Sociales  | 
-| Dado que deseo seguir a la empresa en redes sociales, |
-| Cuando miro el footer, |
-| Entonces debería ver íconos de redes sociales que enlacen directamente a los perfiles oficiales de la empresa en estas plataformas. |
-|-------------------------------------------|
-| Escenario 3: Navegación Secundaria  | 
-| Dado que quiero explorar más contenido sin volver al menú principal, |
-| Cuando busco más opciones de navegación, |
-| Entonces el footer debería incluir enlaces a otras secciones importantes del sitio web como "Productos", "Servicios", "Eventos" y "Blog". |
-
-<br><br>
-
-| User Story ID | US24  | Epic ID | EP07  |
-|---------------|-------|---------|-------|
-| Título        | Sección “Inicia Sesión” |   |
-| Descripción   | Como usuario del sitio web, quiero que la sección de inicio de sesión sea fácilmente accesible desde cualquier página, para poder acceder rápidamente a mi cuenta y utilizar las funcionalidades relacionadas. |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Acceso Rápido  |
-|-------------------------------------------|
-| Dado que quiero iniciar sesión rápidamente, |
-| Cuando busco la sección de inicio de sesión, |
-| Entonces debo encontrar un enlace visible en el header o en el footer de la página que me lleve a la página de inicio de sesión. |
-|-------------------------------------------|
-| Escenario 2: Facilidad de Uso  | 
-| Dado que deseo utilizar mi cuenta en diferentes dispositivos, |
-| Cuando intento iniciar sesión, |
-| Entonces debo poder hacerlo de forma sencilla, con un formulario claro y accesible. |
-|-------------------------------------------|
-| Escenario 3: Recordar Sesión  | 
-| Dado que prefiero no tener que iniciar sesión repetidamente, |
-| Cuando utilizo la función "Recordar Sesión", |
-| Entonces mi sesión debe mantenerse activa en el dispositivo que estoy utilizando, para que no tenga que volver a iniciar sesión cada vez que accedo al sitio. |
-
-<br><br>
-
-| User Story ID | US25  | Epic ID | EP07  |
-|---------------|-------|---------|-------|
-| Título        | Sección “Conoce más #1” |   |
-| Descripción   | Como usuario, quiero conocer más sobre StyleShare |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1:  |
-|-------------------------------------------|
-| Dado que un usuario busca información detallada sobre StyleShare, |
-| Cuando accede a la sección “Conoce Más” |
-| Entonces debe encontrar facilmente la informacion sobre la mision, vision y valores de la empresa |
-
-<br><br>
-
-| User Story ID | US26  | Epic ID | EP07  |
-|---------------|-------|---------|-------|
-| Título        | Sección “Conoce más #2” |   |
-| Descripción   | Como usuario, quiero conocer más sobre los Consumidores y Arrendadores de StyleShare |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Acceso Rápido  |
-|-------------------------------------------|
-| Dado que un usuario quiere conocer mas sobre la comunidad de StyleShare, |
-| Cuando accede a la sección “Comunidad” en “Conoce mas” |
-| Entonces debe poder ver perfiles de usuario destacados de manera atractiva y facil de navegar |
-
-<br><br>
-
-| User Story ID | US27  | Epic ID | EP07  |
-|---------------|-------|---------|-------|
-| Título        | Sección “Conoce más #3” |   |
-| Descripción   | Como usuario, quiero conocer más sobre Contaminación y Sostenibilidad en la Industria de la Moda |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Acceso Rápido  |
-|-------------------------------------------|
-| Dado que un usuario está interesado en la sostenibilidad en la moda, |
-| Cuando accede a la sección “Sostenibilidad” en “Conoce más” |
-| Entonces debe encontrar información clara y educativa sobre el impacto ambiental de la industria de la moda |
-
-<br><br>
-
-| User Story ID | US28  | Epic ID | EP04  |
-|---------------|-------|---------|-------|
-| Título        | Ver carrito de compras|   |
-| Descripción   | Como usuario, quiero dirigirme al carrito y revisar los productos agregados |  |
-
-**Criterios de aceptación:**
-
-| Escenario 1: Agregar prenda al carrito de compra  |
-|-------------------------------------------|
-| Dado que el usuario se encuentra en la pantalla principal de la aplicación web |
-| Y selecciona una prenda de su interés |
-| Cuando selecciona agregar al carrito |
-| Y selecciona el icono del carrito |
-| Entonces la aplicación le mostrará todas las prendas que se agregaron |
-|-------------------------------------------|
-| Escenario 2: Seleccionar prendas del carrito  | 
-| Dado que el usuario el usuario se encuentra en el carrito de compra |
-| y no quiere comprar todos las prendas que tiene agregadas |
-| cuando quita la selección de una prenda de su lista |
-| entonces la aplicación no agrega esa prenda al momento de realizar el pago |
-|-------------------------------------------|
-| Escenario 3: Navegación Secundaria  | 
-| Dado que el usuario selecciona todas las prendas de su interés |
-| y da clic en pagar ahora |
-| Entonces la aplicación lo redirigirá al apartado donde podrá agregar su método de pago y proceder con su compra |
-
-
-### Epics:
-
-| EP01 : Como usuario quiero tener un registro y configuración del perfil del usuario  |
-|--------------------------------------------------------------------------------------|
-
-| EP02 : Como usuario quiero poder buscar la prenda que me interesa.  |
-|--------------------------------------------------------------------------------------|
-
-| EP03 : Como usuario quiero obtener información detallada la prenda de mi interés  |
-|--------------------------------------------------------------------------------------|
-
-| EP04 : Como usuario quiero poder realizar el alquiler de una prenda  |
-|--------------------------------------------------------------------------------------|
-
-| EP05 : Como usuario quiero tener la opción de publicar mis prendas  |
-|--------------------------------------------------------------------------------------|
-
-| EP06 : Como usuario, quiero acceso a un servicio de soporte al cliente eficaz  |
-|--------------------------------------------------------------------------------------|
-
-| EP07 : Como usuario, quiero visitar el landing page de la pagina web  |
-|--------------------------------------------------------------------------------------|
-
-|--------------------------------------------------------------------------------------------------------|
+| User Story ID | Titulo | Descripción | Criterio de aceptación | Relación (EPIC ID) |
+|---|---|---|---|---|
+| US01 | Registro de Usuario | Como usuario, quiero poder registrarme en Stocker para acceder a todas sus funciones. | Escenario 1: Registro Exitoso - Dado que un usuario llega a la página de registro. - Cuando el usuario ingresa datos válidos, incluyendo nombre, correo electrónico y contraseña. - Entonces el usuario debe recibir una confirmación de registro. Escenario 2: Registro con Información Incompleta - Dado que un usuario llega a la página de registro. - Cuando el usuario intenta registrarse sin completar todos los campos requeridos o proporciona información incorrecta. - Entonces el usuario debe recibir un mensaje de error que indique qué campos deben completarse o corregirse. Escenario 3: Registro con Correo Electrónico Existente - Dado que un usuario llega a la página de registro. - Cuando el usuario intenta registrarse con una dirección de correo electrónico que ya está en uso por otro usuario. - Entonces el usuario debe recibir un mensaje de error que indique que la dirección de correo electrónico ya está registrada y que debe usar una diferente. | EP01 |
+| US02 | Iniciar Sesión | Como usuario registrado, quiero poder iniciar sesión en Stocker para acceder a mi perfil y datos de salud. | Escenario 1: Inicio de Sesión Exitoso - Dado que un usuario registrado desea iniciar sesión. - Cuando el usuario proporciona sus credenciales de inicio de sesión válidas (correo electrónico y contraseña). - Entonces el usuario debe poder acceder a su cuenta y ser redirigido a su perfil. Escenario 2: Credenciales de Inicio de Sesión Incorrectas - Dado que un usuario registrado desea iniciar sesión. - Cuando el usuario proporciona credenciales incorrectas, ya sea un correo electrónico incorrecto o una contraseña incorrecta. - Entonces el usuario debe recibir un mensaje de error que indique que las credenciales son incorrectas y se le debe pedir que las ingrese nuevamente. Escenario 3: Recuperación de Contraseña - Dado que un usuario registrado olvidó su contraseña. - Cuando el usuario hace clic en la opción "¿Olvidaste tu contraseña?" en la página de inicio de sesión. - Entonces el usuario debe recibir instrucciones para restablecer su contraseña a través de su dirección de correo electrónico registrada. | EP01 |
+| US03 | Búsqueda de Procesos de Negocio | Como usuario, quiero buscar procesos de negocio específicos en Stocker para obtener información sobre su gestión y control. | Escenario 1: Búsqueda Exitosa de Procesos de Negocio - Dado que un usuario desea buscar información sobre procesos de negocio específicos. - Cuando el usuario ingresa un proceso de negocio en la barra de búsqueda y presiona "Buscar". - Entonces el usuario debe recibir una lista de resultados relacionados con ese proceso de negocio. Escenario 2: Selección de Proceso para Detalles - Dado que un usuario ha realizado una búsqueda de procesos de negocio. - Cuando el usuario hace clic en un proceso de la lista de resultados. - Entonces el usuario debe ser redirigido a una página que muestre información detallada sobre el proceso de negocio seleccionado. Escenario 3: Búsqueda sin Resultados o sin Coincidencias - Dado que un usuario desea buscar información sobre procesos de negocio específicos. - Cuando el usuario ingresa un proceso en la barra de búsqueda y presiona "Buscar". - Entonces el usuario puede recibir un mensaje que indique que no se encontraron resultados relacionados con el proceso ingresado, o bien, se muestran resultados alternativos relacionados con términos similares. | EP02 |
+| US04 | Seguimiento de Productos en Inventario | Como usuario, deseo poder registrar y hacer un seguimiento de los productos en inventario en Stocker. | Escenario 1: Agregar un Producto Exitosamente - Dado que un usuario necesita llevar un seguimiento de los productos en el inventario de su negocio. - Cuando el usuario ingresa un nuevo producto en la aplicación. - Y proporciona el nombre del producto, la cantidad disponible y otra información relevante. - Entonces el producto debe registrarse en la lista de seguimiento del usuario. Escenario 2: Notificación de Reabastecimiento de Inventario - Dado que un usuario ha registrado productos en la aplicación. - Cuando la cantidad de un producto en inventario alcanza un nivel bajo o predefinido. - Entonces el usuario debe recibir una notificación en la aplicación para recordarle reabastecer el inventario de ese producto. Escenario 3: Actualización de Inventario - Dado que un usuario ha reabastecido un producto en inventario. - Cuando el usuario actualiza la cantidad disponible del producto en la aplicación. - Entonces el inventario del producto debe actualizarse en la aplicación, reflejando la nueva cantidad disponible.  | EP03 |
+| US05 | Registro de Compras de Clientes | Como usuario, quiero poder registrar las compras realizadas por los clientes en Stocker para llevar un seguimiento de las transacciones y el inventario. | Criterios de Aceptación: Escenario 1: Registrar Compra de Cliente - Dado que un cliente realiza una compra en el establecimiento. - Cuando el administrador inicia sesión en la aplicación Stocker. - Y selecciona la opción de "Registrar Compra de Cliente". Luego, el administrador debe ingresar los detalles de la compra, incluyendo el nombre del cliente, los productos adquiridos y la cantidad. - Después de guardar el registro, el sistema debe actualizar automáticamente el inventario y generar un recibo para el cliente. Escenario 2: Consultar Historial de Compras de Clientes - Dado que el administrador desea realizar un seguimiento de las compras realizadas por los clientes. - Cuando el administrador accede a la sección de "Historial de Compras de Clientes" en la aplicación. - Entonces el administrador debe ver una lista de todas las compras registradas anteriormente, con detalles como la fecha, el cliente y los productos adquiridos. Escenario 3: Generar Informes de Ventas - Dado que el administrador necesita analizar el desempeño de ventas del negocio. - Cuando el administrador accede a la sección de "Informes de Ventas" en la aplicación. - Entonces el administrador debe poder generar informes detallados sobre las ventas realizadas en un período específico, incluyendo datos como los productos más vendidos y los ingresos totales. | EP03 |
+| US06 | Consulta de Historial de Transacciones |  Como usuario, quiero poder acceder y revisar el historial de transacciones de mi negocio en Stocker para llevar un registro de las compras, ventas y movimientos financieros anteriores. | Escenario 1: Ver Historial de Transacciones - Dado que un usuario desea acceder al historial de transacciones de su negocio en la aplicación Stocker. - Cuando el usuario inicia sesión en la aplicación. Y selecciona la opción de "Historial de Transacciones" en su perfil empresarial. - Entonces el usuario debe ver una lista de todas las transacciones anteriores, ordenadas por fecha, con detalles como el tipo de transacción, el monto y la descripción. Escenario 2: Detalles de Transacción - Dado que un usuario quiere obtener información detallada sobre una transacción específica en su historial. - Cuando el usuario selecciona una transacción de la lista. - Entonces el usuario debe ver una página con información detallada, que incluye la fecha de la transacción, el tipo (compra o venta), los artículos involucrados, el monto total y cualquier nota o comentario asociado. Escenario 3: Exportar Historial de Transacciones - Dado que un usuario necesita compartir el historial de transacciones con su contador o equipo financiero. - Cuando el usuario accede al historial de transacciones. - Entonces el usuario debe tener la opción de exportar el historial en un formato compatible, como CSV o PDF, para compartirlo fácilmente con otros miembros del equipo. | EP04 |
+| US07 | Recordatorio de Reunión de Negocios | Como usuario, quiero recibir recordatorios de mis próximas reuniones de negocios en Stocker para estar siempre informado y puntual en mis compromisos laborales. | Escenario 1: Programación de una Reunión de Negocios - Dado que un usuario desea programar una reunión de negocios en la aplicación [Nombre del Producto]. - Cuando el usuario inicia sesión en la aplicación. Y selecciona la opción de "Programar Reunión de Negocios". - Entonces el usuario debe poder ingresar la fecha, hora y ubicación de la reunión. Y al confirmar, la reunión se registra en su calendario de la aplicación. Escenario 2: Recordatorio de Reunión - Dado que un usuario ha programado una reunión de negocios en la aplicación Stocker. - Cuando se acerca la fecha y hora de la reunión de negocios. - Entonces el usuario debe recibir un recordatorio por correo electrónico y una notificación en la aplicación para recordarle la reunión. Escenario 3: Marcar Reunión como Finalizada - Dado que un usuario ha completado una reunión de negocios. - Cuando el usuario ingresa a la aplicación Stocker. Y accede a su calendario de reuniones de negocios. - Entonces el usuario debe poder marcar la reunión como "Finalizada" para indicar que la reunión se ha completado. | EP04 |
+| US08 | Compartir Información de Ventas | Como usuario, quiero poder compartir información de ventas con colegas o socios comerciales en Stocker para facilitar la colaboración y mejorar la eficiencia en nuestro equipo de ventas. | Escenario 1: Compartir Información de Ventas con un Destinatario - Dado que un usuario desea compartir información de ventas con un destinatario de confianza. - Cuando el usuario inicia sesión en la aplicación Stocker. Y accede a la sección de "Compartir Información de Ventas". - Entonces el usuario debe poder ingresar el correo electrónico del destinatario. Y al enviar la invitación, el destinatario debe recibir un correo electrónico con un enlace para aceptar la solicitud. Escenario 2: Aceptación de la Invitación por el Destinatario - Dado que un destinatario ha recibido una invitación para acceder a la información de ventas de un usuario. - Cuando el destinatario hace clic en el enlace de la invitación. Y acepta la solicitud. - Entonces el destinatario debe poder acceder a la información de ventas compartida por el usuario en su perfil de Stocker. Escenario 3: Revocar Acceso a la Información de Ventas - Dado que un usuario desea revocar el acceso de un destinatario a su información de ventas. - Cuando el usuario inicia sesión en la aplicación Stocker. Y accede a la sección de "Compartir Información de Ventas". - Entonces el usuario debe poder seleccionar al destinatario y revocar su acceso. Y una vez revocado, el destinatario ya no debe poder ver la información de ventas del usuario. | EP05 |
+| US09 | Registro de Consumo de Productos | Como usuario, quiero poder registrar mi consumo diario de productos en Stocker para llevar un seguimiento de mis hábitos de consumo. | Escenario 1: Registro de un Nuevo Consumo - Dado que un usuario desea registrar un nuevo consumo en Stocker. - Cuando el usuario inicia sesión en la aplicación Stocker. Y accede a la sección de "Registro de Consumo". - Entonces el usuario debe poder seleccionar la opción para agregar un nuevo consumo. Y el usuario debe ingresar la fecha, el producto consumido y la cantidad consumida. Entonces el sistema debe registrar el consumo en el historial del usuario. Escenario 2: Consulta del Historial de Consumo - Dado que un usuario desea revisar su historial de consumo en Stocker. - Cuando el usuario inicia sesión en la aplicación Stocker. Y accede a la sección de "Registro de Consumo". - Entonces el usuario debe poder ver una lista de los consumos previamente registrados. Y al seleccionar un consumo de la lista, el usuario debe ver detalles, incluyendo la fecha, el producto y la cantidad consumida. Escenario 3: Visualización de Tendencias de Consumo - Dado que un usuario desea ver tendencias en su consumo de productos a lo largo del tiempo. - Cuando el usuario inicia sesión en la aplicación Stocker. Y accede a la sección de "Registro de Consumo". - Entonces el usuario debe poder ver un gráfico que muestre la evolución de su consumo de productos a lo largo del tiempo. Y el usuario debe poder filtrar el gráfico por tipo de producto o período de tiempo si es necesario. | EP05 |
+| US10 | Registro de Ventas y Métricas de Negocio |  Como usuario, quiero llevar un registro de las ventas y métricas de mi negocio en Stocker para evaluar mi progreso comercial. | Escenario 1: Registro de Ventas y Métricas - Dado que un usuario desea registrar las ventas y métricas de su negocio. - Cuando el usuario accede a la sección de "Registro de Ventas y Métricas" en Stocker. - Y el usuario ingresa los datos de ventas, como el monto de la venta, el producto vendido y la fecha. - Y también ingresa métricas comerciales relevantes, como el número de clientes atendidos, el valor promedio de la venta, etc. - Entonces el sistema debe registrar estos datos en el perfil del usuario para su análisis. - Y el usuario debe poder ver un gráfico de su progreso de ventas y métricas comerciales a lo largo del tiempo, lo que le permite evaluar su rendimiento y tomar decisiones informadas para mejorar su negocio. | EP06 |
+| US11 | Noticias y Actualizaciones de Negocios | Como usuario, quiero recibir noticias y actualizaciones relevantes sobre el mundo empresarial en Stocker para mantenerme informado sobre temas comerciales importantes. | Escenario 1: Suscripción y Recepción de Noticias - Cuando un usuario desea recibir noticias y actualizaciones sobre el mundo empresarial. - Y el usuario selecciona sus áreas de interés, como emprendimiento, finanzas, tecnología, etc. - Entonces, el sistema debe permitir al usuario suscribirse a las noticias relacionadas con sus intereses comerciales. - Cuando se publique una nueva noticia relacionada con los intereses del usuario. - Entonces, el usuario debe recibir una notificación en la aplicación. - Y el usuario debe poder acceder a la noticia para obtener información detallada y verificar las fuentes confiables. Escenario 2: Lectura y Compartir Noticias - Cuando un usuario desea leer una noticia relacionada con el mundo empresarial. - Y el usuario abre una noticia en la aplicación. - Entonces, el sistema debe mostrar el contenido completo de la noticia, incluidas todas las fuentes y detalles relevantes. - Y el usuario debe tener la opción de compartir la noticia en sus redes sociales. - Cuando el usuario selecciona compartir, se abre una ventana para publicar en sus redes sociales. - Entonces, el sistema debe mostrar un mensaje de confirmación después de que la noticia se comparta con éxito. | EP06 |
+| US12 | Seguimiento de Gastos Financieros | Como usuario, quiero llevar un registro de mis gastos financieros en Stocker para gestionar mi presupuesto y mejorar mi salud financiera. | Escenario 1: Registro de Gastos - Cuando un usuario desea registrar un gasto financiero en la aplicación. - Y el usuario accede a la sección de "Registro de Gastos" en Stocker. - Entonces, el sistema debe permitir al usuario ingresar los detalles del gasto, como la cantidad, la categoría (por ejemplo, alimentos, transporte, ocio, etc.), la fecha y la descripción opcional. - El usuario debe poder guardar el registro del gasto, que se registrará en su historial financiero. Escenario 2: Análisis de Gastos - Cuando un usuario desea analizar sus patrones de gastos. - Y el usuario accede a la sección de "Análisis de Gastos" en la aplicación. - Entonces, el sistema debe mostrar gráficos y estadísticas que resuman los gastos del usuario a lo largo del tiempo. - El usuario debe poder identificar categorías de gastos principales, ver tendencias de gastos mensuales y comparar el gasto actual con períodos anteriores. Escenario 3: Establecimiento de Metas Financieras - Cuando un usuario desea establecer metas financieras para controlar sus gastos. - Y el usuario accede a la sección de "Metas Financieras" en la aplicación. - Entonces, el sistema debe permitir al usuario establecer objetivos financieros específicos, cómo ahorrar una cierta cantidad de dinero cada mes o reducir el gasto en una categoría particular. - El sistema debe proporcionar herramientas y consejos para ayudar al usuario a alcanzar estas metas, como sugerencias de presupuesto, alertas de gastos excesivos y seguimiento del progreso hacia las metas establecidas. | EP06 |
+| US13 | Gestión de Notificaciones | Como usuario, quiero tener control sobre las notificaciones que recibo en Stocker para personalizar mi experiencia. | Escenario 1: Personalización de Notificaciones - Cuando un usuario accede a la configuración de notificaciones en la plataforma Stocker. - Se le presenta una lista de tipos de notificaciones relevantes para el proyecto, como actualizaciones de tareas, mensajes directos, eventos próximos, entre otros. - El usuario puede activar o desactivar notificaciones específicas según sus preferencias y las necesidades de su proyecto. - Al guardar las preferencias de notificación, la plataforma ajusta las notificaciones en consecuencia, asegurando que el usuario reciba solo la información relevante para su proyecto. Escenario 2: Activación Global de Notificaciones - Si un usuario necesita recibir todas las notificaciones disponibles para estar al tanto de cualquier cambio relevante en su proyecto. - Puede acceder a la configuración de notificaciones y seleccionar la opción para activar todas las notificaciones disponibles. - Al guardar estas preferencias, la plataforma habilita todas las notificaciones pertinentes para el proyecto. - Esto garantiza que el usuario esté completamente informado sobre cualquier evento relevante dentro de su proyecto, sin perderse ninguna actualización importante. | EP07 |
+| US14 | Soporte en Línea | Como usuario de Stocker, deseo poder acceder a un servicio de soporte en línea para resolver mis consultas y problemas relacionados con la aplicación. | Escenario 1: Iniciar Chat de Soporte Cuando un usuario necesita asistencia y accede al servicio de soporte en línea desde la aplicación Stocker. El sistema conecta al usuario con un representante de soporte en tiempo real. El usuario recibe un mensaje de bienvenida del representante de soporte, indicando que está listo para ayudar. Escenario 2: Conversación de Soporte en Curso Durante la conversación de soporte en línea, el usuario plantea sus preguntas o problemas al representante de soporte. El representante de soporte responde a las consultas y proporciona asistencia para resolver el problema del usuario. La conversación continúa hasta que el usuario esté satisfecho con la resolución de su problema o consulta. Escenario 3: Calificación del Servicio de Soporte Después de recibir asistencia en línea y resolver su problema, el usuario tiene la opción de calificar el servicio recibido. La aplicación permite al usuario calificar el servicio utilizando una escala de 1 a 5 estrellas, y también proporcionar comentarios adicionales si lo desea. La calificación y los comentarios del usuario se registran para evaluar y mejorar continuamente la calidad del servicio de soporte en línea en Stocker. | EP07 |
+| US15 | Seguimiento de Proyectos Internos | Como usuario de Stocker, deseo llevar un seguimiento detallado de los proyectos internos de la empresa para garantizar su correcta gestión y ejecución. | Escenario 1: Crear un Nuevo Proyecto Cuando un usuario necesita iniciar un nuevo proyecto interno en la plataforma Stocker. El usuario completa un formulario con información relevante, como el nombre del proyecto, la descripción, los objetivos y el equipo asignado. El sistema genera automáticamente un cronograma de trabajo y asigna tareas a los miembros del equipo según la estructura del proyecto. Escenario 2: Seguimiento del Progreso del Proyecto Cuando el usuario desea monitorear el progreso de un proyecto en curso. El sistema muestra un tablero de control con métricas clave, como el avance del proyecto, hitos alcanzados y tareas pendientes. El usuario puede realizar un seguimiento detallado del estado de cada tarea y recibir alertas en caso de retrasos o problemas. Escenario 3: Generar Informes de Proyecto Cuando el usuario necesita generar informes de progreso para presentar a los interesados o superiores. El sistema recopila automáticamente datos relevantes del proyecto, como el rendimiento del equipo, los hitos alcanzados y los recursos utilizados. El usuario puede generar informes personalizados y exportarlos en diferentes formatos, como PDF o Excel, para su distribución y revisión.  | EP08 |
 
 
 
 ### 3.3. **Impact Mapping.**
 
-![ImpactMapping](Images/ImpactMap.png)
+![ImpactMapping](imgs/impact-mapping.png)
 
 ### 3.4 **Product Backlog.**
-|Orden|User Story ID|Título|Descripción|Story Points|
-|-----|-------------|------|-----------|------------|
-|1|US04|Configuración de perfil inicial|Como usuario, quiero completar mi perfil inicial para proporcionar información relevante.|3|
-|2|US07|Exploración de prendas recomendadas|Como usuario quiero que la aplicación me recomiende nuevas prendas relacionadas a mis intereses y gustos.|3|
-|3|US28| Ver carrito de compras|Como usuario, quiero dirigirme al carrito y revisar los productos agregados |5|
-|4|US13 |Visualizar todas mis publicaciones |Como usuario, quiero poder visualizar mis publicaciones para ver su estado y los comentarios interesados en el producto que ofrezco |3|
-|5|US08|Ver detalles de la prenda|Como usuario, quiero poder ver información detallada sobre la prenda que deseo alquilar para obtener todos los detalles relevantes.|5|
-|6|US14|Ayuda con problemas en la aplicación|Como usuario quiero poder ponerme en contacto con servicio al cliente para que me ayuden a resolver cualquier duda o problema que se me presente en la aplicación.|3|
+| #Orden | Titulo | Descrpcion | Story Points |
+|---|---|---|---|
+| 1 | Registro de Ventas y Métricas de Negocio | Como usuario, quiero llevar un registro de las ventas y métricas de mi negocio en Stocker para evaluar mi progreso comercial. | 8 |
+| 2 | Registro de Compras de Clientes | Como usuario, quiero poder registrar las compras realizadas por los clientes en Stocker para llevar un seguimiento de las transacciones y el inventario. | 8 |
+| 3 | Integración de Dispositivos Empresariales | Como usuario de Stocker, deseo que la plataforma se integre con los dispositivos empresariales utilizados en mi empresa para recopilar datos operativos relevantes y mejorar la eficiencia en la gestión empresarial. | 5 |
+| 4 | Seguimiento de Productos en Inventario | Como usuario, deseo poder registrar y hacer un seguimiento de los productos en inventario en Stocker | 5 |
+| 5 | Evaluación de Desempeño de Empleados | Como usuario, quiero realizar evaluaciones de desempeño personalizadas en Stocker para comprender el rendimiento de mis empleados | 5 |
+| 6 | Iniciar Sesión | Como usuario registrado, quiero poder iniciar sesión en Stocker para acceder a mi perfil y datos de salud. | 3 |
+| 7 | Registro de Usuario | Como usuario, quiero poder registrarme en Stocker para acceder a todas sus funciones. | 3 |
+| 8 | Comunidad de Emprendedores | Como usuario, quiero unirme a una comunidad en Stocker donde pueda compartir experiencias y obtener apoyo de otros emprendedores con proyectos similares. | 3 |
+| 9 | Consulta de Historial de Transacciones | Como usuario, quiero poder acceder y revisar el historial de transacciones de mi negocio en Stocker para llevar un registro de las compras, ventas y movimientos | 3 |
+| 10 | Compartir Información de Ventas | Como usuario, quiero poder compartir información de ventas con colegas o socios comerciales en Stocker para facilitar la colaboración y mejorar la eficiencia en nuestro equipo de ventas. | 3 |
+| 11 | Noticias y Actualizaciones de Negocios | Como usuario, quiero recibir noticias y actualizaciones relevantes sobre el mundo empresarial en Stocker para mantenerme informado sobre temas comerciales importantes. | 2 |
+| 12 | Recordatorio de Reunión de Negocios | Como usuario, quiero recibir recordatorios de mis próximas reuniones de negocios en Stocker para estar siempre informado y puntual en mis compromisos laborales. | 2 |
+| 13 | Búsqueda de Procesos de Negocio | Como usuario, quiero buscar procesos de negocio específicos en Stocker para obtener información sobre su gestión y control | 2 |
+| 14 | Registro de Consumo de Productos | Como usuario, quiero poder registrar mi consumo diario de productos en Stocker para llevar un seguimiento de mis hábitos de consumo. | 2 |
+| 15 | Seguimiento de Gastos Financieros | Como usuario, quiero llevar un registro de mis gastos financieros en Stocker para gestionar mi presupuesto y mejorar mi salud financiera. | 2 |
+| 16 | Chat con Expertos Empresariales | Como usuario, deseo poder chatear en tiempo real con expertos en negocios en Stocker para obtener orientación y asesoramiento empresarial. | 2 |
+| 17 | Compartir Logros de Ventas | Como usuario, quiero poder compartir mis logros de ventas en redes sociales en Stocker. | 1 |
+| 18 | Soporte en Línea | Como usuario de Stocker, deseo poder acceder a un servicio de soporte en línea para resolver mis consultas y problemas relacionados con la aplicación. | 1 |
+| 19 | Gestión de Notificaciones | Como usuario, quiero tener control sobre las notificaciones que recibo en Stocker para personalizar mi experiencia. | 1 |
+| 20 | Seguimiento de Proyectos Internos | Como usuario de Stocker, deseo llevar un seguimiento detallado de los proyectos internos de la empresa para garantizar su correcta gestión y ejecución. | 1 |
 
 
 ## Capítulo IV: Product Design
 ### 4.1. **Style Guidelines.**
 ####     4.1.1. General Style Guidelines.
-Branding
-Utilizamos un enfoque amigable, elegante y sencillo para nuestro Branding, con el cual buscamos transmitir confianza, seguridad y seriedad en el alquiler de prendas. 
 
-![LogoStyleShare](Images/LogoStyleShare.png)
-
-Tipografía: Nuestra fuente principal es Raleway, la cual garantiza legibilidad en todos los dispositivos y tamaños de pantalla, aparte mantener el uso de una sola fuente  mandate orden y uniformidad en toda la aplicación web.
-
-![Tipografia](Images/Tipografia.png)
-
-Colores: Utilizamos colores de tonalidades amarillo, verde y azul ya que queremos transmitir entusiasmos, bienestar, honestidad y seguridad a nuestro usuarios, asimos estos tienen una tonalidad oscura con el fin de mostrar una aplicación más elegante y estable.
-
-![Colores](Images/ColoresShare.png)
-
-Espacio: Se establecen márgenes y espacios uniformes en toda la aplicación para garantizar una experiencia ordenada y limpia sin sobrecargar su visión.
+**Paleta de colores:**
+Stocker, nuestra aplicación está diseñada para abordar las complejidades que enfrentan los micronegocios en su día a día. Utilizando una paleta de colores que transmite seriedad y eficiencia, nos hemos asegurado de ofrecer una experiencia visualmente agradable y profesional. El negro, como color principal, evoca un sentido de estabilidad y confianza, mientras que su tonalidad profunda sugiere seriedad en la gestión empresarial. Este único color se ha seleccionado cuidadosamente para reflejar la importancia y la solidez de las funciones de Stocker.
  
-Tono de comunicación: Esta es amigable y accesible pero profesional y confía al mismo tiempo, por otra parte, se mantiene el tono respetuoso hacia los usuarios a la par que refleja creatividad.
+
+**Tipografía:**
+Para la tipografía en Stocker, se hará lo siguiente:
+Tipografía: Utilizaremos la fuente Roboto para asegurar una fácil legibilidad en todos los dispositivos.
+Interlineado: El interlineado será de 1.15 para mejorar la legibilidad y el espacio entre líneas.
+Tamaños de Fuente:
+Para la versión móvil, el tamaño de fuente base será de 18px.
+Para la versión web, aumentaremos el tamaño base a 20px para adaptarse a una pantalla más grande.
+
+
+![Tipografia](imgs/style-guidelines-tipografias.png)
+
+**Tono de Comunicación y Lenguaje:** 
+Stocker adopta un tono de comunicación que equilibra la accesibilidad y la profesionalidad para conectar con micronegocios de todas las edades y niveles de experiencia. Se utiliza un lenguaje claro, amigable y directo para que la gestión del negocio, incluyendo ingresos, egresos e inventario, resulte sencilla y comprensible.
+Sin embargo, se mantiene un tono respetuoso y formal para reflejar la seriedad y confiabilidad del servicio, especialmente al abordar temas financieros y de gestión empresarial. El objetivo es empoderar a los micronegocios, brindándoles las herramientas y la información necesarias para tomar decisiones informadas y alcanzar el éxito.
+
+**Branding y Logo:** 
+Entendido, centrémonos en el color negro para el diseño del logo de Stocker. La espiral, con sus curvas suaves y fluidas, evoca dinamismo y progreso en el mundo empresarial en constante cambio. La elección del negro como único color principal agrega un aire de elegancia y seriedad al diseño, transmitiendo una sensación de profesionalismo y confiabilidad.
+La espiral negra se destaca por su simplicidad y sofisticación. Su forma distintiva captura la atención y sugiere movimiento, mientras que su color sólido representa solidez y estabilidad. Este diseño minimalista y atemporal garantiza una fácil identificación y memorabilidad para la marca Stocker.
+En resumen, este logo transmite la idea de una solución de gestión financiera eficiente y segura. La espiral negra refleja la dedicación de Stocker a proporcionar herramientas simples pero poderosas para los micronegocios, posicionándola como una opción confiable y esencial en el mercado de la gestión empresarial
+
+![logo](imgs/finance-logo.png)
 
 ####    4.1.2. Web Style Guidelines.
-Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferentes tamaños de pantalla, garantizando una experiencia agradable al usuario Las imágenes juegan un papel fundamental en nuestra página web, por eso se usarán imágenes de alta resolución para mostrar las prendas y productos de manera más llamativa y atractiva, asimismo se emplearán iconos claros con los cuales el usuario podrá desplazarse por toda la aplicación En la navegación del usuario la aplicación se mantendrá simple e intuitiva con los iconos de navegación, búsquedas visibles y accesibles, además, tanto el proceso de alquiler y publicación de prendas de simplificará al máximo, con pasos claros y una interfaz amigable.
+**Local Styleguide**
 
+![image](imgs/local-styleguidelines-#05191D.png)
+#05191D
+
+![image](imgs/local-styleguidelines-#05191D.png)
+#269AA5
+
+![image](imgs/local-styleguidelines-#6196AF.png)
+#6196AF
+
+El sitio web de Stocker utiliza una paleta de colores que incluye tonos de azul oscuro, verde azulado y azul claro para transmitir una sensación de innovación, confiabilidad, energía y tranquilidad, creando así una experiencia atractiva y accesible en el contexto de la gestión de micronegocios.
+
+**Estilos de Letras**
+![image](imgs/estilos-letras-styleguidelines.png)
+
+**Caja de textos:** 
+Los usuarios podrán escribir dentro de estas cajas de texto.
+![image](imgs/Software-Deployment-Evidence-for-Sprint-Review-f.png)
+
+**Botones de la web:** 
+Los botones utilizados para la web serán botones rectangulares y redondeados
+
+![image](imgs/botones-web.png)
+
+![image](imgs/botones-web-2.png)
+
+![image](imgs/botones-web-3.png)
 ### 4.2. **Information Architecture.**
-####    4.2.1. Organization Systems.
- ### Cada prenda de ropa a alquilar tendrá una pequeña ventana donde se muestra información básica como su nombre, precio y calificación, junto a una imagen.
- ### Al buscar se mostrarán en orden alfabético, o de más nueva según el usuario elija.
- ### En la pantalla principal las ventanas vendrán acomodadas en filas para exhibir recomendaciones, a los vendedores más nuevos, y una fila para cada tipo de ropa, en orden alfabético.
- ### En la parte superior se mostrará información del usuario, junto con las membresías que posea.
- ### En la ventana de añadir prenda, deberá ingresar imágenes, un precio y una descripción para su producto.
 
-####    4.2.2. Labeling Systems.
-Ingresar sesión/registrarse: En la esquina superior izquierda se mostrará el botón para ingresar su cuenta o crearla.
+**4.2.1.Organization Systems**
+Stocker está diseñado con un sistema de organización intuitivo que permite a los usuarios acceder fácilmente a las funciones y herramientas relevantes. Los datos se estructuran de manera lógica en categorías como clientes, proveedores, inventarios, ventas, compras, ganancias y perfiles comerciales.
 
-Usuario: En la esquina súper izquierda, si se hace clic en ella se accederá a una ventana donde se visualizará la información del usuario.
+**4.2.2.Labeling Systems**
+Cada elemento dentro de Stocker está etiquetado de manera clara y descriptiva, lo que facilita la identificación y navegación de los usuarios. Las etiquetas se utilizan para categorizar y clasificar los datos de manera coherente y comprensible.
 
-Buscar: En la parte superior, al tocarlo se abrirá el buscador junto con las opciones para buscar.
+**4.2.3.SEO Tags and Meta Tags**
+Para mejorar la visibilidad en línea y el posicionamiento en los motores de búsqueda, Stocker incorpora etiquetas SEO y metaetiquetas estratégicamente en su plataforma. Estas etiquetas se utilizan para optimizar el contenido y mejorar la relevancia en las búsquedas relacionadas con la gestión empresarial y las herramientas de registro.
 
-Mis prendas: En la esquina superior izquierda: Al tocarla se mostrarán las prendas que el usuario tiene en alquiler, junto con su información.
+**4.2.4.Searching Systems**
+Stocker cuenta con un sistema de búsqueda avanzado que permite a los usuarios encontrar rápidamente la información deseada. La búsqueda se realiza de manera rápida y precisa, facilitando la recuperación de datos relevantes en grandes conjuntos de información.
 
-Añadir prenda: En la esquina inferior derecha habrá un botón para poner en renta una prenda de tu propiedad.
-
-####    4.2.3. SEO Tags and Meta Tags.
-**Titulo:**
-
-```
-<Title>Register your processes with StyleShare</Title>
-```
-
-**Codificación de carácteres:**
-
-```
-<meta charset="utf-8">
-```
-
-**Descripción:**
-
-```
-<meta name="description" content="We offer you the opportunity to rent high-quality clothing, accessories and footwear for specific periods, so you feel amazing every time without compromising your style or budget."/>
-```
-
-**Palabras Claves:**
-
-```
-<meta name="keywords" content="fashion, innovative, rent, economic, flexibility"/>>
-```
-
-**Autor y Derechos de Autor:**
-
-```
-<meta name="author" content="StyleShare"/>
-
-<meta name="copyright" content="Copyright StyleShare team" />
-```
-
-####    4.2.4. Searching Systems.
-Al buscar, se puede elegir el tipo de vestimenta deseada, además de elegir entre un rango de precios. Se contará con un auto corrector para buscar el nombre del arrendador o de la vestimenta. Los resultados se mostrarán según orden de novedad, mejor calificados o alfabéticos según la elección del usuario.
-
-####    4.2.5. Navigation Systems.
-El usuario se moverá entre distintas pantallas usando los botones presentas en la parte superior del menú principal. Desde los cuales podrá ir a una ventana con las ropas ya alquiladas, a un buscador para ver las vestimentas disponibles y arrendadores, y la información personal de usuario junto con la membresía que tiene. Además, en la esquina inferior derecha encontrará un botón que lo llevará al menú para poner en renta una prenda.
+**4.2.5Navigation Systems**
+La navegación en Stocker se ha diseñado de manera intuitiva y fluida, permitiendo a los usuarios moverse sin esfuerzo por la plataforma. Se proporcionan menús claros y accesibles, así como enlaces contextuales, para guiar a los usuarios a través de las diferentes secciones y funcionalidades del sistema.Landing Page UI Design
 
 ### 4.3. **Landing Page UI Design.**
 ####    4.3.1. Landing Page Wireframe.
-![LandingPageWireframe](Images/WireframeLanding.png)
+![LandingPageWireframe](imgs/landing-wireframe-1.png)
+![LandingPageWireframe](imgs/landing-wireframe-2.png)
+![LandingPageWireframe](imgs/landing-wireframe-3.png)
+![LandingPageWireframe](imgs/landing-wireframe-4.png)
+
 
 ####    4.3.2. Landing Page Mock-up.
 ![LandingPageMockUp](Images/LandingPageMock1.png)
