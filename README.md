@@ -1,7 +1,7 @@
 Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src= Images/UPC_logo_transparente.png
+<img src= Images/upc_logo.png
 style="display: block; 
 margin-left:auto; 
 margin-right: auto; 
@@ -36,101 +36,104 @@ width=50%"/>
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
 | 1.0       | 13/04/2024 | Rodrigo Adrián Lopez Huamán U202212338, Harold Miguel Elías Sanchez U202212684, Rodrigo Jesús Salvador Rodríguez U202213646, Alejandro Nicolas Barturen Guzman U202214406, Victor Manuel Meneses Arévalo U202212191 | Realizacion del documento |  COMPLETADO |
 
-### Project Report Collaboration Insights
-
-[StyleShare GitHub](https://github.com/upc-pre-202401-SI730-WS51-StyleShare)
-
-![Report](Images/ReportCollaborationInsights.png)
 
 ### Student Outcome
 
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-------------------|-------------------|------------|
-|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Joaquin Cortez**<br>TB1:<br>Para esta entrega se investigó sobre los principios de diseño para la página web para el diseño de los mock ups, considerando las users stories y las funcionalidades core del startup. <br>**Christopher Sebastian**<br>TB1: Para esta entrega me encargue de hallar a nuestros posibles competidores, así como analizar sus puntos fuertes y débiles. También comuniqué durante la exposición cuales son nuestros segmentos objetivos y los requisitos que nuestra aplicación debe cumplir para satisfacer sus necesidades<br><br>**Tony Alexander**<br>TB1: Para esta  entrega me encargué de la formulación del Ubiquitous Language, es fundamental para que nuestro consumidores y nuestra aplicación puedan entenderse, además de implementar el impact Mapping, considerando el user story respectivo posteriormente a mi entrevista realizada<br><br>**Eric Agama**<br>TB1:Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>| La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Joaquin Cortez**<br>TB1:<br>Considerando las funcionalidades principales de nuestro proyecto, diseñe los wireframes, mockups y landing page. En cada uno se considero los principios de diseño. Asimismo, siguiendo el modelo ágil, redacte el ux canva y las user stories.  <br>**Christopher Sebastian**<br>TB1: TB1: En el documento rellené el cuadro de competidores, mostrando sus puntos débiles y fuertes al igual que los nuestros. También me encargué de describir las herramientas utilizadas.<br><br>**Tony Alexander**<br>TB1: En el presente documento, implementé la sección colaboración en la Landing Page, principalmente para aquellos que deseen trabajar con nosotros y formar una alianza en el mercado, además de realizar la modificación del documento al formato MarkDown<br><br>**Eric Agama**<br>TB1:Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>| La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+|Criterio Especifico|Acciones Realizadas|
+|-------------------|-------------------|
+| La capacidad de funcionar efectivamente en un
+equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de
+colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos | Para abordar el Student Outcome 5 de ABET - EAC, se implementaron diversas estrategias centradas en fortalecer las habilidades de trabajo en equipo de los estudiantes. Esto se logró mediante la asignación de proyectos colaborativos que requerían una planificación conjunta de tareas y la consecución de objetivos definidos. Además, se promovió activamente la participación en actividades que permitían a los estudiantes asumir roles de liderazgo, facilitando así el desarrollo de habilidades de liderazgo efectivas. Para crear un entorno de colaboración e inclusión, se fomentaron valores de respeto mutuo, diversidad de opiniones y trabajo armonioso hacia metas comunes. |
 
 ## Contenido
 
-1. **Capítulo I: Introducción.**
-   1. Startup Profile.
-        1. Descripción del startup.
-        2. Perfiles de los integrantes del equipo.
-    2. Solution Profile.
-        1. Antecedentes y Problemática.
-        2. Lean UX Process.
-            1.Lean UX Problem Statements.
-            2.Lean UX Assumptions.
-            3.Lean UX Hypothesis Statements.
-            4.Lean UX Canvas.
-    3. Segmentos objetivo.
+1. **Capítulo #1: Introducción.**
+   1.1 Startup Profile.
+        1.1.1 Descripción del startup.
+        1.1.2. Perfiles de los integrantes del equipo.
+    1.2. Solution Profile.
+        1.2.1 Antecedentes y Problemática.
+        1.2.2 Lean UX Process.        
+    1.3. Segmentos objetivo.
 
-2. **Capítulo II: Requirements Elicitation & Analysis.**
-    1. Competidores.
-        1. Análisis competitivo.
-        2. Estrategias y tácticas frente a competidores.
-    2. Entrevistas.
-        1. Diseño de entrevistas.
-        2. Registro de entrevistas.
-        3. Análisis de entrevistas.
-    3. Needfinding.
-        1. User Personas.
-        2. User Task Matrix.
-        3. User Journey Mapping.
-        4. Empathy Mapping.
-        5. As-is Scenario Mapping.
-        6. Ubiquitous Language.
-3. **Capítulo III: Requirements Specification.**
-    1. To-Be Scenario Mapping.
-    2. User Stories.
-    3. Impact Mapping.
-    4. Product Backlog.
-4. **Capítulo IV: Product Design.**
-    1. Style Guidelines.
-        1. General Style Guidelines.
-        2. Web Style Guidelines.
-    2. Information Architecture.
-        1. Organization Systems.
-        2. Labeling Systems.
-        3. SEO Tags and Meta Tags
-        4. Searching Systems.
-        5. Navigation Systems.
-    3. Landing Page UI Design.
-        1. Landing Page Wireframe.
-        2. Landing Page Mock-up.
-    4. Web Applications UX/UI Design.
-        1. Web Applications Wireframes.
-        2. Web Applications Wireflow Diagrams.
-        3. Web Applications Mock-ups.
-        4. Web Applications User Flow Diagrams.
-    5. Web Applications Prototyping.
-    6. Domain-Driven Software Architecture.
-        1. Software Architecture Context Diagram.
-        2. Software Architecture Container Diagrams.
-        3. Software Architecture Components Diagrams.
-    7. Software Object-Oriented Design.
-        1. Class Diagrams.
-        2. Class Dictionary.
-    8. Database Design.
-        1. Database Diagram.
-5. **Capítulo V: Product Implementation, Validation & Deployment.**
-    1. Software Configuration Management.
-        1. Software Development Environment Configuration.
-        2. Source Code Management.
-        3. Source Code Style Guide & Conventions.
-        4. Software Deployment Configuration.
-    2. Landing Page, Services & Applications Implementation.
-        1. Sprint 1
-            1. Sprint Planning 1.
-            2. Sprint Backlog 1.
-            3. Development Evidence for Sprint Review.
-            4. Testing Suite Evidence for Sprint Review.
-            5. Execution Evidence for Sprint Review.
-            6. Services Documentation Evidence for Sprint Review.
-            7. Software Deployment Evidence for Sprint Review.
-            8. Team Collaboration Insights during Sprint.
-6. **Conclusiones.**
-7. **Bibliografía.**
-8. **Anexos.**
+2. **Capítulo #2: Requirements Elicitation & Amalysis.**
+    2.1. Competidores.
+        2.1.2 Análisis competitivo.
+        2.2.2 Estrategias y tácticas frente a competidores.
+    2.2 Entrevistas.
+        2.2.1. Diseño de entrevistas.
+        2.2.2. Registro de entrevistas.
+        2.2.3. Análisis de entrevistas.
+    2.3. Needfinding.
+        2.3.1. User Personas.
+        2.3.2. User Task Matrix.
+        2.3.3. User Journey Mapping.
+        2.3.4. Empathy Mapping.
+        2.3.5. As-is Scenario Mapping.
+3. **Capítulo #3: Requirements Specification.**
+    3.1. To-Be Scenario Mapping.
+    3.2. User Stories.
+    3.3. Impact Mapping.
+    3.4. Product Backlog.
+4. **Capítulo #4: Product Design.**
+    4.1. Style Guidelines.
+        4.1.1. General Style Guidelines.
+        4.1.2. Web Style Guidelines.
+    4.2. Information Architecture.
+        4.2.1. Organization Systems.
+        4.2.2. Labeling Systems.
+        4.2.3. SEO Tags and Meta Tags
+        4.2.4. Searching Systems.
+        4.2.5. Navigation Systems.
+    4.3. Landing Page UI Design.
+        4.3.1. Landing Page Wireframe.
+        4.3.2. Landing Page Mock-up.
+    4.4 Web Applications UX/UI Design.
+        4.4.1. Web Applications Wireframes.
+        4.4.2. Web Applications Wireflow Diagrams.
+        4.4.3. Web Applications Mock-ups.
+        4.4.4. Web Applications User Flow Diagrams.
+    4.5. Web Applications Prototyping.
+    4.6. Domain-Driven Software Architecture.
+        4.6.1. Software Architecture Context Diagram.
+        4.6.2. Software Architecture Container Diagrams.
+        4.6.3. Software Architecture Components Diagrams.
+    4.7. Software Object-Oriented Design.
+        4.7.1. Class Diagrams.
+        4.7.2. Class Dictionary.
+    4.8. Database Design.
+        4.8.1. Database Diagram.
+5. **Capítulo #5: Product Implementation, Validation & Deployment.**
+    5.1. Software Configuration Management.
+        5.1.1. Software Development Environment Configuration.
+        5.1.2. Source Code Management.
+        5.1.3. Source Code Style Guide & Conventions.
+        5.1.4. Software Deployment Configuration.
+    5.2. Landing Page, Services & Applications Implementation.
+        5.2.1. Sprint 1
+            5.2.1.1. Sprint Planning 1.
+            5.2.1.2. Sprint Backlog 1.
+            5.2.1.3. Development Evidence for Sprint Review.
+            5.2.1.4. Testing Suite Evidence for Sprint Review.
+            5.2.1.5. Execution Evidence for Sprint Review.
+            5.2.1.6. Services Documentation Evidence for Sprint Review.
+            5.2.1.7. Software Deployment Evidence for Sprint Review.
+            5.2.1.8. Team Collaboration Insights during Sprint.
+    5.3. Validation Interview
+        5.3.1. Diseño de Entrevista
+        5.3.2. Registro de Entrevista
+        5.3.3  Video About the product
+            5.4. Sprint 2
+            5.4.1. Sprint Backlog 2.
+            5.4.3. Development Evidence for Sprint Review.
+            5.4.4. Testing Suite Evidence for Sprint Review.
+            5.4.5. Execution Evidence for Sprint Review.
+            5.4.6. Services Documentation Evidence for Sprint Review.
+            5.4.7. Software Deployment Evidence for Sprint Review.
+            5.4.8. Team Collaboration Insights during Sprint.
+7. **Conclusiones.**
+8. **Bibliografía.**
+9. **Anexos.**
 
 ## Capítulo I: Introducción.
 
@@ -138,24 +141,24 @@ width=50%"/>
 
 ####     1.1.1.   Descripción del startup
 
-En Change4All, nos dedicamos a transformar la manera en que te vistes para eventos especiales. Nuestra innovadora plataforma, StyleShare ,ofrece una experiencia única en el mundo de la moda. Reconocemos los desafíos de encontrar la vestimenta adecuada para cada ocasión, que puede tomarte mucho tiempo,  resultar costosa y poco sostenible. Por eso, hemos desarrollado una solución digital que te permite alquilar prendas, accesorios y calzado de alta calidad por períodos específicos. En StyleShare, nuestro objetivo es que te sientas increíble en cada evento sin comprometer tu estilo ni tu presupuesto.
+Stocker, es una iniciativa liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), destacada como un startup emergente. Nuestro equipo de ingenieros talentosos de la Facultad de Ingeniería ha creado un sistema de registro y control para apoyar el crecimiento de la comunidad empresarial. Stocker está diseñado para satisfacer las necesidades de los negocios pequeños, permitiendo el registro y gestión eficiente de clientes, proveedores, inventarios, ventas, compras, ganancias y perfiles comerciales.
 
 #### Misión:
-En Change4All, nuestra misión es clara: proporcionarte una manera inteligente y sostenible de vestirte para eventos especiales a través de soluciones tecnológicas avanzadas. Nos esforzamos por garantizar rapidez al momento de escoger tus prendas para que luzcas genial en cada ocasión, a la par que contribuimos a reducir el impacto ambiental de la moda.
+Nuestra misión es facilitar el éxito de los pequeños negocios mediante un sistema de gestión empresarial integral, promoviendo la eficiencia en el registro y control de clientes, inventarios, ventas, compras, ganancias y perfiles de negocio. Nos comprometemos a proporcionar herramientas que fomenten la gestión transparente y el crecimiento sostenible, contribuyendo así al desarrollo económico y social de la comunidad.
 
 #### Visión:
-En Change4All,, tenemos una visión ambiciosa para el futuro de la moda. Nos imaginamos liderando el cambio en la forma en que las personas se relacionan con la ropa para eventos en todo el mundo. Visualizamos un mundo en el que el alquiler de prendas sea tan común como comprarlas, donde la moda sea accesible, sostenible y emocionante. Con StyleShare, aspiramos a ser la plataforma global líder en alquiler de prendas y accesorios, inspirando a una comunidad de usuarios a adoptar la moda de una manera nueva y consciente".
+Aspiramos a que nuestro sistema de gestión empresarial se convierta en la opción preferida para emprendedores y pequeños empresarios, siendo reconocidos como un socio confiable en su camino hacia el éxito. Buscamos ser líderes en la innovación tecnológica, brindando constantemente soluciones que se adapten a las necesidades cambiantes del mercado y que impulsen el crecimiento y la competitividad de nuestros usuarios.
 
 
 ####     1.1.2. Perfiles de los integrantes del equipo
 
-| Nombre                           | Descripción                                                                                                                                   |
+| Nombre                           | Descripción de Perfil                                                                                                                                   |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Christopher Sebastian More Rondon (U202212199) ![image](Images/integrante1.PNG)| Me llamo Christopher More, soy estudiante de quinto ciclo de Ingeniería de Software. Soy creativo e ingenioso para resolver problemas creando programas. Siempre intento completar las tareas a tiempo y asegurarme de que se encuentren bien hechas |
-|Eric Fabrizio Agama Espinoza (u202213358) ![image](Images/Integrante2.jpg) | Mi nombre es Eric Agama y estudio la carrera de Ingeniería de Software. Me considero una persona creativa a la hora de realizar trabajos y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau Roblox Studio.              |             |
-|              |          |
-| Tony Alexander Ramos Najar (u20211a153)  ![image](Images/integrante4.PNG)      | Mi nombre es Tony Ramos, estoy cursando el 7mo ciclo de la carrera de Ingeniería de Software. Me considero hábil en el ámbito de la programación en los lenguajes, Python, Javascript, y últimamente estoy aprendiendo Angular. Con respeto a mi, me considero una persona responsable, con ganas de aprender y a superarme a mi mismo. |
-| Joaquin Antonio Cortez Quezada (u202212648)  ![image](Images/integranteJ.PNG)      | Mi nombre es Joaquín Antonio Cortez Quezada, tengo 19 años y actualmente estoy  cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me considero una persona perseverante, responsable, empática en cualquier ámbito de mi vida, ya sea en el aspecto académico. |
+| Alejandro Nicolas Barturen Guzman ![image](imgs/barturen-integrante.png)|Soy estudiante de la carrera de Ingeniería de Software y actualmente me encuentro en 5to ciclo, me considero una persona bastante eficiente y capaz que siempre busca la solución más rápida y que mejor funcione. Siempre trato de tener una comunicación fluida con todos los miembros de mi grupo para así evitar cualquier inconveniente al momento de realizar el trabajo |
+|Harold Miguel Elías Sanchez ![image](imgs/harold-integrante.png) |Mi nombre es Harold Miguel Elías Sánchez con código u202212684 tengo 19 años y estoy en quinto ciclo de la carrera de ingeniería de software. Mi conocimiento técnico abarca el lenguaje C++, que manejo de manera intermedia. Además, poseo habilidades básicas que me permiten contribuir efectivamente en equipos, aportando ideas y trabajando en colaboración para alcanzar nuestras metas conjuntas. |            
+|  Rodrigo Adrián López Huamán   ![image](imgs/huaman-integrante.png)  | Soy Rodrigo Adrián López Huamán, estudiante de quinto ciclo de Ingeniería de Software, tengo 18 años y soy un chico responsable y comprometido con mis actividades. Además, me considero una persona creativa y capaz de trabajar en equipo para alcanzar nuestras metas. También tengo habilidades en el manejo de conflictos, lo que me permite resolver situaciones difíciles de manera efectiva. Estoy emocionado de seguir aprendiendo y creciendo en esta carrera.   |          
+| Victor Manuel Meneses Arevalo  ![image](imgs/victor-integrante.png)      | Soy estudiante de la carrera de Ingeniería de Software y actualmente me encuentro en 5to ciclo, me considero una persona bastante eficiente y capaz que siempre busca la solución más rápida y que mejor funcione. Siempre trato de tener una comunicación fluida con todos los miembros de mi grupo para así evitar cualquier inconveniente al momento de realizar el trabajo.|
+| Rodrigo Jesús Salvador Rodríguez  ![image](imgs/sombrero-integrante.png)      | Me llamo Rodrigo Jesús Salvador Rodríguez, tengo 18 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal. |
 
 ### 1.2. **Solution Profile.**
 
