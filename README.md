@@ -924,8 +924,53 @@ En la pantalla de inicio, al hacer clic en el rectángulo “Contáctanos”, es
 #####         **5.2.1.8. Team Collaboration Insights during Sprint.**
 En el siguiente gráfico se mostrará cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
 
-![Team](Imgs/Team-Collaboration-Insights-during-Sprint.png)
- 
+![Team](imgs/Team-Collaboration-Insights-during-Sprint.png)
+
+
+ #####         **5.2.1.9. Sprint Planning 2.**
+| Sprint# | Sprint 2 |
+|---|---|
+| Date | 2024-04-25 |
+| Time | 11:12 AM |
+| Location | Reunión virtual realizada en la aplicación Discord |
+| Prepared By | Barturen Guzmán, Alejandro Nicolas |
+| Attendees (to planning meeting) | Salvador Rodríguez, Rodrigo Jesús / Barturen Guzmán, Alejandro Nicolas / López Huamán, Rodrigo Adrián / Elías Sánchez, Harold Miguel / Meneses Arévalo, Victor Manuel |
+| Sprint n – 2 Review Summary | Se realizaron las correcciones correspondientes según se indicó en el trabajo por el profesor, además de mejorar la interfaz en general de la página web “Stocker”, así como el desarrollo de más user stories. |
+| Sprint n – 2 Retrospective Summary | Se destacó la responsabilidad del equipo al asumir el “feedback” de la mejor manera para poder mejorar el trabajo en general, nuevamente notamos fortalezas al realizar la reunión y mostrar compromiso por parte de todos los miembros. Se enfocó y dividió de manera equitativa la parte de cada integrante. |
+| Sprint n Goal | El objetivo principal para esta entrega fue realizar las correcciones y observaciones correspondientes a nuestro trabajo, posteriormente agregar mayor cantidad de user stories como habíamos colocado en el documento. |
+| Sprint n Velocity | Para nuestro Sprint el equipo ha establecido el uso de la escala Fibonacci para determinar su complejidad y tiempo de elaboración del 1 al 8. (1, 2, 3, 5, 8), el equipo se compromete a respetar esta escala. |
+| Sum of Story Points | Para nuestro Sprint como equipo hemos establecido un máximo de 62 User Points entre las 20 User Stories realizadas. |
+
+ #####         **5.2.1.9. Sprint Backlog 2.**
+
+ | Title | ID | Title | Description | Estimación (Horas) | Assigned To | Status (To-do/ In-Process/ To-Review/ Done) |
+|---|---|---|---|---|---|---|
+| Búsqueda de Procesos de Negocio | WI-03 | Búsqueda de Procesos | Diseño de la interfaz para realizar la búsqueda de los negocios. | 6.5H | Rodrigo Lopez | Done |
+| Compartir Información de Ventas | WI-10 | Información de Ventas | Almacenamiento de toda la información acerca de las ventas. | 4.5H | Harold Elias | Done |
+| Registro de Consumo de Productos | WI-11 | Consumo de Productos | Creación de la interfaz del consumo de productos. | 4.5H | Victor Meneses | In-Process |
+| Registro de Ventas y Métricas de Negocio | WI-13 | Registro de Ventas | Creación de la interfaz del registro de las ventas y las métricas del negocio. | 6.5H | Rodrigo Lopez | In-Process |
+| Noticias y Actualizaciones de Negocios | WI-14 | Actualizaciones y Noticias | Diseño del apartado de las noticias y actualizaciones del aplicativo y noticias mundiales. | 4H | Rodrigo Salvador | To-do |
+| Seguimiento de Gastos Financieros | WI-15 | Gastos Financieros | Diseño del apartado personal para que las personas vean sus gastos financieros. | 7H | Victor Meneses | To-do |
+| Gestión de Notificaciones | WI-16 | Notificaciones | Creación de la interfaz para verificar las notificaciones del cliente. | 4.5H | Alejandro Barturen | To-Review |
+
+A continuación se observará el espacio de trabajo que se creó en Trello para un mejor control de los sprints.
+
+![Images](imgs/ .png)
+[link](https://trello.com/invite/b/0xk9etW0/ATTI9d01d86d96f4a8b695b650019d243bd6CDE61684/sprint-backlog-2)
+
+ #####         **5.2.1.10. Development Evidence for Sprint Review.**
+
+En la siguiente sección presentaremos los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
+
+| Repository | Branch | Commit id | Commit Message | Commit Message Body | Commit on (Date) |
+|---|---|---|---|---|---|
+| StockerUPC/Stocker | main | 2d093e1 | Actualización del proyecto | Se actualiza el proyecto agregando componentes | 01/05/2024 |
+| StockerUPC/Stocker | main | b376e49 | Project update | Vite + Vue Stocker project | 01/05/2024 |
+| StockerUPC/Stocker | main | 0af8b66 | Update client-section.component.vue | Se agrego una nueva descripción. | 01/05/2024 |
+| StockerUPC/Stocker | main | 6f2a63b | Update landing.component.vue | Se agregó las dependencias necesarias para el buen funcionamiento | 01/05/2024 |
+| StockerUPC/Stocker | main | 6b536ee | Update index.js | Se agregó nuevos 'paths' para el direccionamiento de nuevas rutas | 01/05/2024 |
+
+
 
 ## Conclusiones
 - Durante el desarrollo de Stocker, identificamos claramente las necesidades específicas de gestión empresarial de los pequeños negocios, lo que nos permitió enfocar nuestros esfuerzos en desarrollar soluciones que abordaran estas necesidades de manera efectiva.
