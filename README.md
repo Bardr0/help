@@ -415,8 +415,8 @@ En la entrevista con el dueño de una bodega, se identificó el principal desaf�
 ####     2.3.1. User Personas.
 
 ## Segmento 1
-
 ![image](imgs/user-persona-1.png)
+ 
 
 ## Segmento 2
 ![image](imgs/user-persona-2.png)
@@ -568,13 +568,13 @@ En resumen, este logo transmite la idea de una solución de gestión financiera 
 ####    4.1.2. Web Style Guidelines.
 **Local Styleguide**
 
-![image](imgs/local-styleguidelines-#05191D.png)
+![image](imgs/local-slyleguidelines-#05191D.png)
 #05191D
 
-![image](imgs/local-styleguidelines-#05191D.png)
+![image](imgs/local-styleguidelines-#269AA5.png)
 #269AA5
 
-![image](imgs/local-styleguidelines-#6196AF.png)
+![image](imgs/style-guidelines-#6196AF.png)
 #6196AF
 
 El sitio web de Stocker utiliza una paleta de colores que incluye tonos de azul oscuro, verde azulado y azul claro para transmitir una sensación de innovación, confiabilidad, energía y tranquilidad, creando así una experiencia atractiva y accesible en el contexto de la gestión de micronegocios.
@@ -621,11 +621,11 @@ La navegación en Stocker se ha diseñado de manera intuitiva y fluida, permitie
 
 
 ####    4.3.2. Landing Page Mock-up.
-![LandingPageMockUp](imgs/landing-mackup-1.png)
-![LandingPageMockUp](imgs/landing-mackup-2.png)
-![LandingPageMockUp](imgs/landing-mackup-3.png)
-![LandingPageMockUp](imgs/landing-mackup-4.png)
-![LandingPageMockUp](imgs/landing-mackup-5.png)
+![LandingPageMockUp](imgs/landing-mockup-1png)
+![LandingPageMockUp](imgs/landing-mockup-2.png)
+![LandingPageMockUp](imgs/landing-mackups-3.png)
+![LandingPageMockUp](imgs/landing-mackups-4.png)
+![LandingPageMockUp](imgs/landing-mockups-5.png)
  
 ### 4.4. **Web Applications UX/UI Design.**
 ####    4.4.1. Web Applications Wireframes.
@@ -790,21 +790,21 @@ Seleccionaremos el archivo deseado a subir al repositorio
 ![Imagen](imgs/Software-Deployment-Configuration-a.png)
 
 Usamos GithHub Desktop para detectar cambios y actualizarlos dando click en Commit
-![Imagen](Software-Deployment-Configuration-b.png)
+![Imagen](imgs/Software-Deployment-Configuration-b.png)
 
 Damos click en Push Origin
-![Imagen](Software-Deployment-Configuration-c.png)
+![Imagen](imgs/Software-Deployment-Configuration-c.png)
 
 Luego podremos observar cómo se vería nuestros archivos ya subidos a los repositorios, categorizados por carpetas
-![Imagen](Software-Deployment-Configuration-d.png)
+![Imagen](imgs/Software-Deployment-Configuration-d.png)
 
 Dentro de dichas carpetas podremos observar todos los archivos requeridos para el funcionamiento de nuestra landing page
-![Imagen](Software-Deployment-Configuration-e.png)
+![Imagen](imgs/Software-Deployment-Configuration-e.png)
 
 Por último, podremos observar nuestra landing page subida y totalmente operativa
 Primero visualizamos el Landing Page en navegador (Desktops)
 En la siguiente imagen se mostrará el resultado de la pantalla de inicio
-![Imagen](Software-Deployment-Configuration-f.png)
+![Imagen](imgs/Software-Deployment-Configuration-f.png)
 
 Seguido visualizamos el landing page en navegador (mobile)
 Se mostrar la visualización de la página en un dispositivo smartphone.
