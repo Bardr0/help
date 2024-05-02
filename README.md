@@ -241,14 +241,14 @@ Los dueños de librerías en Lima Metropolitana pueden variar en cuanto a edades
 Residen principalmente en Lima Metropolitana y áreas cercanas, donde operan sus negocios. Esto incluye distritos urbanos y suburbanos de la ciudad.
 
  
-#### **Segmento 2: Dueños de Restaurantes**
- 
+#### **Segmento 2: Dueños de Ferreterias**
+ Proporciona herramientas para gestionar inventario, reservas, pedidos y facturación, optimizando el proceso de pedido y entrega de productos de ferretería, así como la gestión de clientes y análisis de ventas.
 
 ##### Aspectos Demográficos:
- 
+Los propietarios de ferreterías en Lima Metropolitana pueden ser de diversas edades, géneros y niveles socioeconómicos. Pueden ser desde jóvenes emprendedores hasta empresarios con experiencia en la industria ferretera.
 
 ##### Aspectos Geográficoas:
- 
+Residen y operan sus ferreterías principalmente en Lima Metropolitana y áreas circundantes. Esto incluye distritos urbanos y áreas comerciales de la ciudad.
 
  #### **Segmento 3: Duesños de Bodegas  **
 Ayuda a gestionar inventario, proveedores y logística de almacenamiento y entrega. Facilita la gestión de clientes, personalización de promociones y análisis de mercado para optimizar las ventas y la eficiencia operativa.
@@ -314,6 +314,10 @@ En base a nuestra investigación, hemos identificado los siguientes tres posible
 
 
 #### **Segmento Objetivo 2: Dueños de Ferreterias**
+- ¿Cuáles son los aspectos de la gestión de tu ferretería que consideras más difíciles o que te gustaría optimizar?
+- ¿Qué funcionalidades crees que serían más útiles para gestionar el inventario de productos, pedidos de clientes y facturación en tu ferretería?
+- ¿Cómo te gustaría que el sistema ayudara a mejorar la eficiencia en el proceso de pedido y entrega de productos de ferretería?
+- ¿Qué tipo de análisis de ventas te gustaría poder realizar con el sistema en tu ferretería? 
 
 
 #### **Segmento Objetivo 3: Dueños de Bodegas**
@@ -330,6 +334,8 @@ En base a nuestra investigación, hemos identificado los siguientes tres posible
 
 ##### *Entrevista 1:* 
 *Segmento 1*
+**Nombre:**
+Isabel Arevalo
 #### Sexo: 
 Femenino
 #### Edad: 
@@ -343,23 +349,45 @@ Pueblo Libre
 #### Resumen: 
 En la entrevista con el propietario de una librería, se destacó la necesidad de un sistema que permita un control sencillo de los productos y detalles de ingresos y egresos por día, semana y mes. El entrevistado expresó su deseo de tener un sistema que facilite el manejo de pagos tanto en línea como en efectivo, así como la capacidad de registrar gastos como electricidad y agua. Se mencionó la importancia de funciones con voz para búsqueda de productos y ventas, y la conexión directa con la plataforma de SUNAT para facturaciones. Se valoró la interfaz sencilla y didáctica, especialmente para dispositivos móviles, y la posibilidad de soporte por chat y capacitación presencial. Además, se enfatizó la necesidad de un sistema que permita un seguimiento detallado de los ingresos y egresos, facilitando así la toma de decisiones informadas sobre la gestión del negocio.
 
-##### *Entrevista 2:* 
+##### *Entrevista 1:* 
 *Segmento 2*
+**Nombre:**
+Freddy Condori Tacora
 #### Sexo: 
 Masculino
 #### Edad: 
-23
+45
 #### Ubicación: 
-San Miguel, Lima
+Breaña, Lima
 #### Link:
-[Entrevista2](https://youtu.be/m7QYNou6Ato)
+[Entrevista2](https://youtu.be/kVTbZlRw8R0)
 #### Duración: 
-2:35
+2:12
 #### Resumen:
-En la entrevista con el gerente de un restaurante, se enfatizó la necesidad de optimizar la administración del ingreso y salida de productos y dinero. Se deseaba una herramienta en vivo que notifique a todos los perfiles sobre las entradas y salidas del negocio, una opción más dinámica para realizar comprobantes de pago y una función para visualizar las utilidades en intervalos de tiempo. Se buscaba la capacidad de hacer comparaciones entre las utilidades de distintos periodos, lo cual es crucial para la planificación y el análisis de la rentabilidad del negocio. Se destacó la importancia de un sistema que permita una gestión eficiente de los recursos y una mejor visibilidad sobre las operaciones diarias.
+En la entrevista se resaltó la importancia de un sistema de gestión de ventas con facilidad para acceder a precios y calcular los ingresos del negocio, así como la necesidad de que sea multiplataforma, compatible con dispositivos móviles, tabletas y computadoras. Se requiere la capacidad de crear y emitir automáticamente facturas, boletas y proformas, además de brindar a los proveedores la opción de enviar su stock y mantener actualizados sus precios. También se mencionó la necesidad de ofrecer capacitación para el uso del sistema de forma online.
 
-##### *Entrevista 3:*
+
+##### *Entrevista 2:* 
+*Segmento 2*
+**Nombre:**
+George Condori Tacora
+#### Sexo: 
+Masculino
+#### Edad: 
+30
+#### Ubicación: 
+Breaña, Lima
+#### Link:
+[Entrevista2](https://youtu.be/IoGntsz3J7Y)
+#### Duración: 
+2:12
+#### Resumen:
+En la entrevista, se enfatizó la necesidad de un sistema de gestión de ventas que también incorpore funciones de código de barras, registro de precios de productos, emisión de facturas y boletas, así como la capacidad de generar balances según períodos de tiempo, especialmente semanalmente, para el seguimiento de compras y ventas. Se requiere la opción de enviar promociones a través de redes sociales, particularmente por WhatsApp, así como la creación de una lista de precios actualizada. Además, se necesita una función para gestionar relaciones con proveedores, permitiendo el acceso a los precios recientes de compra de productos. Por último, se solicita capacitación presencial para el uso efectivo del sistema.
+
+##### *Entrevista 1:*
 *Segmento 3*
+**Nombre:**
+Sharon Alvarez
 #### Sexo: 
 Femenino
 #### Edad: 
@@ -374,6 +402,23 @@ Callao, Lima
 En la entrevista con el dueño de una bodega, se identificó el principal desafío como la falta de digitalización del inventario, lo que dificulta la escalabilidad del negocio. Se mencionó la dificultad para saber en qué categoría de productos se encuentra más estancada y la necesidad de llevar un registro de las fechas de caducidad de los perecibles para evitar pérdidas. Se deseaban alertas para los perecibles próximos a su caducidad, un balance de ventas por categoría y facilidad para el registro de comprobantes de compra y venta. Además, se buscaba la conexión con un chat grupal para realizar envíos de mensajes promocionales sobre productos rezagados. Se enfatizó la importancia de un sistema que permita una gestión eficiente del inventario y una mejor comunicación con los clientes, lo cual es esencial para mantener la satisfacción del cliente y maximizar las ventas.
 
 
+##### *Entrevista 2:*
+*Segmento 3*
+**Nombre:**
+Fernando Alvarez
+#### Sexo: 
+Masculino
+#### Edad: 
+29
+#### Ubicación: 
+Pueblo Libre, Lima
+#### Link:
+[Entrevista3](https://youtu.be/8dNPNSlTYik)
+#### Duración: 
+10:03
+#### Resumen:
+En la entrevista se subrayó la necesidad de un sistema de gestión de ventas que aborde el manejo de productos perecibles y entregas a domicilio, con integración a WhatsApp Business y su catálogo. Se requiere un reporte claro de cuentas en intervalos de tiempo, especialmente semanal, así como la capacidad de ingresar un estimado de duración para productos perecibles, con alertas automáticas para gestionar su venta antes de su vencimiento. Además, se solicitó un reporte claro de las transacciones del negocio, capacitación para el uso del sistema y la capacidad de calcular ganancias para reinversiones, gastos y ganancia neta.
+
 ####     2.2.3. Análisis de entrevistas.
 
 #### Segmento #1:
@@ -386,15 +431,22 @@ En la entrevista con el dueño de una bodega, se identificó el principal desaf�
 
 - Experiencia del Usuario y Soporte: El hecho de tener una interfaz fácil de usar y que se adapte a distintos dispositivos, es muy crucial para el buen uso de los usuarios.
 
+
 #### Segmento #2:
 
 **Hallazgos:**
+- Acceso Rápido a Precios e Ingresos: Se evidencia la importancia de contar con un sistema que permita acceder fácilmente a los precios de productos y calcular los ingresos del negocio de manera rápida y precisa.
 
-- Optimización de la Gestión Operativa: En la entrevista se hizo énfasis en la falta de optimización para la administración de productos y ventas del restaurante. 
+- Compatibilidad Multiplataforma: Se subraya la necesidad de que el sistema sea compatible con diferentes dispositivos, como móviles, tabletas y computadoras, para garantizar la accesibilidad y la flexibilidad en su uso.
 
-- Mejoras en los Procesos de Facturación y Contabilidad: Se comentó sobre el deseo de tener el acceso a una manera más dinámica para la realización de comprobantes de pago, se habla sobre la importancia de simplificar y agilizar dichos procesos.
+- Automatización de Documentos Financieros: Se destaca la necesidad de automatizar la creación y emisión de facturas, boletas y proformas para agilizar los procesos administrativos y financieros del negocio.
+- Gestión de Relaciones con Proveedores: Se resalta la importancia de tener una función que facilite la gestión de relaciones con proveedores, permitiendo el acceso a información actualizada sobre precios de compra y stock de productos.
 
-- Análisis Avanzado para la Toma de Decisiones: Se destacó la importancia de disponer de herramientas que permitan visualizar las utilidades en intervalos de tiempo y comparar los resultados entre distintos periodos. 
+- Envío de Promociones por Redes Sociales: Se evidencia la necesidad de enviar promociones y ofertas a través de redes sociales, especialmente mediante WhatsApp, para llegar de manera efectiva a los clientes y aumentar las ventas.
+
+- Generación de Balances Temporales: Se menciona la importancia de generar balances y reportes financieros según períodos de tiempo específicos, como semanalmente, para realizar un seguimiento detallado de las compras y ventas y tomar decisiones estratégicas basadas en datos precisos.
+
+- Capacitación en el Uso del Sistema: Se resalta la necesidad de ofrecer capacitación tanto en línea como presencial para garantizar un uso efectivo y óptimo del sistema por parte de los usuarios.
 
 
  
