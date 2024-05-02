@@ -615,380 +615,287 @@ La navegación en Stocker se ha diseñado de manera intuitiva y fluida, permitie
 ####    4.3.1. Landing Page Wireframe.
 ![LandingPageWireframe](imgs/landing-wireframe-1.png)
 ![LandingPageWireframe](imgs/landing-wireframe-2.png)
-![LandingPageWireframe](imgs/landing-wireframe-3.png)
-![LandingPageWireframe](imgs/landing-wireframe-4.png)
+![LandingPageWireframe](imgs/landing-wireframes-3.png)
+![LandingPageWireframe](imgs/landing-wireframes-4.png)
+![LandingPageWireframe](imgs/landing-wireframes-5.png)
 
 
 ####    4.3.2. Landing Page Mock-up.
-![LandingPageMockUp](Images/LandingPageMock1.png)
-![LandingPageMockUp](Images/LandingPageMock2.png)
-![LandingPageMockUp](Images/LandingPageMock3.png)
-
+![LandingPageMockUp](imgs/landing-mackup-1.png)
+![LandingPageMockUp](imgs/landing-mackup-2.png)
+![LandingPageMockUp](imgs/landing-mackup-3.png)
+![LandingPageMockUp](imgs/landing-mackup-4.png)
+![LandingPageMockUp](imgs/landing-mackup-5.png)
+ 
 ### 4.4. **Web Applications UX/UI Design.**
 ####    4.4.1. Web Applications Wireframes.
-![WebAppWireframe](Images/WireframeWebApp.png)
-
-####    4.4.2.. Web Applications Wireflow Diagrams.
-![WireflowWebApp](Images/Wireflow1.png)
-![WireflowWebApp](Images/Wireflow2.png)
-![WireflowWebApp](Images/Wireflow3.png)
-![WireflowWebApp](Images/Wireflow4.png)
-![WireflowWebApp](Images/Wireflow5.png)
-![WireflowWebApp](Images/Wireflow6.png)
-![WireflowWebApp](Images/Wireflow7.png)
+ 
+ 
 
 ####    4.4.2. Web Applications Mock-ups.
-![WebAppMockUp](Images/WebAppMockUp.png)
+ 
 
 ####    4.4.3. Web Applications User Flow Diagrams.
-![UserGoal](Images/UserGoal1.png)
-![UserGoal](Images/UserGoal2.png)
-![UserGoal](Images/UserGoal3.png)
-![UserGoal](Images/UserGoal4.png)
-![UserGoal](Images/UserGoal5.png)
-![UserGoal](Images/UserGoal6.png)
+Los diagramas de flujo de usuarios en aplicaciones web son representaciones visuales que muestran el camino que sigue un usuario a través de una aplicación, desde el inicio hasta la finalización de una tarea o proceso específico. Estos diagramas son útiles para comprender cómo los usuarios interactúan con la aplicación y pueden ayudar a identificar posibles áreas de mejora en la experiencia del usuario.
 
-[**Miro Users Goals Web Application**](https://miro.com/app/board/uXjVKWB7Y98=/)
-
+ 
 ### 4.5 **Web Applications Prototyping.**
-[**Figma Web Application**](https://www.figma.com/proto/7Mp7dcTqoQm2soCJln7Hmv/StyleShare?type=design&node-id=4644-2&t=4TceG8kvgTzI5J0p-1&scaling=min-zoom&page-id=10%3A2&starting-point-node-id=4644%3A2)
+[**Link**](https://youtu.be/frC9cjJQGbA)
 
 ### 4.6. **Domain-Driven Software Architecture.**
 ####    4.6.1. Software Architecture Context Diagram.
-![ContextDiagram](Images/ContextDiagram.png)
+![ContextDiagram](imgs/Software-Architecture-Context-Diagram.png)
 
 ####    4.6.2. Software Architecture Container Diagrams.
-![ContainerDiagram](Images/ContainerDiagrams.png)
+![ContainerDiagram](imgs/Software-Architecture-Container-Diagrams.png)
 
 ####    4.6.3. Software Architecture Components Diagrams.
-![ComponentsDiagram](Images/ComponentsDiagrams.png)
+![ComponentsDiagram](imgs/Software-Architecture-Components-Diagrams-a.png)
+![ComponentsDiagram](imgs/Software-Architecture-Components-Diagrams-b.png)
 
-[**Miro Domain-Driven Software Architecture**](https://miro.com/app/board/uXjVKXvlnKw=/)
-
+ 
 ### 4.7. **Software Object-Oriented Design.**
 ####    4.7.1. Class Diagrams.
-![CalssDiagram](Images/ClassDiagram.png)
+![CalssDiagram](imgs/class-diagrams.png)
 
 ####    4.7.2. Class Dictionary.
-Class Transacción
-<br><br>
-| Atributo         | Type       |Description|
-|------------------|------------|-----------|
-| monto           | int     | Representa el monto de la transacción. |
-| estado           | string     | Estado de la transaccion |
-| fecha           | date     | Fecha en la que se realizo la transaccion. |
+**Categoria:**
+Atributos:
+IdCategoria: int
+Descripcion: str
+Estado: str
+FechaCreacion: date
+**Producto:**
+Atributos:
+IdProducto: int
+Codigo: str
+Nombre: str
+Descripcion: str
+IdCategoria: int
+Stock: int
+PrecioCompra: double
+PrecioVenta: double
+Estado: str
+FechaRegistro: date
+**DetalleCompra:**
+Atributos:
+IdDetalleCompra: int
+IdCompra: int
+IdProducto: int
+PrecioCompra: double
+PrecioVenta: double
+Cantidad: int
+Total: double
+FechaRegistro: date
+**DetalleVenta:**
+Atributos:
+IdDetalleVenta: int
+IdVenta: int
+IdProducto: int
+PrecioVenta: double
+Cantidad: int
+SubTotal: double
+FechaRegistro: date
+**Compra:**
+Atributos:
+IdCompra: int
+IdUsuario: int
+IdProveedor: int
+TipoDocumento: str
+NumeroDocumento: str
+MontoTotal: double
+FechaRegistro: date
+**Usuario:**
+Atributos:
+IdUsuario: int
+Documento: str
+NombreCompleto: str
+Correo: str
+Clave: str
+IdRol: int
+Estado: str
+FechaCreacion: date
+**Venta:**
+Atributos:
+IdVenta: int
+IdUsuario: int
+TipoDocumento: str
+DocumentoCliente: str
+NombreCliente: str
+MontoPago: double
+MontoCambio: double
+MontoTotal: double
+FechaRegistro: date
+**Proveedor:**
+Atributos:
+IdProveedor: int
+Documento: str
+RazonSocial: str
+Correo: str
+Telefono: str
+Estado: str
+FechaCreacion: date
+**Rol:**
+Atributos:
+IdRol: int
+Descripcion: str
+FechaCreacion: date
+**Permiso:**
+Atributos:
+IdPermiso: int
+IdRol: int
+NombreMenu: str
+FechaCreacion: date
 
-| Funcion         | Type       |Description|
-|------------------|------------|-----------|
-| obtener_monto()           | float     | Devuelve el monto de la transacción como un número de punto flotante. |
-| establecer_monto(monto)         | float      |  Establece el monto de la transacción.|
+**Cliente:**
+Atributos:
+IdCliente: int
+Documento: str
+NombreCompleto: str
+Correo: str
+Telefono: str
+Estado: str
+FechaCreacion: date
 
-<br><br>
-
-Class Categoría
-
-| Atributo       | Type | Description                                         |
-|----------------|------|-----------------------------------------------------|
-| nombre         | int  | Almacena el nombre de la categoría.                |
-| totalPrendas  | int  | Almacena el número total de prendas en la categoría.|
-
-| Función                       | Type | Description                                       |
-|-------------------------------|------|---------------------------------------------------|
-| obtener_nombre_categoría()    | void | Devuelve el nombre de la categoría.               |
-| mostrar_categorías()          | void | Muestra las categorías disponibles.               |
-
-<br><br>
-
-Class Suscripción
-
-| Atributo      | Type    | Description                                    |
-|---------------|---------|------------------------------------------------|
-| tipo          | int     | Almacena el tipo de suscripción.              |
-| costo         | float   | Almacena el costo de la suscripción.          |
-| descripción   | varchar | Almacena una descripción de la suscripción.   |
-
-| Función               | Type | Description                                       |
-|-----------------------|------|---------------------------------------------------|
-| generar_sub(usuario)  | void | Genera una suscripción para un usuario.           |
-| cambiar_sub(usuario)  | void | Cambia la suscripción de un usuario.              |
-| cancelar_sub(usuario) | void | Cancela la suscripción de un usuario.             |
-
-<br><br>
-
-Class Publicacion
-
-| Atributo      | Type    | Description                                            |
-|---------------|---------|--------------------------------------------------------|
-| código        | int     | Almacena el código de la publicación.                  |
-| costo         | float   | Almacena el costo de alquiler de la prenda.            |
-| valoración    | float   | Almacena la valoración de la publicación.              |
-| comentarios   | varchar | Almacena los comentarios de la publicación.            |
-| arrendador    | Usuario | Almacena el usuario que publicó la prenda.             |
-| prenda        | Prenda  | Almacena la prenda que se publica.                     |
-
-| Función                        | Type | Description                                                  |
-|--------------------------------|------|--------------------------------------------------------------|
-| agregar_publicación()          | void | Agrega una nueva publicación.                                |
-| compartir_redes_sociales()     | void | Comparte la publicación en redes sociales.                   |
-| agregar_favoritos()            | void | Agrega la publicación a los favoritos del usuario.           |
-| agregar_al_carro()             | void | Agrega la publicación al carrito de compras.                 |
-
-<br><br>
-
-Class Usuario
-
-| Atributo       | Type      | Description                                            |
-|----------------|-----------|--------------------------------------------------------|
-| dni            | int       | Almacena el DNI del usuario.                           |
-| correo         | varchar   | Almacena el correo electrónico del usuario.            |
-| nombre         | varchar   | Almacena el nombre del usuario.                        |
-| apellido       | varchar   | Almacena el apellido del usuario.                      |
-| número         | int       | Almacena el número de teléfono del usuario.            |
-| suscripción    | Suscripción | Almacena la suscripción del usuario.                  |
-
-| Función                    | Type  | Description                                            |
-|----------------------------|-------|--------------------------------------------------------|
-| iniciar_sesiónCorreo()     | void  | Inicia sesión del usuario con su correo electrónico.  |
-| iniciar_sesiónGoogle()     | void  | Inicia sesión del usuario con su cuenta de Google.     |
-
-<br><br>
-
-Class Alquiler
-
-| Atributo            | Type       | Description                                            |
-|---------------------|------------|--------------------------------------------------------|
-| código              | int        | Almacena el código del alquiler.                       |
-| costo_total         | float      | Almacena el costo total del alquiler.                  |
-| publicación         | Publicación | Almacena la publicación del alquiler.                  |
-| fecha               | date       | Almacena la fecha de inicio del alquiler.              |
-| estado              | varchar    | Almacena el estado del alquiler.                       |
-| prenda              | Prenda     | Almacena la prenda alquilada.                          |
-
-| Función                            | Type  | Description                                            |
-|------------------------------------|-------|--------------------------------------------------------|
-| agregar_publicación()              | void  | Agrega una nueva publicación.                          |
-| actualizar_estado_alquiler()       | void  | Actualiza el estado del alquiler.                      |
-| calcular_costo_alquiler()          | void  | Calcula el costo total del alquiler.                   |
-| registrar_devolución()             | void  | Registra la devolución de la prenda.                   |
-
-<br><br>
-
-Class Envio
-
-| Atributo             | Type    | Description                                        |
-|----------------------|---------|----------------------------------------------------|
-| fechaEntrega         | int     | Almacena la fecha de entrega del envío.            |
-| dirección            | varchar | Almacena la dirección de entrega del envío.        |
-| estadoSeguimiento    | varchar | Almacena el estado de seguimiento del envío.       |
-
-| Función                                | Type  | Description                                        |
-|----------------------------------------|-------|----------------------------------------------------|
-| establecer_fecha_entrega()             | void  | Establece la fecha de entrega del envío.           |
-| obtener_dirección()                    | string| Obtiene la dirección de entrega del envío.        |
-| cambiar_estado_seguimiento()           | void  | Cambia el estado de seguimiento del envío.        |
-
-<br><br>
 
 ### 4.8. **Database Design.**
 ####    4.8.1. Database Diagram.
-![Database](Images/DatabaseDiagrams.png)
+![Database](imgs/database-diagram.png)
 
 
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management.
-####    5.1.1. Software Development Environment Configuration.
+Para el desarrollo de nuestro proyecto utilizaremos el entorno de desarrollo integrado (IDE) WebStorm creado por JetBrains, este programa será utilizado para el desarrollo de nuestro sitio web. Emplearemos Vue.js como framework de Javascript, así como Vite, se utilizará el lenguaje HTML debido a que su principal objetivo es el desarrollo de este tipo de proyectos y lo complementaremos con el lenguaje CSS para añadir una estética más llamativa y Javascript que se ocupara de las funciones técnicas del sitio web.   
 
-Project Management:
-
-WhatsApp: Aplicación de mensajería por dónde nos comunicamos para coordinar las tareas a realizar https://www.whatsapp.com/?lang=es_LA
-
-Notion: Notion es una herramienta de gestión de proyectos que permite a los equipos colaborar en tiempo real, organizar tareas y compartir información de manera eficiente. https://www.notion.so/es-es
-
-
-Requirements Management:
-
-Google Drive: Plataforma para almacenar archivos, en la cual se guardaron videos de las entrevistas y documentos que se utilizaron en la creación del informe. 
-https://drive.google.com/
-
-Product UX/UI Design:
-
-Figma: Herramienta para diseñar interfaces, la cual se utilizó para crear los wireframes y mockups de nuestro servicio https://www.figma.com/
-
-Git Hub: Plataforma para desarrollo de software, en la cual se almacenaron archivos del proyecto. https://github.com/
-
-
-Software Development:
-
-Visual Studio Code: Visual Studio Code es un editor de código ligero y altamente personalizable que ofrece una amplia gama de funciones y extensiones para facilitar el desarrollo de software. https://code.visualstudio.com/
-
-Miro: Espacio de trabajo para crear distintos tipos de archivos, el cuál se usó para crear diagramas https://miro.com/es/
-
-HTML: HTML es el lenguaje de marcado estándar utilizado para crear y diseñar páginas web. En StyleShare, utilizamos HTML para estructurar y organizar el contenido de nuestra aplicación web, lo que nos permite definir la jerarquía de los elementos y la presentación visual de la interfaz de usuario. https://developer.mozilla.org/en-US/docs/Web/HTML
-
-CSS: CSS es un lenguaje de diseño utilizado para definir la apariencia y el estilo visual de las páginas web. En StyleShare, utilizamos CSS para personalizar y dar formato al contenido de nuestra aplicación web, lo que nos permite controlar la tipografía, los colores, los márgenes y otros aspectos visuales de la interfaz de usuario. https://developer.mozilla.org/en-US/docs/Web/CSS
-
-
-Javascript: JavaScript es un lenguaje de programación utilizado en el desarrollo web para crear páginas interactivas y dinámicas. 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-Git: Git es un sistema de control de versiones distribuido que permite a los equipos colaborar en el desarrollo de software, realizar un seguimiento de los cambios en el código y gestionar las versiones de los archivos de forma eficiente. https://git-scm.com/
-
-
-Software Documentation and Project Management
-
-Github: GitHub es una plataforma en línea que permite a los equipos colaborar en el desarrollo de software, alojar repositorios de código y gestionar proyectos de forma eficiente. 
-
+![Imagen](imgs/Software-Development-Environment-Configuration-a.png)
+![Imagen](imgs/Software-Development-Environment-Configuration-b.png)
 ####    5.1.2. Source Code Management.
 
-|Integrantes| Cuenta de GitHub      |
-|----------|-----------------------|
-|Agama Espinoza, Eric Fabrizio	| U202213358@upc.edu.pe |
-|Ramos Najar Tony Alexander| u20211A153@upc.edu.pe |
-|More Rondon Christopher Sebastian| u202212199@upc.edu.pe |
-|Cortez Quezada, Joaquin Antonio	| u202212648@upc.edu.pe |
+Gitflow es un enfoque de ramificación en Git que se utiliza para proyectos de larga duración y con numerosas confirmaciones. Este modelo facilita la creación de ramas principales y de funciones, y ofrece extensiones de Git para gestionar la operación y actualización de estas ramas. En nuestro proyecto, contamos con 2 repositorios: uno para el landing page y otro para los acceptance test. La rama "main" contiene los archivos necesarios para procesar el landing page. Además, en el repositorio para los criterios de aceptación, almacenamos las epics en archivos .feature. Elegimos GitHub para trabajar en equipo, realizar un seguimiento actualizado del proyecto en su totalidad y para visualizar el proyecto realizado en vue.js con todas las modificaciones y archivos relacionados.Repositorio de Landing Page: 
+[Github](https://github.com/StockerUPC/Stocker/tree/main)
 
-Despliegues:
+Repositorio criterios de aceptación: [Github](https://github.com/StockerUPC/Stocker/tree/feature)
 
-https://upc-pre-202401-si730-ws51-styleshare.github.io/LandingPage/
 
-Repositorios:
 
-https://github.com/upc-pre-202401-SI730-WS51-StyleShare/LandingPage
-
-![GitFlow](Images/Gitflow.jpg)
-
-El modelo de Gitflow define una serie de ramas estándar y reglas para su uso, lo que facilita la colaboración y la gestión del código en un equipo de desarrollo.
-
-La rama main es la rama principal de nuestro proyecto, que contiene la versión estables, operativas y listas para implementar. Usaremos etiquetas para marcar cada versión estable y desplegable, esto nos permitirá realizar un seguimiento claro de las versiones y facilitar la gestión de futuras actualizaciones.
-
-La rama develop es la rama de desarrollo contiene las versiones en desarrollo de nuestro proyecto que aún no han sido sometidas a pruebas, aunque están completadas y contienen todas las características que se esperan hasta ese momento.
-
-La rama feature es la rama donde cada nueva característica se desarrolla en una rama de características separada, lo que permite a los miembros del equipo trabajar de forma independiente en diferentes aspectos de la aplicación
 
 ####    5.1.3. Source Code Style Guide & Conventions.
+En nuestro proyecto basado en Vue.js, es esencial establecer un guía de estilo y convenciones de codificación para garantizar la coherencia y la legibilidad del código en todo el proyecto. Seguiremos las directrices establecidas en el guía de estilo oficial de Vue.js y en el estándar de codificación de JavaScript (como ES6), adaptándolas a nuestras necesidades específicas de desarrollo. Esto incluirá reglas para la nomenclatura de variables y funciones, la organización de archivos y carpetas, la estructura de componentes Vue, la indentación y el formato del código. Con estas prácticas, aseguraremos un desarrollo eficiente y colaborativo, facilitando la comprensión y el mantenimiento del código a lo largo del ciclo de vida del proyecto. 
 
-En esta sección, se establece y documenta la guía de estilo y las convenciones de codificación que deben seguirse en el proyecto.Estas convenciones se aplicarán a los diversos lenguajes utilizados como HTML,CSS y Gherkin.
-
-#### HTML: 
-
-Se debe cerrar cada elemento HTML adecuadamente.
-
-Utilizar minúsculas para los nombres de elementos y atributos.
-
-Emplear comillas alrededor de los valores de los atributos, especialmente cuando incluyan espacios.
-
-#### CSS: 
-
-Todo el código debe estar en minúscula. 
-
-Utilizar nombres de clase significativos o genéricos, nombres que reflejen el propósito de su elemento.
-
-Evitar especificar la unidad de medida para valores de 0.
-
-#### JavaScript:
-
-Utilizar nombres de variables y funciones descriptivos
-
-Mantener comentarios para explicar el propósito y la funcionalidad del código
-
-Utilizar punto y coma al final de cada declaración
-
-#### Gherkin:
-
-Utilizar los bloques Given, When, y Then para estructurar los escenarios
-
-Utilizar palabras clave significativas y descriptivas.
-
-Usar saltos de línea para mejorar la legibilidad y agrupar información.
-
+ 
 ####    5.1.4. Software Deployment Configuration.
-En este trabajo utilizaremos Git y Github
+En este apartado desplegamos nuestra Landing Page con ayuda del servicio de GitHub, Para esto seguiremos los siguientes pasos.
+Seleccionaremos el archivo deseado a subir al repositorio
+![Imagen](imgs/Software-Deployment-Configuration-a.png)
 
-Git: Git es un sistema de control de versiones distribuido muy utilizado en el desarrollo de software. Ha evolucionado hasta convertirse en una herramienta esencial para la colaboración y el seguimiento de cambios en proyectos, tanto de código abierto como privados. Los desarrolladores pueden crear ramas, realizar modificaciones en estas y fusionarlas de manera eficiente, permitiendo así el trabajo simultáneo.
+Usamos GithHub Desktop para detectar cambios y actualizarlos dando click en Commit
+![Imagen](Software-Deployment-Configuration-b.png)
 
-Su utilidad reside en el control detallado de las herramientas del software, permitiendo almacenar diferentes versiones a lo largo de las distintas etapas del proyecto. Esto posibilita a los desarrolladores hacer un seguimiento de lo realizado y resolver problemas o realizar cambios según sea necesario durante el desarrollo del proyecto.
+Damos click en Push Origin
+![Imagen](Software-Deployment-Configuration-c.png)
 
-GitHub: GitHub es una plataforma de alojamiento y colaboración de código fuente construida sobre Git. En este entorno, los desarrolladores pueden crear repositorios para almacenar y administrar su código fuente, los cuales pueden ser públicos o privados. 
+Luego podremos observar cómo se vería nuestros archivos ya subidos a los repositorios, categorizados por carpetas
+![Imagen](Software-Deployment-Configuration-d.png)
 
-GitHub permite que múltiples desarrolladores trabajen simultáneamente en el mismo repositorio, realizando cambios en diferentes ramas y fusionándose de manera sencilla. Esto simplifica la gestión conjunta y la integración de contribuciones diversas.
+Dentro de dichas carpetas podremos observar todos los archivos requeridos para el funcionamiento de nuestra landing page
+![Imagen](Software-Deployment-Configuration-e.png)
 
-### 5.2. Landing Page, Services & Applications Implementation.
-####    5.2.1. Sprint 1
+Por último, podremos observar nuestra landing page subida y totalmente operativa
+Primero visualizamos el Landing Page en navegador (Desktops)
+En la siguiente imagen se mostrará el resultado de la pantalla de inicio
+![Imagen](Software-Deployment-Configuration-f.png)
+
+Seguido visualizamos el landing page en navegador (mobile)
+Se mostrar la visualización de la página en un dispositivo smartphone.
+
+### 5.2. Landing Page, Services & Applications Implementation
+
+
+
 #####         **5.2.1.1. Sprint Planning 1.**
-| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.|
-| -------------------------------- | ----------------------------------------------------------- |
-| Sprint Planning Background       |
-| Date                             | 10/04/2024|
-| Time                             | 22:00 horas (GMT-5)|
-| Location                         | Reunión realizada mediante Discord|
-| Prepared By                      | Cortez Quezada, Joaquin Antonio	|
-| PAttendees (to planning meeting) | <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon Christopher Sebastian </li> <li>Agama Espinoza, Eric Fabrizio   </li> <li>Ramos Najar Tony Alexander </li>|
-|Sprint n -1 Review|
-|Resumen|Se creará la organización de StyleShare en Github y el repositorio de la organización. |
-|Sprint n -1 Retrospective|
-|Resumen|Se implemento para el landing se ha realizado mediante html css y js.|
-| **Sprint Goal & User Stories**   |
-| Sprint 1 Velocity                |  21 points|
-| Sum of Story Points              |  21 points|
+| Sprint# | Sprint 1 |
+|---|---|
+| Date | 2024-04-08 |
+| Time | 04:33 PM |
+| Location | Reunión virtual realizada en la aplicación Discord |
+| Prepared By | Salvador Rodríguez, Rodrigo Jesús |
+| Attendees (to planning meeting) | Salvador Rodríguez, Rodrigo Jesús / Barturen Guzmán, Alejandro Nicolas / López Huamán, Rodrigo Adrián / Elías Sánchez, Harold Miguel / Meneses Arévalo, Victor Manuel |
+| Sprint n – 1 Review Summary | Se completaron las funcionalidades de registros de usuarios y el inicio de sesión. Como equipo habíamos debatido lo que se le podría añadir, implementar y mejorar, y se decidió que se podría agregar la opción de “Contáctanos” para una comunicación más efectiva. |
+| Sprint n – 1 Retrospective Summary | Se destacó la importancia de completar las funcionalidades mencionadas anteriormente, además que se reconoció lo importante de la comunicación en el trabajo en equipo. Se enfatizó la importancia de una planificación más detallada y la resolución proactiva de desafíos técnicos para futuros sprints. |
+| Sprint n Goal | El objetivo que tenemos es mejorar la funcionalidad de la opción de “Contáctanos” y mejorar el registro de inventarios, la métrica del cumpliento será su completo desarrollo y la prueba exitosa de estas características. |
+| Sprint n Velocity | Para nuestro Sprint el equipo ha establecido el uso de la escala Fibonacci para determinar su complejidad y tiempo de elaboración del 1 al 8. (1, 2, 3, 5, 8), el equipo se compromete a respetar esta escala. |
+| Sum of Story Points | Para nuestro Sprint como equipo hemos establecido un máximo de 62 User Points entre las 20 User Stories realizadas. |
+
 
 #####         **5.2.1.2. Sprint Backlog 1.**
-| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
-| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| GW01 | Apartado del Header  | G01 | Header responsivos (Desarrollado en HTML y CSS).| Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3| Joaquin Antonio  | Done|
-| GW02 | Apartado del Footer    | G02 | Footer responsivos (Desarrollado en HTML y CSS).| Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2| Christopher Sebastian | Done|
-| GW03 | Apartado Nosotros          | G03 | Nosotros (Desarrollado en HTML y CSS)| Desarrollo e implementación de descripcion sobre nosotros. Debe ser responsive.           | 3|  Christopher Sebastian  | Done|
-| GW04 | Apartado Colaboraciones   | G04 | (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a Producto. Debe ser responsive.    | 2| Tony Alexander   | Done|
-| GW05 | Apartado formulario          | G05 | Sección formulario (Desarrollado en HTML y CSS)| Desarrollo e implementación de los formularios. Debe ser responsive.    | 3|  Joaquin Antonio  | Done|
-| GW06 | Implementacin de Javascript | G06 | Implementacin de Javascript (Desarrollado en HTML y JS)| Desarrollo e implementación de animaciones. Debe ser responsive. | 3| Eric Agama | Done|
-| GW07 | Incio de sesion     | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los planes de la página. Debe ser responsive.  | 3| Tony Alexander | Done|
-| GW08 | Apartado encabezado    | G08 | Desarrollo responsive de la página| Desarrollo e implementación de un estilo responsive en toda la página.| 2| Eric Agama  | Done|
+| Title | ID | Title | Description | Estimación (Horas) | Assigned To | Status (To-do/ In-Process/ To-Review/ Done) |
+|---|---|---|---|---|---|---|
+| Registro de Usuario | WI-01 | Registro Stocker | Diseño de la interfaz del Registro en Stocker | 2H | Victor Meneses | Done |
+| Iniciar Sesión | WI-02 | Inicio de Sesión en Stocker | Creación del diseño del inicio de sesión para los usuarios. | 2H | Rodrigo Lopez | Done |
+| Seguimiento de Productos de Inventario | WI-04 | Productos de Inventario | Almacenamiento de los productos de inventarios en la cual se realiza su seguimiento correspondiente. | 5H | Rodrigo Lopez | In-Process |
+| Registro de Compras de Clientes | WI-07 | Registro de Compras | Creación de la interfaz de los registros de las compras de los clientes. | 5H | Rodrigo Salvador | In-Process |
+| Consulta de Historial de Transacciones | WI-05 | Historial de Transacción | Creación de la interfaz del historial de transacciones. | 4.5H | Rodrigo Salvador | To-do |
+| Recordatorio de Reunión de Negocios | WI-06 | Reunión de Negocios | Diseño de pantalla del recordatorio de las reuniones reservadas personalizadas. | 4H | Harold Elías | To-do |
+| Soporte en Línea | WI-07 | Soporte en Línea Stocker | Diseño de la interfaz del soporte en línea de Stocker. | 2.5H | Alejandro Barturen | In-Process |
 
+A continuación se observará el espacio de trabajo que se creó en Trello para un mejor control de los sprints.
+
+![Imagen](sprint-1.png)
+
+Link de Trello: [Trello](https://trello.com/invite/b/zlgJuA4Y/ATTIfd53492fd6a275c132c3619461625bc3473E6AF9/sprint-backlog-1-stocker
+)
+
+ 
 #####         **5.2.1.3. Development Evidence for Sprint Review.**
-| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
-| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| LandingPage |main/sign_in.html |55064b6| Create sign_in.html| -| 12/04/2024         |
-| LandingPage |main/style/style.css|425cbfc| Add files via upload| -| 13/04/2024|
-| LandingPage |main/Collaboration.html|7cc0929| Add files via upload| -| 12/04/2024|
-| LandingPage |main/scripts/script.js |9391f88| Implementacion de javascript | -| 14/04/2024|
-| LandingPage |main/style/style3.css|cdccf9b| Implementacion css sign_in | -|14/04/2024|
-| LandingPage |main/style/style2.css|d785cfd| Style Colaboraciones | -|14/04/2024|
-| LandingPage |main/sign_in.html |889bdaa| Update sign_in css | -|14/04/2024|
-| LandingPage |main/Collaboration.html|a40b0ac|Update Collaboration implement css| -|14/04/2024|
+En la siguiente sección presentaremos los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
+
+| Repository | Branch | Commit id | Commit Message | Commit Message Body | Commit on (Date) |
+|---|---|---|---|---|---|
+| StockerUPC/Stocker | main | b528d55 | Agregando login.html | Se agrega el archivo .html del login | 11/04/2024 |
+| StockerUPC/Stocker | main | 5049e23 | Agregando css y js de login | Se agrega los archivos de css y js del login | 11/04/2024 |
+| StockerUPC/Stocker | main | 162386f | Agregando css y js | Se agregan los archivos css y js | 11/04/2024 |
+| StockerUPC/Stocker | main | a495192 | Actualizando ruta de imágenes | Se cambia la ruta de las imágenes | 11/04/2024 |
+| StockerUPC/Stocker | main | 0a31e8a | Actualización del js | Se actualiza el archivo .js | 11/04/2024 |
+| StockerUPC/Stocker | main | 216048b | Actualización Global de la página | Se actualizan los archivos del Landing page | 11/04/2024 |
+| StockerUPC/Stocker | main | d3f0e78 | Delete assets directory | Renovacion de assets | 11/04/2024 |
+| StockerUPC/Stocker | main | 751874e | Eliminacion de componente | Se eliminó un componente que producía errores en index.html | 11/04/2024 |
+| StockerUPC/Stocker | main | 9e419d2 | Reforma del Log in | Se actualizó la estructura del login | 11/04/2024 |
+| StockerUPC/Stocker | main | 751874e | Eliminacion de componente | Se eliminó un componente que producía errores en index.html | 11/04/2024 |
 
 
 #####         **5.2.1.4. Testing Suite Evidence for Sprint Review.**
 
-Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "feature" se centro en la implementación de los archivos feature que contiene nuestro landing page.
-
+ | Repository | Branch | Commit id | Commit Message | Commit Message Body | Commit on (Date) |
+|---|---|---|---|---|---|
+| StockerUPC/Stocker | feature | 7ccba5f | Añadiendo HU-01 | Se añade HU-01.feature | 12/04/2024 |
+| StockerUPC/Stocker | feature | 74ed19f | Se añade HU02 | Se añadió HU02.feature | 12/04/2024 |
+| StockerUPC/Stocker | feature | 84f19a3 | Se añadió HU-03 | Se añadio HU-03.feature | 12/04/2024 |
 
 #####         **5.2.1.5. Execution Evidence for Sprint Review.**
 
-En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up.
+Lo que logramos alcanzar en este sprint es la definición y correcto despliegue de nuestro startup,Esto se  logró luego de  una exhaustiva investigación que realizamos    respecto a los puntos necesarios para un eficiente desarrollo del trabajo.
 
-Sección home:
+Tras recopilar y analizar toda la información obtenida, hemos tomado decisiones estratégicas . Esto nos ha permitido determinar cuál sería la mejor estrategia a seguir para lanzar una landing page que sobresalga entre la competencia.
 
-![Images](Images/Home.png)
-<br>
+Sección Pagina Principal:
 
-Sección Nosotros:
+![Images](imgs/Execution-Evidence-for-Sprint-Review-a.png)
+![Images](imgs/Execution-Evidence-for-Sprint-Review-b.png)
+![Images](imgs/Execution-Evidence-for-Sprint-Review-c.png)
+![Images](imgs/Execution-Evidence-for-Sprint-Review-d.png)
 
-![Images](Images/Nosotros.png)
 
-Sección Iniciar Sesión:
+Sección del Logins:
 
-![Images](Images/INICIOSESION.png)
+![Images](imgs/Execution-Evidence-for-Sprint-Review-e.png)
 
-Sección Colaboración:
 
-![Images](Images/COLABORACION1.png)
-<br>
-
-![Images](Images/COLABORACION2.png)
 
 #####         **5.2.1.6. Services Documentation Evidence for Sprint Review.**
-Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
 
+ Para la Revisión del Sprint en Stocker, se proporcionará documentación que resuma las historias de usuario completadas durante el sprint, junto con una demostración visual de las características desarrolladas, a través de capturas de pantalla o una presentación en vivo. Además, se presentarán los resultados de las pruebas realizadas durante el sprint, destacando cualquier problema identificado y las soluciones aplicadas. 
+ 
 #####         **5.2.1.7. Software Deployment Evidence for Sprint Review.**
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa
 
