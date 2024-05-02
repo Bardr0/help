@@ -970,6 +970,35 @@ En la siguiente sección presentaremos los avances en implementación con relaci
 | StockerUPC/Stocker | main | 6f2a63b | Update landing.component.vue | Se agregó las dependencias necesarias para el buen funcionamiento | 01/05/2024 |
 | StockerUPC/Stocker | main | 6b536ee | Update index.js | Se agregó nuevos 'paths' para el direccionamiento de nuevas rutas | 01/05/2024 |
 
+### 5.3. Validation Interviews
+
+ #####         **5.3.1. Diseño de entrevistas**
+**Segmento #1 – Librerias:**
+
+- ¿Qué te llevó a utilizar la aplicación?
+- ¿Qué aspectos de la aplicación consideras más útiles para usted como dueño de una libreria?
+- ¿Qué sugerencias o mejoras crees que podrían hacer que la aplicación sea aún más útil para usuarios como tú?
+- ¿Te sientes más seguro/a al lidiar con problemas de gestión de negocio con la aplicación?
+- ¿Recomendarías Stocker Diagnostic a otros gestores de negocios?
+
+**Segmento #2 – Ferreterias:**
+
+- ¿Por qué decidiste utilizar esta aplicación?
+- ¿Qué funcionalidades de la aplicación encuentras más valiosas para tu trabajo como dueño de un restaurante?
+- ¿Qué sugerencias o mejoras crees que podrían hacer que la aplicación sea más efectiva para usuarios con roles similares al tuyo?
+- ¿La aplicación te hace sentir más seguro al manejar asuntos de gestión de negocios?
+- ¿Estarías dispuesto a sugerir Stocker Diagnostic a otros profesionales de la gestión empresarial?
+
+**Segmento #3 – Bodegas:**
+
+- ¿Cuál fue el motivo que te llevó a optar por esta aplicación?
+- ¿Qué características de la aplicación consideras más beneficiosas para ti como propietario de una Bodega?
+- ¿Qué recomendaciones o mejoras crees que podrían incrementar la utilidad de la aplicación para usuarios similares a ti?
+- ¿Sientes que la aplicación te proporciona una mayor tranquilidad al abordar cuestiones de gestión empresarial?
+- ¿Serías de la opinión de recomendar Stocker Diagnostic a otros gestores de negocios?
+
+ #####         **5.3.1. Registro de Entrevistas**
+
 
 
 ## Conclusiones
