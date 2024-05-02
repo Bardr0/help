@@ -1,7 +1,7 @@
 Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src= Images/upc_logo.png
+<img src= imgs/upc_logo.png
 style="display: block; 
 margin-left:auto; 
 margin-right: auto; 
@@ -48,13 +48,13 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 ## Contenido
 
 1. **Capítulo #1: Introducción.**
-   i. Startup Profile.
-        a. Descripción del startup.
-        b. Perfiles de los integrantes del equipo.
-    ii.Solution Profile.
-        a. Antecedentes y Problemática.
-        b. Lean UX Process.        
-    iii. Segmentos objetivo.
+   1.1. Startup Profile.
+        1.1.1. Descripción del startup.
+        1.1.2. Perfiles de los integrantes del equipo.
+    1.2.Solution Profile.
+        1.2.1. Antecedentes y Problemática.
+        1.2.2. Lean UX Process.        
+    1.3. Segmentos objetivo.
 
 2. **Capítulo #2: Requirements Elicitation & Amalysis.**
     2.1. Competidores.
@@ -162,253 +162,126 @@ Aspiramos a que nuestro sistema de gestión empresarial se convierta en la opci�
 
 ### 1.2. **Solution Profile.**
 
-StyleShare es la solución innovadora de Change4All que permite alquilar prendas y accesorios de moda para eventos especiales. Con nuestra plataforma tenemos la idea de crear una comunidad donde los usuarios puedan encontrar prendas únicas y de calidad para ocasiones especiales sin la necesidad de comprarlas. De esa forma, no solo ahorran dinero, sino que también contribuyen a reducir el desperdicio de moda generado por la industria del fast fashion.
-### Características clave:
-
-- **Filtros Avanzados de Búsqueda**: Ofrece una amplia gama de filtros para que los usuarios puedan buscar prendas y accesorios de manera rápida y específica, como por tipo de prenda, color, talla, ocasión, etc.
-
-- **Perfiles de Usuario Personalizados**: Permite a los usuarios crear perfiles detallados con sus preferencias de estilo, tallas y eventos futuros para recibir recomendaciones y sugerencias personalizadas.
-
-- **Publicación de Prendas**: Permite a los usuarios publicar sus prendas y accesorios para alquilar. Deben poder agregar fotos de alta calidad y descripciones detalladas. 
-
-- **Asesoría sobre Moda Sostenible**: Proporciona asesorías sobre moda sostenible a los usuarios, contando con la opción de contactar con un asesor en el caso se prefiera tener un trato mas personalizado. 
-
-- **Sistema de Calificaciones y Reseñas**: Implementa un sistema de calificación y reseñas para que los usuarios puedan evaluar la calidad de las prendas y la confiabilidad de otros usuarios.
-
-- **Chat y Comunicación**: Integra una función de chat para que los usuarios puedan comunicarse entre sí, coordinar detalles de intercambio y hacer preguntas sobre las prendas.
-
-- **Sistema de Notificaciones**: Mantén a los usuarios informados sobre las interacciones, nuevos mensajes, solicitudes de intercambio y actualizaciones relevantes.
-
-- **Promoción de Prendas Destacadas**: Permite a los usuarios destacar sus prendas mediante un sistema de promoción, lo que les ayudará a obtener más visibilidad.
-
-- **Diferentes planes de suscripción**: Permite a los usuarios adquirir un plan de suscripción con el cual recibirán beneficios únicos, tanto para los arrendadores como los arrendatarios
-
-- **Historial de Intercambios**: Proporciona a los usuarios un historial detallado de sus intercambios pasados, incluyendo detalles de las prendas y la fecha.
+####     1.2.1. Antecedentes y Problemática (The 5 ‘W’s y 2 ‘H’s)
 
 
-####     1.2.1. Antecedentes y Problemática
+### ¿Qué es “Stocker”?
+La gestión y organización de distintos procesos es vital para el correcto funcionamiento de una empresa. Nuestro producto es una app que se encarga de la recopilación y la gestión de distintos procesos realizados por microempresas en un solo lugar 
 
-### Los 5 'W' y 2 'H'
+### ¿Quiénes son los usuarios principales de “Stocker”?
+Los principales usuarios que harán uso de nuestro producto serán los dueños de microempresas en desarrollo que no cuenten con los recursos para diseñar una aplicación propia de gestión o que no cuenten con una gran demanda que los aliente a crearse una
 
-### 1. What (Qué)
-Se refiere a la razón por la cual se está implementando esta metodología. Suele resultar en:
+### ¿Dónde se encuentra el problema?
+El problema se toda microempresa que se encuentre en desarrollo o que tenga no haya un gran periodo de tiempo desde su creación 
 
-### ¿Cuál es el problema?
-Los consumidores se encuentran en la incómoda posición de no tener a su disposición la prenda o accesorio adecuado para su vestimenta deseada. Este desafío se convierte en una experiencia agobiante a medida que los compradores se ven impulsados a realizar gastos excesivos en prendas que terminan usando de manera infrecuente. Esta tendencia no solo lleva a una acumulación innecesaria de ropa, sino que también tiene un impacto ambiental negativo al contribuir al desperdicio de recursos materiales y energéticos en la industria de la moda.
-
-### ¿Cuál es la relación con la persona en cuestión?
-La solución brinda a los clientes un canal por el cual pueden adquirir la vestimenta que necesitan.
-
-### 2. When (Cuándo)
-Busca el momento cuando ocurre el evento. También puede indicar un período de tiempo o una fecha límite:
+###  ¿Cuándo se identificó la problemática?
+Hemos identificado que el problema ocurre al momento de que los dirigentes de una microempresa en desarrollo empiezan a incrementar la cantidad de procesos que esta realiza y no cuentan con un método eficaz que recopile a todos los procesos para una mayor facilidad de gestión 
 
 ### ¿Cuándo sucede el problema?
 El problema surge cuando el cliente tiene la necesidad de asistir a un evento social y carece de la vestimenta adecuada.
-### ¿Cuándo utiliza el cliente el producto?
+
+### ¿Por qué es importante abordar este problema?
 Los clientes utilizan el producto cuando necesitan encontrar vestimenta para eventos sociales específicos.
 
-### 3. Where (dónde)
-Permite identificar el lugar específico o el lugar afectado por el problema planteado:
+### ¿Cómo aborda Stocker la gestión de la salud y el bienestar?
+Nuestro ayuda a mejorar el bienestar de nuestros usuarios ya que, al encargarse de gestionar los procesos de su negocio logra que no tenga tanta carga de estrés 
 
-### ¿Dónde está el cliente cuando usa el producto?
-El cliente se puede encontrar tanto en un ambiente público como privado.
-### ¿A dónde se dirige?
-Los clientes tienen la intención de asistir a eventos sociales, lo que puede ser en lugares como fiestas, bodas, reuniones, etc.
-### ¿Dónde surge el problema?
-El problema se origina en el cliente cuando se percata que no cuenta con la vestimenta adecuada para asistir a un evento social.
-
-### 4. Who (quién)
-Ayuda a comprender las informaciones importantes de todas las personas involucradas y no necesariamente una sola. Es posible que tengas varios tipos de clientes.
-
-### ¿Quiénes están involucrados?
-Los usuarios de la aplicación "StyleShare" están involucrados, tanto aquellos que buscan prendas como aquellos que desean intercambiar sus propias prendas.
-### ¿A quiénes le sucede el problema?
-El problema afecta a las personas que necesitan vestimenta adecuada para eventos sociales y desean encontrar una solución rentable.
-### ¿Quién lo utilizará?
-El producto será utilizado por individuos que presenten mayoría de edad y busquen alquilar prendas de vestir.
-
-### 5. Why (por qué)
-Está relacionado con la razón o el desencadenante de la situación. Permite encontrar los primeros elementos de respuesta:
-
-### ¿Cuál es la causa del problema?
-El problema surge porque los eventos sociales pueden requerir vestimenta específica que no es parte del guardarropa cotidiano de las personas, lo que lleva a la necesidad de adquirir prendas temporales.
-
-### ¿Cuáles son las 2H?
-El método de las 5W suele ser completado por las 2H que son How( cómo) y How much (cuánto):
-
-### 1. How (cómo)
-Se enfoca en la forma en la cual se llevan a cabo los hechos. Esto es a menudo un elemento importante para la explicación de una situación:
-
-### ¿En qué condiciones los clientes usan nuestro producto?
-Los clientes utilizan nuestro producto, EventWear, cuando se enfrentan a la necesidad de encontrar atuendos apropiados para eventos especiales de manera apresurada. Esto incluye situaciones como bodas, fiestas, galas y otros eventos donde se busca un look destacado y adecuado.
-### ¿Cómo nos conocieron los compradores?
-Los compradores nos conocen a través de varios canales, como redes sociales, publicidad en línea, recomendaciones de amigos y familiares, y búsqueda en motores de búsqueda. También establecemos asociaciones con influencers y colaboraciones con eventos para aumentar nuestra visibilidad.
-### ¿Qué llevó a la persona a llegar a esta situación?
-Las personas llegan a nuestra solución debido a la necesidad de verse bien y apropiados en eventos sin incurrir en los altos costos y el desperdicio asociado con la compra de ropa que rara vez se utiliza. Además, la conciencia creciente sobre la sostenibilidad en la moda y el deseo de reducir su huella ambiental también influyen en su elección.
-
-### 2. How much (cuánto)
-Permite cuantificar el objeto de la problemática en cuestión y, a menudo, evaluar la gravedad:
+### ¿Cuánto tiempo llevó desarrollar Stocker?
+El desarrollo de este startup, que se centra en soluciones tecnológicas para pequeñas empresas, se llevó a cabo durante un período de 1 mes. Este tiempo fue esencial para la planificación, desarrollo, y pruebas iniciales del producto, siguiendo la metodología Lean Startup, que enfatiza la creación, medición, y aprendizaje continuo para validar y mejorar la solución propuesta
 
 
 ####     1.2.2. Lean UX Process
 
 #####         **1.2.2.1.Lean UX Problem Statements.**
 
-Hemos identificado que las personas que buscan vestimenta para eventos especiales a menudo enfrentan el desafío de gastar más tiempo del que desean para buscar prendas con las cuales asistir a eventos, aparte les genera un gastos excesivos y acumulación de prendas poco utilizadas en sus armarios. Esto puede llevar a una experiencia frustrante y poco sostenible en la industria de la moda.
-##### ¿Cómo podremos brindarles a las personas una solución que les permite ahorra tiempo y dinero al momento de buscar prendas para eventos específicos sin contribuir al desperdicio de la moda?
-Nuestra solución aborda este problema al proporcionar una plataforma de aplicación web que permite a los usuarios alquilar y rentar prendas y/o accesorios de moda para eventos especiales. A través de una amplia variedad de opciones, una interfaz amigable y opciones de alquiler flexibles.
+## Plantiamiento del problema: 
+El principal desafío que enfrentan los propietarios de pequeños negocios con nuestro sistema de gestión empresarial radica en la falta de una solución integral y eficiente para organizar, supervisar y optimizar todas las áreas de su negocio. Nuestro objetivo es proporcionar una plataforma que permita una gestión eficiente de clientes, proveedores, inventarios, ventas, compras y perfiles empresariales, al mismo tiempo que garantice una experiencia de usuario intuitiva y fácil de usar.
+
+## Usuario Principal:
+Nuestro usuario principal es cualquier propietario de pequeño negocio que busca gestionar eficazmente todas las áreas de su empresa. Estos propietarios están interesados en optimizar sus operaciones comerciales, supervisar el desempeño de su negocio y tomar decisiones informadas para impulsar el crecimiento y el éxito empresarial. Buscan una solución integral que les permita gestionar clientes, inventarios, ventas, compras y perfiles empresariales de manera eficiente y conveniente.
+
+## Problema Principal:
+El principal desafío radica en la complejidad y falta de claridad en la interfaz de nuestro sistema de gestión empresarial. Los usuarios pueden sentirse abrumados o confundidos al intentar acceder a funciones críticas del sistema, lo que limita su capacidad para gestionar eficazmente todas las áreas de su negocio y aprovechar al máximo todas las funcionalidades disponibles.
+
+## Impacto Negativo:
+Este problema tiene un impacto negativo en la experiencia del usuario. Los usuarios pueden no utilizar plenamente las capacidades de Stocker y pueden experimentar frustración o descontento debido a la falta de accesibilidad y claridad en la interfaz. Esto puede llevar a una menor productividad y eficiencia en la gestión de sus negocios, así como a una percepción negativa de la plataforma en general.
+
+## Solución Exitosa:
+Desarrollar un sistema de gestión empresarial integral y fácil de usar que permita a los propietarios de pequeños negocios gestionar eficientemente todas las áreas de su negocio. La solución debe proporcionar herramientas para gestionar clientes, inventarios, ventas, compras y perfiles empresariales de manera eficaz y centralizada.
+
+## Medición al Éxito:
+El éxito de esta solución se medirá mediante métricas clave, como la tasa de utilización de las funciones de gestión empresarial, la frecuencia de uso de las diferentes herramientas disponibles en Stocker, y la retroalimentación de los usuarios sobre la facilidad de uso y la accesibilidad de la interfaz rediseñada. Además, se realizan encuestas de satisfacción del usuario para evaluar la percepción general de la experiencia de usuario mejorada. Un aumento en la adopción de características y una mejora en la satisfacción del usuario serán indicadores clave del éxito de la solución.
+ 
 
 #####         **1.2.2.2.Lean UX Assumptions.**
 
-##### **Business Assumptions**:
-- Existe una demanda en el mercado de soluciones tecnológicas que faciliten el alquiler de prendas y accesorios de moda.
-- Los consumidores muestran disposición para alquilar prendas y accesorios en lugar de adquirirlos de forma definitiva
-- Los usuarios priorizan la sostenibilidad y la reducción del desperdicio en la industria de la moda al considerar opciones de alquiler.
-- Los usuarios buscan disponer de opciones de vestimenta específicas adecuadas para eventos y ocasiones especiales.
-- Los propietarios de prendas y accesorios están dispuestos a ofrecer sus artículos en alquiler a través de la plataforma.
-- Los usuarios valoran la comodidad y la variedad al seleccionar prendas y accesorios en la plataforma.
-- La facilidad de navegación y un diseño intuitivo en la aplicación son aspectos fundamentales para su adopción por parte de los usuarios.
-- La retroalimentación y los comentarios de los usuarios son considerados valiosos para mejorar continuamente la experiencia de la plataforma.
-- La promoción y la visibilidad en redes sociales y eventos de moda juegan un papel crucial en la captación de usuarios.
-
-##### **Business Outcomes** :
-- Reducción del exceso en la industria de la moda: EventWear tiene el potencial de disminuir la acumulación de prendas poco utilizadas en los armarios, fomentando así prácticas más sostenibles en la moda.
-- Impulso de la sostenibilidad: Al optar por el alquiler en lugar de la compra, los usuarios contribuyen a reducir la demanda de producción masiva de ropa, lo que a su vez beneficia al medio ambiente.
-- Acceso ampliado a prendas de calidad: La plataforma ofrece a los usuarios acceso a prendas y accesorios de alta calidad para eventos especiales sin necesidad de realizar una inversión completa en ellas.
-- Experiencia personalizada: Los usuarios tienen la posibilidad de elegir entre una amplia gama de opciones para adaptar su atuendo a eventos específicos, lo que aumenta su satisfacción y confianza.
-- Generación de ingresos para propietarios: Los propietarios de prendas y accesorios pueden obtener ingresos adicionales al poner sus artículos en alquiler, lo que contribuye a fomentar una economía circular.
-- Promoción de la moda sostenible: EventWear puede desempeñar un papel importante como defensor de la moda sostenible, educando a los usuarios sobre las implicaciones del fast fashion y promoviendo alternativas más conscientes.
-
-##### **User Assumptions**:
-- Los consumidores muestran interés en adoptar prácticas de moda más sostenibles: Los usuarios están cada vez más conscientes de la importancia de la sostenibilidad en la moda y buscan participar en un consumo más responsable.
-- Existe disposición por parte de los usuarios a alquilar prendas y accesorios en lugar de comprarlos: Los consumidores reconocen el valor de la variedad y la conveniencia que ofrece el alquiler en comparación con la propiedad.
-- La demanda de opciones de moda específicas para eventos es alta entre los usuarios: Los consumidores buscan opciones de moda adecuadas y apropiadas para diferentes ocasiones y eventos.
-- Los propietarios de prendas y accesorios ven el alquiler como una oportunidad: Los propietarios consideran que el alquiler es una manera eficaz de aprovechar sus artículos no utilizados y generar ingresos adicionales.
-- Los usuarios buscan una plataforma intuitiva y conveniente para el alquiler de moda: Los consumidores desean una experiencia de usuario fluida y sin complicaciones al utilizar la plataforma de alquiler de moda.
-
-##### **User**:
-Los usuarios potenciales que podrían utilizar la solución EventWear :
-- Consumidor casual de moda: Personas que buscan opciones de vestimenta sostenibles y asequibles para eventos especiales, valorando la variedad y la responsabilidad ambiental.
-- Propietarios de prendas y accesorios: Personas que tienen artículos de moda que desean alquilar para generar ingresos adicionales y contribuir a la economía circular.
-- Asistente a eventos consciente de la moda : Personas que desean lucir bien en eventos especiales sin incurrir en altos costos y que buscan una experiencia de alquiler cómoda y personalizada.
-
-##### **User Benefits**:
-- Consumidores conscientes de la moda: Los usuarios pueden lucir bien en eventos especiales sin la carga de la propiedad, lo que ayuda a reducir el desperdicio de moda y contribuye a la sostenibilidad ambiental.
-- Propietarios de prendas y accesorios: Los propietarios tienen la oportunidad de generar ingresos alquilando artículos no utilizados, al tiempo que apoyan un enfoque más sostenible en la moda.
-- Asistentes a eventos: Los usuarios pueden acceder a prendas y accesorios de moda de alta calidad para eventos específicos sin la necesidad de comprar, lo que les permite ahorrar dinero y reducir el desperdicio.
-
-##### **Feature Assumptions**: 
-- Interfaz Intuitiva y Accesible: Suponemos que los usuarios de EventWear prefieren una experiencia simple y sin complicaciones al explorar y alquilar prendas y accesorios. Por lo tanto, es esencial que nuestra página cuente con una interfaz de usuario intuitiva y accesible, lo que facilitará que los usuarios naveguen y seleccionen prendas de manera eficiente.
-- Catálogo Variado y Actualizado: Suponemos que los usuarios valoran tener una amplia variedad de opciones de moda para elegir. Por lo tanto, es crucial mantener nuestro catálogo actualizado con una amplia gama de prendas y accesorios adecuados para diferentes tipos de eventos.
-- Proceso de Alquiler Simple y Rápido: Suponemos que los usuarios prefieren un proceso de alquiler sin complicaciones. Por ende, nuestra plataforma debe ofrecer un proceso de alquiler simple y rápido, con pasos claros desde la selección hasta la finalización del pedido.
-- Notificaciones y Recordatorios Efectivos: Suponemos que los usuarios aprecian las notificaciones que les ayudan a estar al tanto de fechas importantes, como la fecha del evento y la devolución de prendas. Por lo tanto, debemos incluir notificaciones y recordatorios efectivos para mantener a los usuarios informados.
-- Descripciones Detalladas y Calidad Visual: Suponemos que los usuarios desean tomar decisiones informadas al alquilar prendas y accesorios. Por lo tanto, debemos proporcionar descripciones detalladas de cada artículo, incluyendo información sobre el tamaño, material y ajuste. Además, imágenes de alta calidad son esenciales para que los usuarios visualicen claramente cada prenda.
-- Proceso de Devolución sin Complicaciones: Suponemos que los usuarios desean una experiencia fluida al devolver prendas al finalizar el alquiler. Por lo tanto, debemos ofrecer un proceso de devolución sencillo y claro, que incluya instrucciones claras y opciones de envío de devolución.
-- Comentarios y Valoraciones de Usuarios: Suponemos que los usuarios confían en las opiniones de otros usuarios al seleccionar prendas. Por lo tanto, debemos permitir que los usuarios dejen comentarios y valoraciones sobre las prendas que han alquilado, lo que proporcionará información adicional a futuros usuarios.
-- Seguridad en los Pagos y Datos: Suponemos que la seguridad de los datos y las transacciones es fundamental para los usuarios al alquilar prendas en línea. Por lo tanto, debemos implementar medidas de seguridad robustas para proteger la información financiera y personal de los usuarios.
-- Soporte al Cliente Eficaz: Suponemos que los usuarios pueden tener preguntas o problemas durante su experiencia en la plataforma. Por lo tanto, debemos ofrecer opciones de soporte al cliente eficaces, como chat en vivo o asistencia por correo electrónico, para ayudar a los usuarios con sus consultas.
+Creemos que simplificar la interfaz de usuario de “Stocker” conducirá a una mayor adopción por parte de los propietarios de pequeñas empresas, ya que facilitará la comprensión y el uso de todas las funcionalidades disponibles.
+Pensamos que al proporcionar una experiencia de usuario más intuitiva y fácil de usar en “Stocker”, los propietarios de pequeñas empresas serán más propensos a integrar la aplicación en su flujo de trabajo diario y a aprovechar al máximo sus capacidades de gestión empresarial.
+Creemos que al agregar características personalizadas que se adapten a las necesidades específicas de las microempresas, aumentaremos la satisfacción del usuario y la utilidad percibida de “Stocker”, lo que a su vez impulsará la retención de clientes y la recomendación boca a boca.
+Intuimos que al ofrecer un proceso de incorporación claro y guiado en “Stocker”, reduciremos la curva de aprendizaje para los nuevos usuarios, lo que resultará en una mayor retención y compromiso con la plataforma a largo plazo.
+Estimamos que al implementar un sistema de retroalimentación continua en “Stocker” y responder rápidamente a las solicitudes de los usuarios, mejoraremos la percepción general de la calidad del servicio y fomentaremos una relación de confianza con nuestra base de clientes.
+Esperamos que al proporcionar soporte técnico y de atención al cliente receptivo y de alta calidad, aumentaremos la satisfacción del usuario y fomentaremos la lealtad a la marca entre los propietarios de pequeñas empresas que utilizan “Stocker”.
 
 
-#####         **1.2.2.3.Lean UX Hypothesis Statements.**
-
-##### **Hypothesis Statement 1**:
-Creemos que, sí ofrecemos una página intuitiva y de fácil manejo a los usuarios que les interesa alquilar prendas y accesorios para eventos específicos, incrementaremos la satisfacción del cliente.
-Sabremos que tendremos éxito al observar un aumento del 20% de los usuarios activos después de 4 semanas de su lanzamiento y recibimos comentarios positivos sobre su fácil uso.
-##### **Hypothesis Statement 2**:
-Creemos que, así ofrecemos una variedad de prendas de alquiler con un precio competitivo en comparación con la compra de ropa para eventos especiales, motivamos a los usuarios a alquilar una prenda en nuestra plataforma
-Sabremos que tendremos éxito al observar un aumento del 10% de nuevos usuarios que prueban la aplicación y alquilan cualquier tipo de prenda en los primeros 3 meses, lo que indica que presentamos una propuesta con valor para el usuario
-##### **Hypothesis Statement 3**:
-Creemos que, si implementamos recomendaciones de prendas según los gusto de los usuarios, estos podrán encontrar nuevas prendas que podrían ser de su interés sin tener que hacer una búsqueda exhaustiva por los filtros de búsqueda de la plataforma.
-Sabremos que tendremos éxito al observar un aumento del 30% en el uso de recomendación personalidades por parte de todos los usuarios que utilizan la aplicación en un lapso de 6 meses después de estar disponible esta opción 
-##### **Hypothesis Statement 4**:
-Creemos que si colaboramos con tiendas locales de moda para ampliar nuestra oferta de prendas y accesorios disponibles para alquilar, aumentaremos la diversidad y atractivo de nuestro catálogo, lo que incentivará a más usuarios a utilizar nuestra plataforma. 
-Sabremos que hemos tenido éxito cuando observamos un aumento del 30% en la cantidad de prendas y accesorios disponibles en nuestra plataforma a través de asociaciones con tiendas locales.
 
 
 #####         **1.2.2.4.Lean UX Canvas.**
-
-| Lean UX Canvas | Título: EventWear | Fecha: 28/03/24 |
-|---------------------|----------------------|--------------|
-|Business Problems <br><br><br> - La experiencia frustrante y poco sostenible en la industria de la moda, la cual es provocada por gastos excesivos y grandes acumulaciones de ropa al momento de realizar la compra de un producto de vestimenta para un evento especial | Solution Ideas <br><br><br>  - Desarrollar una aplicación web intuitiva y fácil de usar que permita a los usuarios alquilar prendas, accesorios y calzado para eventos específicos.<br> - Crear un catálogo diverso y actualizado de prendas y accesorios de moda que se adapten a diferentes estilos y ocasiones.<br> - Implementar una función de recomendación personalizada basada en las preferencias y ocasiones de los usuarios.<br>- Ofrecer opciones de alquiler a corto y largo plazo para satisfacer diferentes necesidades de eventos | Business Outcomes <br><br><br> - Aumento de la eficiencia en la organización de eventos y la gestión de vestimenta. <br> - Mejora de la satisfacción del cliente al ofrecer una solución sostenible y asequible.<br> - Generación de ingresos a través de las tarifas de alquiler y posibles planes de suscripción.<br> - Posibilidad de colaboraciones y asociaciones con marcas de moda locales.
-| User & Customers <br><br><br> - Usuarios: Personas que asisten a eventos y desean alquilar prendas y accesorios para ocasiones específicas.<br>  - Clientes: Individuos que realizan alquileres a través de la plataforma | | User Benefits <br><br><br>- Permitir a los clientes ahorrar tiempo al momento de comprar un producto adecuado a su gusto.<br> - Evitar que el cliente se vea obligado a visitar diferentes tiendas para encontrar un producto.
-| Hypothesis<br><br><br> - Creemos que sí ofrecemos una variedad diversa y actualizada de prendas y accesorios de moda en nuestra plataforma, aumentaremos la satisfacción del cliente y la probabilidad de alquileres repetidos.<br> - Creemos que al colaborar con marcas sostenibles y locales, podremos ampliar nuestra oferta de productos y atraer a un público más amplio y consciente de la sostenibilidad.| What's the most important thing we need to learn first?<br><br><br> - Aprender sobre las opciones de alojamiento web y servidores para asegurarse de que puedan manejar la carga de usuarios y la cantidad de datos necesaria para la plataforma.<br> - Adquirir conocimientos en diseño de UX y UI para crear una interfaz de usuario intuitiva y atractiva que mejore la experiencia de los usuarios al interactuar con la plataforma.<br> - Adquirir habilidades en pruebas y depuración de software para identificar y corregir errores y problemas antes de lanzar la plataforma al público.| What's the least amount of work we need to do to learn the next most important thing?<br><br><br> - Desarrollar prototipos del producto de software para brindar un primer acercamiento de cómo se verá y funcionará el programa.<br> - Realizar un análisis del público objetivo mediante el uso de entrevistas de usuario para conocer sus opiniones y puntos de vista.<br> - Familiarizarse con los lenguajes, frameworks y entre otras herramientas de programación que puedan ser vitales para el desarrollo del producto.|
-
+![image](imgs/canva.png) 
+ 
 
 ### 1.3. **Segmentos objetivo.**
 
-Nuestro segmento objetivo lo conforman las personas las cuales asisten con mayor o menor frecuencia diferentes eventos especiales y buscan una manera rentable, eficiente y sostenible de obtener la prenda o accesorias que necesitan.
-Consumidores conscientes de la moda: Los usuarios pueden lucir bien en eventos especiales sin el gasto de tiempo y dinero, reduciendo el desperdicio de moda y contribuyendo a la sostenibilidad.
-#### **Segmento 1: Consumidores conscientes de la moda**
-##### Aspectos demográficos: 
-##### Sexo: Masculino y femenino
-##### Edades: Adultos entre 20 - 45 años
-##### Nacionalidad: Peruana
-##### Zona geográfica en la que viven: Urbana
-##### Departamento: Lima Metropolitana
-##### Aspectos psicográficos:
-- Disfrutan de asistir a una variedad de eventos sociales y especiales, como fiestas, bodas, cenas formales, eventos de negocios, etc.
-- Tienen un estilo de vida activo y socialmente comprometido, lo que los lleva a requerir una variedad de prendas.
-- Valoran la comodidad y la conveniencia, buscando soluciones prácticas y rentables para satisfacer sus necesidades de vestuario.
-- Están conscientes del impacto ambiental de la moda.
-- Desean lucir bien en eventos especiales sin incurrir en grandes gastos y contribuir al medio ambiente al reducir el desperdicio de moda.
- 
- 
-#### **Segmento 2: Propietarios de prendas y accesorios**
- 
-##### Aspectos demográficos:
-##### Sexo: Masculino y femenino
-##### Edades: Adultos entre 30 – 60 años
-##### Nacionalidad: Peruana
-##### Zona geográfica en la que viven: Urbana
-##### Departamento: Lima Metropolitana
-##### Aspectos psicográficos:
-- Son personas que tienen una variedad de prendas y accesorios de moda.
-- Están interesados en contribuir a un enfoque más sostenible en la moda.
-- Desean generar ingresos adicionales alquilando artículos no utilizados.
-- Valorizan la comodidad y la conveniencia en el proceso de alquiler de sus prendas.
-- Están conscientes del impacto ambiental de la moda y desean contribuir a reducir el desperdicio de prendas.
+#### **Segmento 1: Dueños de Librerías**
+El sistema ofrece una solución integral para gestionar inventario, transacciones de venta y relaciones con los clientes. Permite un seguimiento preciso del inventario, gestión de pedidos especiales y automatización de tareas administrativas.
 
+##### Aspectos Demográficos: 
+Los dueños de librerías en Lima Metropolitana pueden variar en cuanto a edades, géneros y niveles socioeconómicos. Pueden ser tanto jóvenes emprendedores como individuos más experimentados en el mundo empresarial.
+ 
+##### Aspectos Geográficos: 
+Residen principalmente en Lima Metropolitana y áreas cercanas, donde operan sus negocios. Esto incluye distritos urbanos y suburbanos de la ciudad.
+
+ 
+#### **Segmento 2: Dueños de Restaurantes**
+ 
+
+##### Aspectos Demográficos:
+ 
+
+##### Aspectos Geográficoas:
+ 
+
+ #### **Segmento 3: Duesños de Bodegas  **
+Ayuda a gestionar inventario, proveedores y logística de almacenamiento y entrega. Facilita la gestión de clientes, personalización de promociones y análisis de mercado para optimizar las ventas y la eficiencia operativa.
+
+##### Aspectos demográficos:
+Los dueños de bodegas en Lima Metropolitana son diversos en cuanto a edades, géneros y niveles socioeconómicos. Pueden ser desde emprendedores jóvenes hasta individuos con experiencia en el sector minorista.
+ 
+##### Aspectos Geográficoas:
+Residen y operan sus bodegas principalmente en Lima Metropolitana y áreas circundantes. Estas áreas incluyen tanto zonas urbanas como suburbanas de la ciudad.  
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. **Competidores.**
-
-####     2.1.1. Análisis competitivo.
-
-##### Olibati: Página para comprar o Alquilar ropa de distintos tipos
-[Olibati](https://olibati.com/pages/como-alquilar)
-
-##### My wardrobe HQ: Página para alquilar ropa, la cual también ofrece una opción de suscripción para poder conseguir un número determinado de items cada mes
-[My wardrobe HQ](https://www.mywardrobehq.com/) 
-
-##### Rent the Runaway: Plataforma que permite acceder a suscripciones por distintos precios, con las cuales se puede rentar una cantidad definida e items y mantenerlos mientras se siga siendo socio
-[Rent the Runaway](https://www.renttherunway.com/)
-
+ 
+ 
 ### Análisis de Competencia
 
-##### ¿Por qué llevar a cabo este análisis?
-Este análisis se llevará a cabo para tener una idea de qué clase de tácticas usa la competencia, así como tener en claro sus puntos fuertes y débiles. Todo esto con el objetivo de diseñar una estrategia que ayude a nuestra marca a sobresalir.
+En base a nuestra investigación, hemos identificado los siguientes tres posibles competidores, aunque no son directos, tienen una gran relación para nuestro startup de gestión empresarial para micronegocios:
+
+- Sage Group: Con su software “Sage Business Cloud” que se especializa en pequeñas empresas, proporcionas un servicio de contabilidad en la nube que contiene desde la gestión financiera pasando por la administración de inventario hasta la gestión de nóminas. Con esto se busca ayudar a simplificar las operaciones financieras e impulsar el desarrollo empresarial
+- Block: Con su software “Square” que consiste en una plataforma que ofrece soluciones de punto de venta, administración del inventario y analizar datos de la empresa. Se facilita la realización de los procedimientos ya mencionados, implementa herramientas que ayudan a optimizar operaciones comerciales 
+- H&R Block: Con su software “Wave” que es una herramienta de contabilidad de uso gratuito con las siguientes características: facturación personalizada, seguimiento de gastos, contabilidad de doble entrada y reportes financieros detallados
+
+
+
 
 ##### Comparativa con Competidores
 
-|               | StyleShare                                                    | Olibati                                                             | My Wardrobe HQ                                                              | Rent the Runaway                                               |
-|---------------|--------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| **Perfil**    |                                                              |                                                                    |                                                                                      |                                                                 |
-| **Overview**  | Servicio para alquilar ropa, el cual permite conseguir suscripciones tanto para los compradores como para los vendedores | Página web desde la que se puede rentar ropa, o en caso se desee, comprarla por un precio más alto | Página web desde la cual puedes rentar o comprar ropa, y la que además cuenta con suscripciones para sus usuarios        | Servicio que por medio de suscripciones permite a los usuarios rentar distintas ropas según su nivel de suscripcion |
-| **Ventaja competitiva** ¿Qué valor ofrece a los clientes? |   Suscripciones que permiten a los compradores alquilar un número definido de ropa, y a los vendedores obtener mayor ganancia   |  Sí una vestimenta les gusta mucho, pueden elegir comprarla para quedarse con ella permanentemente   |   Suscripción que les permite conseguir una cantidad de items cada mes e intercambiarlos si no les convencen  |  Cuenta con distintas opciones de suscripción con distintos precios y beneficios  |  |
-| **Perfil de Marketing** |                                                              |                                                                    |                                                                                      |                                                                 |
-| **Mercado objetivo** |  Personas que necesitan ropas constantemente para eventos sociales, y gente que desea obtener dinero alquilando sus vestimentas  |    Personas que necesitan alquilar ropa para algún evento o salida con amigos     |   Personas que desean rentar ropa para usarla por un periodo de tiempo y luego cambiarla por otra     |    Personas que desean tener la oportunidad de cambiar su estilo de ropa constantemente, pero que no cuentan con gigantescas cantidades de dinero      |
-| **Estrategias de Marketing** |                Mostrar las ventajas de las suscripciones para usuarios constantes                  |     Ropa de distintas marcas        | Presencia de varias marcas entre su catálogo  |  Contactos con diseñadores reconocidos, y distintos planes de suscripción
-| **Perfil de Producto** |                                                              |                                                                    |                                                                                      |                                                                 |
-| **Productos y Servicios** | Alquiler de ropa | Alquiler y venta de ropa | Alquiler y compra de ropa | Alquiler de ropa |
-| **Precios y Costos** | Varía según la vestimenta o suscripción | Varía según la ropa | Varía entre la ropa, y suscripción desde 60 dólares al mes |  Membresías desde 95 dólares al mes |
-| **Canales de Distribución** | Página web | Página web | Página web | Página web |
-| **Análisis FODA** |                                                              |                                                                    |                                                                                      |                                                                 |
-| **Fortalezas** | Amplia variedad de ropas para toda clase de evento |  Poder comprar la ropa alquilada | Posibilidad de cambiar la ropa alquilada por otra | Poder cambiar la ropa alquilada, y contar con distintas opciones de suscripción |
-| **Debilidades** | Varios vendedores puede pasar desapercibidos entre la gran cantidad de usuarios | Bastante costosa si se desea comprar | Precios muy altos | Los precios pueden llegar a ser demasiado altos |
-| **Oportunidades** | Personas que asisten constantemente a eventos sociales y no desean comprar ropa | Consumidores que necesitan ropa para usar en contadas ocasiones | Personas que buscan cambiar de ropa cada cierto tiempo | Personas que desean cambiar constantemente de ropa y tiene una cantidad de dinero alta |
-| **Amenazas** | Negocios más conocidos y con más prestigio | Negocios con precios más bajos | Negocios que tengan opciones de renta más baratas | Otros negocios con precios más accesible |
-
+ | Nombre              | Stocker                                                                                                                                            | Sage Group                                                                                                                                                                                                                          | Block                                                                                                                                                                  | H&R BLOCK                                                                                                                                                                                                             |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Logo                | ![image](imgs/finance-logo.png)                                                                                                                    | ![image](imgs/sage_business-logo.png)                                                                                                                                                                                               | ![image](imgs/block-logo.jpeg)                                                                                                                                         | ![image](imgs/h&r-logo.png)                                                                                                                                                                                           |
+| Overview            |     Una   aplicación que ofrece una solución completa para los principales procesos que   realiza un microempresa                                  |     App   que  se especializa en pequeñas   empresas, proporcionas un servicio de contabilidad en la nube que contiene   desde la gestión financiera pasando por la administración de inventario hasta   la gestión de nómina       |     Una   plataforma que ofrece soluciones de punto de venta, administración del   inventario y analizar datos de la empresa.                                          |     Es una   herramienta de contabilidad de uso gratuito con las siguientes   características: facturación personalizada, seguimiento de gastos,   contabilidad de doble entrada y reportes financieros detallados    |
+| Ventaja Competitiva |     La ventaja competitiva de   nuestra aplicación se debe a su enfoque centrado en cubrir las necesidades  específicas de las microempresas       |     Su principal ventaja   competitiva se basa en su amplia gama de operaciones que se integran en una   sola plataforma                                                                                                            |      La ventaja competitiva de Square se   encuentra en su enfoque en la simplicidad y la accesibilidad. Con una   interfaz fácil de usar y herramientas intuitivas    |     La ventaja competitiva de   Square se encuentra en su enfoque en la simplicidad y la accesibilidad. Con   una interfaz fácil de usar y herramientas intuitivas                                                    |
 
 ####     2.1.2. Estrategias y tácticas frente a competidores.
 
