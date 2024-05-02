@@ -905,28 +905,46 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 
 ## Conclusiones
-La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables.
+- Durante el desarrollo de Stocker, identificamos claramente las necesidades específicas de gestión empresarial de los pequeños negocios, lo que nos permitió enfocar nuestros esfuerzos en desarrollar soluciones que abordaran estas necesidades de manera efectiva.
+
+- La evaluación de la usabilidad de Stocker resaltó la importancia crítica de diseñar una interfaz intuitiva y fácil de usar. Descubrimos áreas de mejora que podrían optimizar la experiencia del usuario y aumentar la eficiencia operativa.
+
+- Nuestro enfoque en la mejora continua nos permitió iterar constantemente sobre el diseño y la funcionalidad de Stocker. Incorporamos los comentarios de los usuarios y los resultados de las pruebas para actualizar y perfeccionar la aplicación de manera constante.
+
+- Adaptamos ágilmente la aplicación en función de los hallazgos de las evaluaciones de usabilidad, priorizando la eficiencia y la facilidad de uso para garantizar una experiencia óptima para los usuarios finales.
+
+- En resumen, el desarrollo de Stocker no solo se centró en satisfacer las necesidades del mercado, sino también en proporcionar una experiencia del usuario excepcional, lo que nos permitió ofrecer una solución completa y satisfactoria para los pequeños negocios.
 
 
 
 ## Bibliografía
-American Psychological Association. (2020). Publication manual of the American Psychological Association (7th ed.). https://psycnet.apa.org/doi/10.1037/0000165-000
+Jara, D., & Gatica, S. (2020). La gestión de inventarios en las pymes: Un estudio de caso en la industria manufacturera. Estudios de Administración, 47(4), 45-58. Recuperado de http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0186-10422016000300568 
 
+Falcón, J., Jiménez, T., Tinajero, S., & Serna, (Año). Título del documento. Recuperado de http://www.web.facpya.uanl.mx/vinculategica/Vinculategica_3/49%20FALCONE_JIMENEZ_TINAJERO_SERNA.pdf
 
-Bala, D. (24 de mayo de 2021). Alquiler de ropa: Rentar tu propio clóset es la nueva tendencia. Vogue. https://www.vogue.mx/sustentabilidad/articulo/alquiler-de-ropa-de-tu-closet-todo-sobre-la-nueva-tendencia-de-moda
- 
+HubSpot. (2023). El mejor software gratuito para pymes. [Blog de HubSpot España]. Recuperado de https://www.hubspot.es/products/cms/free-blog-maker 
 
-El Ágora. (18 de agosto de 2021). La moda rápida tiñe de contaminación el agua de África. https://www.elagoradiario.com/agua/contaminacion-agua-rios-africa-industria-textil-moda-rapida/
-
-
-Gomez, A. y Fuenmayor, O. (5 de febrero de 2020). La insostenible sostenibilidad del fast-fashion. Seampedia. http://mitimitiestudio.com/20/seamp/la-insostenible-sostenibilidad-del-fast-fashion/
-
-
-Greenpeace. (22 de abril de 2022). Las exportaciones ropa usada terminan en montañas de basura, contaminando el aire y los ríos en África. https://es.greenpeace.org/es/sala-de-prensa/comunicados/las-exportaciones-ropa-usada-terminan-en-montanas-de-basura-contaminando-el-aire-y-los-rios-en-africa/
- 
-
-Organización de las Naciones Unidas. (12 de abril de 2019). El costo ambiental de estar a la moda. https://news.un.org/es/story/2019/04/1454161
+Wolters Kluwer. (2023). Software de gestión para pymes: ¿Qué programa elegir?. [Wolters Kluwer España]. Recuperado de https://www.wolterskluwer.com/en/solutions
 
 
 ## Anexos
-[**Entrega Exposicion TB1 **](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EU4b9t8_q21Etq6ERGfw7JEB5zhYuBgQE8bMf82F7WBAlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2r0e5s)
+Anexo A:
+About the team:
+[anexo](https://drive.google.com/file/d/1PsQF70AEYbeC3bUXOPvt6jvPAQmokqGD/view?usp=sharing)
+ 
+
+
+Anexo B:
+
+
+About the product:
+[anexo](https://drive.google.com/file/d/1fMOsiZvfrDBGjeyo8SgU6-4q1mMiGt_-/view?usp=sharing)
+
+
+
+
+Anexo C:
+
+
+Power point:
+[anexo](https://docs.google.com/presentation/d/1Sx-tq-tG3nIM0DnGoB69n-u7-BE4oeEWAdgrUtDbDSY/edit?usp=sharing)
