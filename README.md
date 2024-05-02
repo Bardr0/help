@@ -997,7 +997,7 @@ En la siguiente sección presentaremos los avances en implementación con relaci
 - ¿Sientes que la aplicación te proporciona una mayor tranquilidad al abordar cuestiones de gestión empresarial?
 - ¿Serías de la opinión de recomendar Stocker Diagnostic a otros gestores de negocios?
 
- #####         **5.3.1. Registro de Entrevistas**
+ #####         **5.3.2. Registro de Entrevistas**
 
 Segmento #1 - Librerías:
  Entrevistado(a) N°1:
@@ -1096,6 +1096,101 @@ Pueblo Libre, Lima
 10:03
 **Resumen:**
 En la entrevista se subrayó la necesidad de un sistema de gestión de ventas que aborde el manejo de productos perecibles y entregas a domicilio, con integración a WhatsApp Business y su catálogo. Se requiere un reporte claro de cuentas en intervalos de tiempo, especialmente semanal, así como la capacidad de ingresar un estimado de duración para productos perecibles, con alertas automáticas para gestionar su venta antes de su vencimiento. Además, se solicitó un reporte claro de las transacciones del negocio, capacitación para el uso del sistema y la capacidad de calcular ganancias para reinversiones, gastos y ganancia neta.
+
+ 
+ #####         **5.3.3. Analisis de entrevistas**
+
+Segmento #1:
+
+
+Hallazgos:
+
+
+- Necesidades de Gestión Integral: La persona entrevistada nos comenta que uno de sus principales problemas es la necesidad de un sistema completo que le permita administrar de manera efectiva tanto el inventario de productos como los aspectos financieros de su empresa. Esto incluye un seguimiento detallado de los ingresos y egresos por períodos específicos, como día, semana y mes.
+
+
+- Facilidades en los Procesos de Pago y Facturación: La persona que fue entrevistada nos comenta sobre la importancia de tener opciones de pagos flexibles para poder realizar pagos en efectivo y en línea.  También nos comentó que es muy importante el tener conexión de manera directa con SUNAT para el tema de facturas.
+
+
+- Experiencia del Usuario y Soporte: El hecho de tener una interfaz fácil de usar y que se adapte a distintos dispositivos, es muy crucial para el buen uso de los usuarios.
+
+
+- Facilidades en los Procesos de Pago y Facturación: Se identifica la necesidad de opciones de pago flexibles que incluyan tanto pagos en efectivo como en línea, así como una conexión directa con la SUNAT para la emisión de facturas y el cumplimiento de las obligaciones tributarias.
+
+
+- Experiencia del Usuario y Soporte: Se destaca la importancia de una interfaz de usuario intuitiva y adaptable a diferentes dispositivos para garantizar una experiencia de usuario satisfactoria. Además, se observa la necesidad de contar con un soporte eficiente para resolver cualquier consulta o inconveniente que pueda surgir durante el uso del sistema.
+
+
+Segmento #2:
+
+
+Hallazgos:
+
+
+- Acceso Rápido a Precios e Ingresos: Se evidencia la importancia de contar con un sistema que permita acceder fácilmente a los precios de productos y calcular los ingresos del negocio de manera rápida y precisa.
+
+
+- Compatibilidad Multiplataforma: Se subraya la necesidad de que el sistema sea compatible con diferentes dispositivos, como móviles, tabletas y computadoras, para garantizar la accesibilidad y la flexibilidad en su uso.
+
+
+- Automatización de Documentos Financieros: Se destaca la necesidad de automatizar la creación y emisión de facturas, boletas y proformas para agilizar los procesos administrativos y financieros del negocio.
+
+
+- Gestión de Relaciones con Proveedores: Se resalta la importancia de tener una función que facilite la gestión de relaciones con proveedores, permitiendo el acceso a información actualizada sobre precios de compra y stock de productos.
+
+
+- Envío de Promociones por Redes Sociales: Se evidencia la necesidad de enviar promociones y ofertas a través de redes sociales, especialmente mediante WhatsApp, para llegar de manera efectiva a los clientes y aumentar las ventas.
+
+
+- Generación de Balances Temporales: Se menciona la importancia de generar balances y reportes financieros según períodos de tiempo específicos, como semanalmente, para realizar un seguimiento detallado de las compras y ventas y tomar decisiones estratégicas basadas en datos precisos.
+
+
+- Capacitación en el Uso del Sistema: Se resalta la necesidad de ofrecer capacitación tanto en línea como presencial para garantizar un uso efectivo y óptimo del sistema por parte de los usuarios.
+
+
+
+Segmento #3:
+
+
+Hallazgos:
+
+
+- Necesidad de Digitalización del Inventario: La persona entrevistada nos comenta que uno de sus desafíos es la falta de digitalización del inventario, dado que, esto trae dificultades para el negocio. 
+
+
+- Gestión Efectiva de Productos Perecibles: Se mencionó la dificultad para llevar un registro de las fechas de caducidad de los productos perecibles y la necesidad de evitar pérdidas asociadas con la falta de seguimiento. 
+
+
+- Mejora en la Gestión de Ventas y Comunicación con los Clientes: Se expresó el interés en contar con un balance de ventas por categoría de productos, lo que proporcionaría una visión clara sobre el rendimiento de cada línea de productos y facilitaría la toma de decisiones estratégicas.
+
+
+- Necesidad de Digitalización del Inventario: Se observa una demanda por la digitalización del inventario, lo que permitiría una gestión más eficiente de los productos y evitaría dificultades operativas para el negocio.
+
+
+- Gestión Efectiva de Productos Perecibles: Se identifica la importancia de llevar un registro preciso de las fechas de caducidad de los productos perecibles para evitar pérdidas y maximizar la rentabilidad del negocio.
+
+
+- Mejora en la Gestión de Ventas y Comunicación con los Clientes: Se destaca el interés en contar con un balance de ventas por categoría de productos, lo que proporcionaría una visión clara del rendimiento de cada línea de productos y facilitaría la toma de decisiones estratégicas. Además, se menciona la necesidad de mejorar la comunicación con los clientes para fortalecer las relaciones comerciales y fomentar la fidelización.
+
+ #####         **5.3.3. Evaluación según heurísticas**
+ - ategoría 1: Soporte al cliente
+Se debe contar con un medio de contacto por el cual los usuarios tengan una forma de comunicación con trabajadores de atención al cliente, en caso tengan algún problema técnico   
+Evaluación:  Proporcionar diferentes medio de contacto para la atención de las usuarios en caso tengan dudas o problemas 
+
+
+- Categoría 2: Instrucciones y guías
+Proporcionar una guía con indicaciones de los diferentes pasos que debe de seguir el usuario para hacer un uso correcto del software
+Evaluación:Proporcionar instrucciones que guíen al usuario en cada paso. Utilizando diferentes formas de instructivo para la comprensión del usuario   
+ 
+- Categoría 3: Control y libertad de usuarios 
+Proporcionar al usuario una forma de personalización total de su espacio de trabajo. Agregando y quitando las categorías que él considere  
+Evaluación: Proporcionar Proporcionar un total control de modificación del espacio al usuario según su preferencias 
+
+
+- Categoría 4: Seguridad y Privacidad 
+Proporcionar un entorno de trabajo seguro en el que solo tenga acceso el usuario y personas asignadas por el 
+Evaluación: Proporcionar seguridad y privacidad en el espacio de trabajo del usuario para que tenga la confianza de colocar datos importantes en el software
+
 
 
 ## Conclusiones
