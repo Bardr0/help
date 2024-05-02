@@ -894,7 +894,7 @@ Sección del Logins:
 
 #####         **5.2.1.6. Services Documentation Evidence for Sprint Review.**
 
- Para la Revisión del Sprint en Stocker, se proporcionará documentación que resuma las historias de usuario completadas durante el sprint, junto con una demostración visual de las características desarrolladas, a través de capturas de pantalla o una presentación en vivo. Además, se presentarán los resultados de las pruebas realizadas durante el sprint, destacando cualquier problema identificado y las soluciones aplicadas. 
+Para la Revisión del Sprint en Stocker, se proporcionará documentación que resuma las historias de usuario completadas durante el sprint, junto con una demostración visual de las características desarrolladas, a través de capturas de pantalla o una presentación en vivo. Además, se presentarán los resultados de las pruebas realizadas durante el sprint, destacando cualquier problema identificado y las soluciones aplicadas. 
  
 #####         **5.2.1.7. Software Deployment Evidence for Sprint Review.**
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa
