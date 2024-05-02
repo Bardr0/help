@@ -999,6 +999,92 @@ En la siguiente sección presentaremos los avances en implementación con relaci
 
  #####         **5.3.1. Registro de Entrevistas**
 
+Segmento #1 - Librerías:
+ Entrevistado(a) N°1:
+**Nombre:** 
+Isabel Arevalo
+**Sexo:** 
+Femenino
+**Edad:**
+61
+**Ubicación del negocio:**
+Pueblo Libre, Lima 
+ Acerca de la entrevista:
+[Link](https://youtu.be/3LFFYc8qpWY)
+**Duración:**
+4:10
+**Resumen:**
+ En la entrevista con el propietario de una librería, se destacó la necesidad de un sistema que permita un control sencillo de los productos y detalles de ingresos y egresos por día, semana y mes. El entrevistado expresó su deseo de tener un sistema que facilite el manejo de pagos tanto en línea como en efectivo, así como la capacidad de registrar gastos como electricidad y agua. Se mencionó la importancia de funciones con voz para búsqueda de productos y ventas, y la conexión directa con la plataforma de SUNAT para facturaciones. Se valoró la interfaz sencilla y didáctica, especialmente para dispositivos móviles, y la posibilidad de soporte por chat y capacitación presencial. Además, se enfatizó la necesidad de un sistema que permita un seguimiento detallado de los ingresos y egresos, facilitando así la toma de decisiones informadas sobre la gestión del negocio.
+
+ Entrevistado(a) N°2:
+**Nombre:**
+Emilia Suarez
+**Sexo:**
+Femenino
+**Edad:**
+27
+**Ubicación del negocio:**
+San Miguel, Lima 
+ Acerca de la entrevista:
+[Link](https://youtu.be/yliMqDHg83Y)
+**Duración:**
+6:40
+**Resumen:**
+En la entrevista, se destacó la necesidad de un sistema de gestión de ventas que respalde las transacciones en caso de indisponibilidad de la plataforma de la SUNAT, permitiendo el envío automático posterior de las ventas para su registro. Además, se requiere la capacidad de gestionar el stock, generar reportes temporales, analizar los horarios de mayor afluencia de clientes, ofrecer una interfaz intuitiva y visualización clara de datos, proporcionar capacitación para usuarios, integrar redes sociales para la gestión de clientes, implementar un programa de fidelización y generar reportes de gastos por cliente para ofrecer promociones personalizadas.
+
+Segmento #2 - Ferreterías:
+Entrevistado(a) N°1:
+**Nombre:**
+Freddy Condori Tacora
+**Sexo:**
+Masculino
+**Edad:**
+45
+**Ubicación del negocio:**
+Breña, Lima 
+Acerca de la entrevista:
+[Link](https://youtu.be/kVTbZlRw8R0)
+**Duración:**
+2:12
+**Resumen:**
+En la entrevista se resaltó la importancia de un sistema de gestión de ventas con facilidad para acceder a precios y calcular los ingresos del negocio, así como la necesidad de que sea multiplataforma, compatible con dispositivos móviles, tabletas y computadoras. Se requiere la capacidad de crear y emitir automáticamente facturas, boletas y proformas, además de brindar a los proveedores la opción de enviar su stock y mantener actualizados sus precios. También se mencionó la necesidad de ofrecer capacitación para el uso del sistema de forma online.
+
+Entrevistado(a) 2:
+**Nombre:**
+George Condori Tacora
+**Sexo:** Masculino
+**Edad:**
+30
+**Ubicación del negocio:**
+Breña, Lima 
+Acerca de la entrevista:
+[Link](https://youtu.be/IoGntsz3J7Y)
+**Duración:**
+2:12
+**Resumen:**
+En la entrevista, se enfatizó la necesidad de un sistema de gestión de ventas que también incorpore funciones de código de barras, registro de precios de productos, emisión de facturas y boletas, así como la capacidad de generar balances según períodos de tiempo, especialmente semanalmente, para el seguimiento de compras y ventas. Se requiere la opción de enviar promociones a través de redes sociales, particularmente por WhatsApp, así como la creación de una lista de precios actualizada. Además, se necesita una función para gestionar relaciones con proveedores, permitiendo el acceso a los precios recientes de compra de productos. Por último, se solicita capacitación presencial para el uso efectivo del sistema.
+
+Segmento #3 - Bodegas:
+ Entrevistado(a) N°1:
+o   Nombre: Sharon Alvarez
+o   Sexo: Femenino
+o   Edad: 54
+o   Ubicación del negocio: Callao, Lima 
+ Acerca de la entrevista:
+o   Link: https://youtu.be/ysFA6OwSMGI
+o   Duración:  4:38
+o   Resumen:
+En la entrevista con el dueño de una bodega, se identificó el principal desafío como la falta de digitalización del inventario, lo que dificulta la escalabilidad del negocio. Se mencionó la dificultad para saber en qué categoría de productos se encuentra más estancada y la necesidad de llevar un registro de las fechas de caducidad de los perecibles para evitar pérdidas. Se deseaban alertas para los perecibles próximos a su caducidad, un balance de ventas por categoría y facilidad para el registro de comprobantes de compra y venta. Además, se buscaba la conexión con un chat grupal para realizar envíos de mensajes promocionales sobre productos rezagados. Se enfatizó la importancia de un sistema que permita una gestión eficiente del inventario y una mejor comunicación con los clientes, lo cual es esencial para mantener la satisfacción del cliente y maximizar las ventas.
+Entrevistado(a) N°2:
+o   Nombre: FernandoAlvarez
+o   Sexo: Masculino
+o   Edad: 29
+o   Ubicación del negocio: Pueblo Libre, Lima 
+ Acerca de la entrevista:
+o   Link: https://youtu.be/8dNPNSlTYik
+o   Duración:  10:03
+o   Resumen:
+En la entrevista se subrayó la necesidad de un sistema de gestión de ventas que aborde el manejo de productos perecibles y entregas a domicilio, con integración a WhatsApp Business y su catálogo. Se requiere un reporte claro de cuentas en intervalos de tiempo, especialmente semanal, así como la capacidad de ingresar un estimado de duración para productos perecibles, con alertas automáticas para gestionar su venta antes de su vencimiento. Además, se solicitó un reporte claro de las transacciones del negocio, capacitación para el uso del sistema y la capacidad de calcular ganancias para reinversiones, gastos y ganancia neta.
 
 
 ## Conclusiones
