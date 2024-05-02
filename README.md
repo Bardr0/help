@@ -1066,24 +1066,35 @@ En la entrevista, se enfatizó la necesidad de un sistema de gestión de ventas 
 
 Segmento #3 - Bodegas:
  Entrevistado(a) N°1:
-o   Nombre: Sharon Alvarez
-o   Sexo: Femenino
-o   Edad: 54
-o   Ubicación del negocio: Callao, Lima 
+**Nombre:**
+Sharon Alvarez
+**Sexo:**
+Femenino
+**Edad:**
+54
+**Ubicación del negocio:**
+Callao, Lima 
  Acerca de la entrevista:
-o   Link: https://youtu.be/ysFA6OwSMGI
-o   Duración:  4:38
-o   Resumen:
+[Link](https://youtu.be/ysFA6OwSMGI)
+**Duración:**  
+4:38
+**Resumen:**
 En la entrevista con el dueño de una bodega, se identificó el principal desafío como la falta de digitalización del inventario, lo que dificulta la escalabilidad del negocio. Se mencionó la dificultad para saber en qué categoría de productos se encuentra más estancada y la necesidad de llevar un registro de las fechas de caducidad de los perecibles para evitar pérdidas. Se deseaban alertas para los perecibles próximos a su caducidad, un balance de ventas por categoría y facilidad para el registro de comprobantes de compra y venta. Además, se buscaba la conexión con un chat grupal para realizar envíos de mensajes promocionales sobre productos rezagados. Se enfatizó la importancia de un sistema que permita una gestión eficiente del inventario y una mejor comunicación con los clientes, lo cual es esencial para mantener la satisfacción del cliente y maximizar las ventas.
+
 Entrevistado(a) N°2:
-o   Nombre: FernandoAlvarez
-o   Sexo: Masculino
-o   Edad: 29
-o   Ubicación del negocio: Pueblo Libre, Lima 
+**Nombre:** 
+FernandoAlvarez
+**Sexo:**
+Masculino
+**Edad:**
+29
+**Ubicación del negocio:**
+Pueblo Libre, Lima 
  Acerca de la entrevista:
-o   Link: https://youtu.be/8dNPNSlTYik
-o   Duración:  10:03
-o   Resumen:
+[Link](https://youtu.be/8dNPNSlTYik)
+**Duración:**
+10:03
+**Resumen:**
 En la entrevista se subrayó la necesidad de un sistema de gestión de ventas que aborde el manejo de productos perecibles y entregas a domicilio, con integración a WhatsApp Business y su catálogo. Se requiere un reporte claro de cuentas en intervalos de tiempo, especialmente semanal, así como la capacidad de ingresar un estimado de duración para productos perecibles, con alertas automáticas para gestionar su venta antes de su vencimiento. Además, se solicitó un reporte claro de las transacciones del negocio, capacitación para el uso del sistema y la capacidad de calcular ganancias para reinversiones, gastos y ganancia neta.
 
 
