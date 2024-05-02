@@ -1015,7 +1015,7 @@ En el siguiente gráfico se mostrará cómo se han desarrollado las actividades 
 
 A continuación se observará el espacio de trabajo que se creó en Trello para un mejor control de los sprints.
 
-![Images](imgs/ .png)
+![Images](imgs/trello-2.png)
 [link](https://trello.com/invite/b/0xk9etW0/ATTI9d01d86d96f4a8b695b650019d243bd6CDE61684/sprint-backlog-2)
 
  #####         **5.2.1.10. Development Evidence for Sprint Review.**
@@ -1029,6 +1029,21 @@ En la siguiente sección presentaremos los avances en implementación con relaci
 | StockerUPC/Stocker | main | 0af8b66 | Update client-section.component.vue | Se agrego una nueva descripción. | 01/05/2024 |
 | StockerUPC/Stocker | main | 6f2a63b | Update landing.component.vue | Se agregó las dependencias necesarias para el buen funcionamiento | 01/05/2024 |
 | StockerUPC/Stocker | main | 6b536ee | Update index.js | Se agregó nuevos 'paths' para el direccionamiento de nuevas rutas | 01/05/2024 |
+
+ #####         **5.2.1.11. Development Evidence for Sprint Review.**
+ Lo que logramos alcanzar en este sprint es la definición y correcto despliegue de nuestro startup y Web application, Esto se logró luego de  una exhaustiva investigación que realizamos    respecto a los puntos necesarios para un eficiente desarrollo del trabajo.
+
+Tras recopilar y analizar toda la información obtenida, hemos tomado decisiones estratégicas. Esto nos ha permitido determinar cuál sería la mejor estrategia a seguir para lanzar una landing page que sobresalga entre la competencia.
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-h.png)
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-k.png)
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-l.png)
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-m.png)
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-n.png)
+
+
+ #####         **5.2.1.12. Services Documentation Evidence for Sprint Review.**
+Para la Revisión del Sprint 2 en Stocker, se proporcionará documentación que resuma las historias de usuario completadas durante el sprint, junto con una demostración visual de las características desarrolladas, a través de capturas de pantalla o una presentación en vivo. Además, se presentarán los resultados de las pruebas realizadas durante el sprint, destacando cualquier problema identificado y las soluciones aplicadas. 
+
 
 ### 5.3. Validation Interviews
 
