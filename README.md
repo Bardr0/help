@@ -893,16 +893,39 @@ Sección del Logins:
 
 
 #####         **5.2.1.6. Services Documentation Evidence for Sprint Review.**
-
 Para la Revisión del Sprint en Stocker, se proporcionará documentación que resuma las historias de usuario completadas durante el sprint, junto con una demostración visual de las características desarrolladas, a través de capturas de pantalla o una presentación en vivo. Además, se presentarán los resultados de las pruebas realizadas durante el sprint, destacando cualquier problema identificado y las soluciones aplicadas. 
- 
+
+  
 #####         **5.2.1.7. Software Deployment Evidence for Sprint Review.**
-Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa
+En el siguiente gráfico los procesos realizados en relación con Deployment durante este Sprint. Abarcando actividades de creación de cuentas, configuración de recursos en cloud providers, configuración de proyectos de desarrollo para integración o automatización de labor de Deployment, entre otro
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-a.png)
+
+Cuando entramos a la página, podemos ver un fondo estilo video, en la que podemos apreciar al lado superior izquierdo, el logo de la marca y también la bienvenida a la página, en la que podemos ver opciones que al darle click, podremos acceder a ellas.
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-b.png)
+
+Al hacer clic en “Cuenta”, inmediatamente entramos a este apartado en el que podremos registrarnos a través de un nombre de usuario, correo electrónico y la contraseña.
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-c.png)
+
+Cuando hacemos clic en “Nuestra Propuesta”, la página baja hasta ese apartado, mostrándonos la propuesta principal de Stocker, además de un subtítulo creativo y la explicación correspondiente. 
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-d.png)
+
+Al hacer click en “Información general”, la página muestra un despliegue sobre cómo está diseñado, mostrando que se mostrará los ingresos y egresos de manera sencilla.
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-e.png)
+
+En el apartado de Nuestros Servicios, aparecerá todo lo que nuestra página ofrece hacia los clientes, para que de esta manera, tengan una mejor visión de todo lo que podremos dar.
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-f.png)
+En la pantalla de inicio, al hacer clic en el rectángulo “Contáctanos”, este inmediatamente nos trasladará al final del landing page, en el que se podrá enviar un mensaje a través de un corto formulario para llenar datos. (Nombre, Correo y Mensaje).
+
+
+
+
+
 
 #####         **5.2.1.8. Team Collaboration Insights during Sprint.**
-![Team](Images/Commits.png)
-![Team](Images/Commits2.png)
+En el siguiente gráfico se mostrará cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
 
+![Team](Imgs/Team-Collaboration-Insights-during-Sprint.png)
+ 
 
 ## Conclusiones
 - Durante el desarrollo de Stocker, identificamos claramente las necesidades específicas de gestión empresarial de los pequeños negocios, lo que nos permitió enfocar nuestros esfuerzos en desarrollar soluciones que abordaran estas necesidades de manera efectiva.
@@ -929,13 +952,13 @@ Wolters Kluwer. (2023). Software de gestión para pymes: ¿Qué programa elegir?
 
 ## Anexos
 Anexo A:
+
 About the team:
 [anexo](https://drive.google.com/file/d/1PsQF70AEYbeC3bUXOPvt6jvPAQmokqGD/view?usp=sharing)
  
 
 
 Anexo B:
-
 
 About the product:
 [anexo](https://drive.google.com/file/d/1fMOsiZvfrDBGjeyo8SgU6-4q1mMiGt_-/view?usp=sharing)
@@ -944,7 +967,6 @@ About the product:
 
 
 Anexo C:
-
 
 Power point:
 [anexo](https://docs.google.com/presentation/d/1Sx-tq-tG3nIM0DnGoB69n-u7-BE4oeEWAdgrUtDbDSY/edit?usp=sharing)
