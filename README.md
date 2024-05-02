@@ -1041,8 +1041,28 @@ Tras recopilar y analizar toda la información obtenida, hemos tomado decisiones
 ![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-n.png)
 
 
+
+
  #####         **5.2.1.12. Services Documentation Evidence for Sprint Review.**
 Para la Revisión del Sprint 2 en Stocker, se proporcionará documentación que resuma las historias de usuario completadas durante el sprint, junto con una demostración visual de las características desarrolladas, a través de capturas de pantalla o una presentación en vivo. Además, se presentarán los resultados de las pruebas realizadas durante el sprint, destacando cualquier problema identificado y las soluciones aplicadas. 
+
+
+ #####         **5.2.1.13. Software Development Evidence for Sprint Review.**
+Cuando le damos cuando le damos “Prueba ahora” de empieza ahora nos mandaría al apartado de la web application:
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-h.png)
+En el primer apartado podemos ver en la parte del dashboard de nuestra web application donde tenemos las sales views y Inventory summary, purchase overview, product summary, sales & purchase y order summary que serían datos sobre todo nuestro inventario.
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-k.png)
+El siguiente parte es el inventario, donde veremos toda la información de nuestro inventario, overall inventory y top selling stock
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-l.png)
+El siguiente apartado es el de reportes donde se ve toda la información en forma de reportes de nuestro inventario
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-m.png)
+Apartado de proveedores donde se ve todoa la información de los proveedores, como su nombre, el producto, su numero de contacto, correo electrónico, tipo y si está en camino el producto.
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-n.png)
+En el apartado de órdenes se ve la información de las órdenes que realiza el usuario.
+
+ #####         **5.2.1.14. Team Collaboration Insights during Sprint**
+En el siguiente gráfico se mostrará cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
+![Images](imgs/Team-Collaboration-Insights-during-Sprint-2.png.png)
 
 
 ### 5.3. Validation Interviews
